@@ -1,0 +1,132 @@
+
+
+INI File Options
+-----------------
+[ ] UI-Friendly Cracking (Idle=Y)
+
+Remediation Options
+-------------------
+[ ] Disable Accounts
+[ ] Force Password Change
+[ ] Select
+	[ ] Cracked
+	[ ] Weak (add system option of 'weakness threshold'?)
+	[ ] Expired
+
+
+Crack Configuration Options
+----------------------------
+
+[X] Dictionary Crack Enabled
+	[X] Dictionary List
+	XXX (REMOVED) Crack NTLM Passwords
+	[X] Intensity Level ( Quick <-> Intense )
+	[X] Character Set
+
+XXX (REMOVED) Precomputed *
+
+[X] Brute Force Incremental
+	[X] Language
+	XXX (REMOVED) Crack NTLM Passwords
+	[X] Brute force password min/max character count
+	[X] Character Set
+
+[X] Character set editor
+	[x] Code Page ASCII
+	[X] Unicode
+
+Wizard Options (pluggable by plugins?)
+---------------
+
+[ ] Retrieve From Local Machine
+[ ] Retrieve From Remote Machine
+[ ] Retrieve From SAM/SYSTEM backup
+XXX (REMOVED) Retrieve From Network Sniffer
+
+[ ] Quick Password Audit (Quick Dictionary)
+[ ] Common Password Audit (Intense Dictionary)
+[ ] Strong Password Audit (Intense Dictionary + Intense Incremental)
+[ ] Custom
+	[ ] Perform Quick Dictionary Attack 
+	[ ] Perform Intense Dictionary Attacks 
+	[ ] Perform Brute Force Incremental Attack
+		(charset by language, probably switch to "Add Dictionary Set" mechanism with localization)
+ 	XXX (REMOVED) Perform Precomputed Hash Attacks 
+
+[ ] Display passwords when audited
+[ ] Display encrypted password hashes
+XXX (REMOVED) Display how long it took to audit each password
+XXX (REMOVED) Display auditing method
+XXX (REMOVED) Make visible notification when auditing is done
+
+[ ] Which Report to Generate
+
+[ ] Run Now or Schedule for Later
+
+[ ] Wizard Summary
+XXX (REMOVED) 'save these settings as session defaults'
+
+
+
+DEFAULT INI SETTINGS
+---------------------
+
+WORDLIST MODE:
+
+[X] Character Set
+
+	Default Filter			Rules
+LM:	List.External:LanMan		List.Rules:Wordlist
+LMNT:  	(none)				List.Rules:Wordlist + List.Rules:NT
+NT:	(none)				List.Rules:Wordlist
+
+[X] Basic mode switches:
+	[X] Simple wordlist rules (Verbatim)
+	[X] Fast wordlist rules (Hybrid)
+	[X] Thorough wordlist rules (Hybrid Plus)
+
+[ ] Switches to enable 'advanced mode'
+
+[X] Advanced mode provides:
+	[X] External filter overrides (filter_alpha, filter_digits, keyboard, custom, etc)
+	[X] Custom List.Rules:Wordlist
+
+
+INCREMENTAL MODE:
+
+[X] Min Chars
+[X] Max Chars
+[X] Character Set
+
+---------------------------------------------------------------------------
+NOTES:
+
+
+So.. should the default techniques be proper for the hash types?
+
+No, just do a quick hash verify before hitting start that checks LM only or NTLM only or both and informs the user of what is going to happen
+
+making charset:
+	../run/john -make-charset=../run/ascii.chr -pot:rockyou.ansi.pot -ext:filter_ascii
+
+
+Questions to ask:
+What do you think about https://code.google.com/p/gpuocelot/
+
+
+default john options
+--use-callbacks 	(.. add this, and some callback registry to the dll version)
+--crack-status
+--nolog
+--
+--show
+(--session[=NAME])
+(--restore[=NAME])
+
+dictionary mode:
+#--rules[=SECTION]
+--external=MODE
+
+brute mode:
+--incremental[=MODE]
+

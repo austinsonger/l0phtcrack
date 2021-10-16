@@ -1,0 +1,9 @@
+Release Candidate 1
+-------------------
+
+Hello Beta Testers!
+This is the first BETA build of LC7.
+
+Please report issues via email to lc7beta@l0phtcrack.com
+
+Thanks, and happy testing!

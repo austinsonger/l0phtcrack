@@ -1,0 +1,12 @@
+Enhancements:
+CSV as an output option for scheduled tasks
+Unix Import: SSH support 
+Reports: Implement pluggable reports
+Reports: Implement Exporters
+Implement Wizard
+
+Testing: 
+Pwdump file testing
+
+
+		

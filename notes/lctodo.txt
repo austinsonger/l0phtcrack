@@ -1,0 +1,219 @@
+Release Criteria
+----------------
+
+[X] Initial page for when app starts to open a session if one is not being opened directly
+[X] Add 'core' plugin to lc7password that does the session handler registration
+[X] Refactor 'Session' object
+[X] Extract lc7password from lc7base
+[X] Session New/Open/Save/Close logic
+[X] Workqueues need to have factories registered in core
+[X] Ensure session modifications call ReportSessionModified
+[X] FIX ACCOUNTSLIST CONTEXT MENU
+[X] Workqueues need to use acquire mutex internally
+[X] Refactor 'work queue widget' to be generic
+[X] Modify ExecuteCommand so it passes in a ExecutionControl object, allowing a simple place to check for pause/cancel presses so that most code doesnt need to look at the work queue widget. Try to abstract ilc7workqueuewidget from the rest of the system if possible. This should also pass back 'cancelled' or 'paused' status rather than using a config parameter.
+[X] Better status and progress bar reporting for cracking
+[X] Debug Crack Stop and Pause/Resume logic
+	[X] Stop/Start
+	[X] Stop/Save/Load/Start
+[X] Extract JTRDLL into its own project and publish
+[X] Modify Main Menu to have tab groups
+[X] Crash dump sending (Windows)
+[X] Task Scheduler (Windows)
+	[X] Schedule Tasks
+	[X] Run Tasks
+	[X] Generate session file output
+	[X] Finish running-task attach
+[X] Ensure everything that creates temp files goes through linkage/controller to do it so we clean up good.
+[X] Version all serializers
+[X] Ensure all images have 2x assets
+[X] Unified preset management
+[X] Brute Force
+	[X] Custom character sets
+[ ] Import over RDP
+	[X] Scripted
+	[ ] Remote-app based
+	[ ] Auto-configure remote-app with remote-registry (check psexec type functionality too see if that would  work)
+
+[.] Auto-update mechanism and release script
+	[X] Updater shouldn't need to download the whole thing every time
+	[.] Finish push tool/signer
+	[ ] Push plugin(s)
+	[X] Push base distribution
+	[ ] Test signatures
+	[X] Auto-update detection dialog
+	[X] Config to disable auto-update
+	[X] update version number and tag in program
+	[X] update version number and tag in installer
+	[X] make bump version script in release tool so we dont have to do this by hand any more
+	
+[X] Multiple hash types in single account list
+	[X] Targeting specific hash type(s) during cracking pass
+		[X] Make advanced hashtype targeting hidden unless you enable advanced character sets in brute
+	[X] Column to show hash type
+	[X] Registrable hash types for plugins (jtr registers supported hashes, for example, so does importers, etc.)
+[X] Status bar for accounts page with statistics
+
+[.] Add user info to system
+	[ ] windows importer
+	[X] unix importer
+	[ ] jtr/single
+	
+[ ] Remediation
+	[ ] Windows Account remediation (lockout, disable, expire)
+	[ ] Linux Account remediation (lockout, disable, expire)
+	[ ] Solaris Account remediation (lockout, disable, expire)
+	[ ] FreeBSD Account remediation (lockout, disable, expire) 
+	[ ] AIX Account remediation (lockout, disable, expire)
+
+[ ] Expand on historical data api, ensuring reports will have something meaningful
+	[ ] Save historical data for all queue executions
+	[ ] Tag historical data on a per session basis
+[ ] Extract lc7base gui reports into lc7reports
+[ ] Extract lc7passwordreport from lc7reports
+[ ] Reports should allow csv, xml, and html export, as well as PDF
+
+[ ] Change reports to be 'content pluggable'
+	[ ] Report section chooser
+	[ ] Title Page content plugin
+	[ ] Password Audit content plugin (moves into lc7password)
+	[ ] Section/Page rearrange
+	[ ] Print/save report
+	[ ] Share/send report
+	
+[.] Wizard
+	[X] Add wizard to lc7 startup dialog
+	[X] Make import/jtr/report wizard pipeline in lc7wizard plugin project that depends on other plugins
+	[X] Storyboard the wizard
+	[ ] Add access to import/audit config dialogs via command interface
+	[ ] Make wizard depend on importunix (and any other plugins) in manifest
+
+[ ] Licensing system
+	[ ] Extract license requirements from LC6
+	[ ] Key generator
+		[ ] Register new components by UUID
+	[ ] License key storage and testing
+	[ ] Trial
+	[ ] Professional
+	[ ] Admin
+	[ ] Enterprise
+	[ ] Consultant
+
+[.] Windows File Import
+	[ ] All test hashes
+	[X] pwdump format LM:NTLM
+	[ ] generated NTLM only
+	[ ] generated LM only
+	[ ] generated LM CR v1
+	[ ] generated NT CR v1
+	[ ] generated LM/NT CR v1
+	[ ] generated LM CR v2
+	[ ] generated NT CR v2
+	[ ] generated LM/NT CR v2
+
+[ ] Windows SAM/System Import
+	[ ] Pulled from LC6
+	[ ] Tested
+
+[.] Unix File Import
+	[ ] All test hashes
+	[.] Shadow File
+		[.] Linux
+		[X] 	Ubuntu
+		[ ] 	Redhat
+		[ ] 	Debian
+		[ ] FreeBSD
+		[ ] OpenBSD
+		[ ] Solaris
+		[ ] AIX	
+	[ ] PWdump File
+	[ ] AIX Password File
+
+[ ] Unix SSH import (w/ su or sudo)
+	[ ] Linux
+	[ ] 	Ubuntu
+	[ ] 	Redhat
+	[ ] 	Debian
+	[ ] FreeBSD
+	[ ] OpenBSD
+	[ ] Solaris
+	[ ] AIX
+	[ ] SU
+	[ ] SUDO
+	[ ] Root Login
+	[ ] Password-based
+	[ ] Public Key-based
+	[ ] System Default SSH Binary
+
+[X] Add TR debugging to entire system where appropriate
+[X] Make better dictionaries
+[ ] Documentation
+[ ] Website
+	
+To Do Later
+------------
+
+[.] Plugin loader/installer/remover page for system tab
+	[X] Plugins can not be changed while session is open
+	[X] Test dependencies system
+		[X] Cyclic dependency check
+	[.] Test various forms of busted plugin
+		[.] Activation Failures
+	[.] Install/remove
+	[X] Signature verification
+	[X] Move system tab to main GUI so we can use it without plugins installed
+[ ] Better progress time estimates over multiple passes of differing complexity...
+[ ] 'Machines' tab with definitions for boxes to do import/remediate from
+[ ] Mac SSH import (w/ su or sudo)
+	[ ] Password
+	[ ] Public Key
+	[ ] System Default SSH Binary
+[.] Create LC7 Public API
+[ ] 	Add license to all header files
+[ ] Add author/copyright information to all source files
+[ ] Store page for system tab
+[ ] Mac Port
+	[ ] Mac local dump
+	[ ] Mac task scheduler
+	[ ] Port of SMB-based dumper to Mac (Samba?)
+	[ ] Crash Dump Sending
+[ ] Linux Port
+	[ ] Linux local dump
+	[ ] Linux task scheduler
+	[ ] Port of SMB-based dumper to Linux/Samba
+	[ ] Crash Dump Sending
+[ ] Wireshark Plugin (possibly community generated!)
+[ ] Network Analysis Plugins
+	[ ] Nmap Plugin
+	[ ] Nessus Plugin
+	[ ] ???
+	
+
+report types
+------------
+
+* Customize with logo and name
+
+
+[ ] Executive Summary
+	* start time, end time, duration, report generation time
+
+	* machines imported from, domains
+	* # accounts total
+	* # accounts cracked, # uncracked, percentage
+	* total expired
+	* total disabled
+	* average password complexity
+	* min/average/max crack time
+
+[ ] Detailed Report
+	* total cracked vs time
+	* total forced disabled
+	* total forced change
+	* Breakdown by domain
+
+[ ] Remediation Report
+	* What actions were taken on the accounts
+
+[ ] Historical Data Report
+	* Select previous reports to compare against

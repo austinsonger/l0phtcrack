@@ -1,0 +1,32 @@
+#ifndef __INC_APPVERSION_H
+#define __INC_APPVERSION_H
+
+// EXTERNAL: These are modified by an external script
+#define VERSION_NUMBER "7.2.0"
+#define VERSION_DATE "20211014"
+#define VERSION_TIME "102851"
+// END_EXTERNAL
+
+#if (PLATFORM == PLATFORM_WIN64) 
+	#define PLATFORM_NAME "Win64"
+	#if defined(BETA) && BETA
+	#define VERSION_STRING VERSION_NUMBER " Win64 BETA " VERSION_DATE VERSION_TIME
+	#elif defined(_DEBUG)
+	#define VERSION_STRING VERSION_NUMBER " Win64 DEBUG " VERSION_DATE VERSION_TIME
+	#else
+	#define VERSION_STRING VERSION_NUMBER " Win64"
+	#endif
+#endif
+
+#if (PLATFORM == PLATFORM_WIN32)
+	#define PLATFORM_NAME "Win32"
+	#if defined(BETA) && BETA
+	#define VERSION_STRING VERSION_NUMBER " Win32 BETA " VERSION_DATE VERSION_TIME
+	#elif defined(_DEBUG)
+	#define VERSION_STRING VERSION_NUMBER " Win32 DEBUG " VERSION_DATE VERSION_TIME
+	#else
+	#define VERSION_STRING VERSION_NUMBER " Win32"
+	#endif
+#endif
+
+#endif

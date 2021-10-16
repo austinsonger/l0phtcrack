@@ -1,0 +1,8 @@
+Bugs:
+
+Create new CHR file crashes
+Exhaustive brute force is slow
+'Fast' Brute force doesn't work
+Save of paused session then open failed to show accounts or resume
+GPU Util/Temp/Fan display wrong
+Calibration for multiple GPUs for LM and NTML not correct.

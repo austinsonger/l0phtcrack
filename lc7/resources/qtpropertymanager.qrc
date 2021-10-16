@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="QtPropertyManager">
+    <file>checkbox_true.png</file>
+	  <file>checkbox_false.png</file>
+    <file>checkbox_true@2x.png</file>
+    <file>checkbox_false@2x.png</file>
+  </qresource>
+</RCC>

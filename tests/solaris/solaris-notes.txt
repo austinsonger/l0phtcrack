@@ -1,0 +1,35 @@
+Solaris:
+
+Users:
+user1,user2,user3,user4,user5,user6
+expires, neverexp, expired, disabled, lockout, nologin, nopass
+
+Set empty password
+passwd -d <nopass username>
+
+Turn on expiration (100 days):
+passwd -x 100 <expires username>
+
+Turn off expiration
+nothing required
+
+Set to passwd expired/must change:
+passwd -f <expired username>
+
+Set to disabled:
+manually set password hash to UP in /etc/shadow
+
+Set to lockedout:
+passwd -l <lockedout username>
+
+Set to no-login:
+usermod -s /bin/false nologin
+
+
+LK - Locked
+NL - Nonunix auth
+NP - No password
+PS - Probably has valid password?
+UN - Unknown
+UP - Not Activated
+

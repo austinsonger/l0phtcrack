@@ -1,0 +1,9 @@
+[submodule "external/libssh2"]
+	path = external/libssh2
+	url = https://github.com/libssh2/libssh2.git
+[submodule "external/hashcatdll"]
+	path = external/hashcatdll
+	url = git@gitlab.com:l0phtcrack/hashcatdll.git
+[submodule "external/jtrdll"]
+	path = external/jtrdll
+	url = git@gitlab.com:l0phtcrack/jtrdll.git

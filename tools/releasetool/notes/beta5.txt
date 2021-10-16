@@ -1,0 +1,11 @@
+Enhancements:
+Enable AVX2 in JTR 
+Re-layout audit options and import options
+GUI for Unix SSH import (incomplete)
+
+Bugs Fixed:
+Resume crashes
+LANMAN cracking completes but display not updated
+No session open message should say "open or create new"
+OpenCL Error with NT GPU cracking
+

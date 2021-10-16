@@ -1,0 +1,50 @@
+
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.1.3
+
+Enhancements
+------------
+Task Scheduler support updated to Version 2.
+Support for >2GB wordfiles
+Support for Windows 2019 NTDS.DIT files
+Updated documentation for NTDS.DIT import with better dumping method
+Significantly faster NTDS.DIT importing
+Support for Windows 2019 Remote Import with AD Replication
+
+Changes
+-------
+Windows XP support for the LC7 GUI is now deprecated. Remote hash dumps from Windows XP systems still work, though.
+OpenSSL and other core libraries updated to latest versions.
+Empty password hashes (not the same thing as blank passwords!) show up as greyed out and do not count toward 'crack passwords'
+Accounts that are partially cracked only highlight the hashes that are cracked or partially cracked, so it's easier to tell what work is left to do.
+Removed python support, not worth including, saving some space.
+
+Bugs Fixed
+----------
+Task Scheduler works again on Windows 10
+Automatic updates now work again
+Support for certain laptop NVidia GPUs is now fixed
+Fix for "Insufficient work" error for mask mode on LM Hashes
+GPU hash cracking of NT hashes would occasionally fail, including some calibration and self-test failures
+Reverted to ESENT implementation of NTDS importer
+
+Hashes
+------
+
+lc7setup_v7.1.3_Win64.exe
+MD5 Digest:     5219d393083abaf255f5946999fa851c
+SHA256 Digest:  1f591db6d98b19db6ae5f95a9600aba48eb81fa18c68f36336664e9ad31e6bba
+
+lc7update_v7.1.3_Win64.exe
+MD5 Digest:     4b228253431a4d9d9cd7c65d9fbb12b5
+SHA256 Digest:  e125b1c5c7a2b4c905143253ed7b128d8cbd2416464382fae367af8e4b7df5bd
+
+lc7setup_v7.1.3_Win32.exe
+MD5 Digest:     da804ab9d08643d14c3abee510818278
+SHA256 Digest:  d4d15fe1aff8d5e08e19fd3646582d8ce5e689822cb53285ea9959d7117152ad
+
+lc7update_v7.1.3_Win32.exe
+MD5 Digest:     5cf5f5e35f6dbcd2090b4ad155250b75
+SHA256 Digest:  e61228f7ab790137d67490a0b28821ad75fe485f733e29aea744953718ba220e

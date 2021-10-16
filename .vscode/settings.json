@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "xiosbase": "cpp",
+    "xlocale": "cpp",
+    "xlocnum": "cpp",
+    "system_error": "cpp",
+    "xmemory0": "cpp"
+  },
+  "cmake.configureOnOpen": false
+}

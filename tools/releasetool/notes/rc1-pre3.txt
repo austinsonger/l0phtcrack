@@ -1,0 +1,11 @@
+Enhancements:
+Adjust Icons in UI
+Better color theming code
+UI dims inactive program area during modal dialogs for focus and clarity
+Help panel renamed to 'documentation' to avoid name conflict with 'help' toggle on the menu bar.
+Help added for system and 'documentation' panels
+
+Bugs:
+Add password reset button in licensing
+Reactivation password dialog causes crash
+Summary All Account etc numbers don't reset on new imports

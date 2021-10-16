@@ -1,0 +1,40 @@
+
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.1.1
+
+Enhancements
+------------
+
+Updated JtR core to latest upstream.
+Added new dictionary cracking rulesets.
+Enabled GPU dictionary cracking. Still slow, but better than plain CPU in many cases. Next update will improve speed.
+Added 'Don't display cracked passwords' option, displays passwords with '*' character.
+
+Bugs Fixed
+----------
+Tested successfully on 2x NVidia GTX2080Ti setup.
+Disable 'strong' crack in wizard unless you have a GPU, since it will always perform suboptimally without one.
+Improved remote agent authentication.
+
+
+Hashes
+------
+
+lc7setup_v7.1.1_Win64.exe
+MD5 Digest:     bfb440e291a3b5807aeb23a82bfd754c
+SHA256 Digest:  6000b2911198f87f9440e207ab2ef37df033fdcd32375cc4f4c45fb28dc75842
+
+lc7update_v7.1.1_Win64.exe
+MD5 Digest:     3b01e09f287f02d6a9c2d4bea48db105
+SHA256 Digest:  8976ee02390eb90c018343dbd42f95967a0d70065c5fbb3bc976ad6feef6a896
+
+lc7setup_v7.1.1_Win32.exe
+MD5 Digest:     1003b83bd3851bcc766610f196657b8a
+SHA256 Digest:  76689dee2e25e71aaa8a072db0e82e2603d0cb424b16c8cccc5027215149a3ce
+
+lc7update_v7.1.1_Win32.exe
+MD5 Digest:     01a9ec7286bc27566cc436e1142f6929
+SHA256 Digest:  2756fe383f9259f6c446f254d62b326b3892c7417ebd8fc6cf8876ff6f514450
+

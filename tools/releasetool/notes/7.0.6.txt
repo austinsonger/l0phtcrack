@@ -1,0 +1,29 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.6
+
+Bugs Fixed
+----------
+
+If WMI is disabled LC7 will crash upon startup.
+
+
+Hashes
+------
+
+lc7setup_v7.0.6_Win64.exe
+MD5: 033e71b7f36c9a8f6dff33509ff3ff52bbf93890
+SHA1: 033e71b7f36c9a8f6dff33509ff3ff52bbf93890
+
+lc7update_v7.0.6_Win64.exe
+MD5: fa6cec78cbde4c7cf152a3d865337468
+SHA1: 302510b25b63fe3e1507fd9ed3c40e2dd6ce07f9
+
+lc7setup_v7.0.6_Win32.exe
+MD5: 78be5bf23d85103a8975abbab3083b84
+SHA1: 89e48a3fcb9f28a4f20c031623ccc3aa53dc4837
+
+lc7update_v7.0.6_Win32.exe
+MD5: dbd100912a865d171470fc25d140568c
+SHA1: 559643dbc7f0c2fb96be7f8f422640b4f1abda32

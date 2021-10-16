@@ -1,0 +1,97 @@
+
+root:
+	password = 8QLHZgijnErFc
+	lastupdate = 1444878535
+
+daemon:
+	password = *
+
+bin:
+	password = *
+
+sys:
+	password = *
+
+adm:
+	password = *
+
+uucp:
+	password = *
+
+guest:
+	password = *
+
+nobody:
+	password = *
+
+lpd:
+	password = *
+
+dfrench:
+	password = 56Xedfju9vUYU
+	lastupdate = 1358624498
+
+qrin:
+	password = .7DMNz99oomq6
+	lastupdate = 1444878535
+
+test:
+	password = {ssha512}06$RlNuxzssmQ5gouf3$7Cy5BTFAT2tYJPyOCIIxwZV7IkRyufCjimYoLTSVFnCJCA6hmjqjMm6FkAqedL.lisuvv0q3TlTy6qnuBRbV..
+	lastupdate = 1444882452
+
+crypuser:
+	password = hT5yOwGFkWCm2
+	lastupdate = 1444957999
+
+md5user:
+	password = {smd5}v3OLhPJ2$fzo2pikSCI9QGC5oae9EC/
+	lastupdate = 1444958036
+
+s1user:
+	password = {ssha1}06$p7XFMoYTRZiWye3f$UeY84bcDTF85BgNLWQLQE/y4.Iw
+	lastupdate = 1444958074
+
+s256user:
+	password = {ssha256}06$E8HS8ITYtZYYS5iQ$iVkxtSJGsroKl2EhsQw1fhhLINZGanhnjMzvw9tQ.Mt
+	lastupdate = 1444958112
+
+s512user:
+	password = {ssha512}06$bXIaC7M1jYkH5kc7$ehPdu8vJd87Yp6.d4eUgBdmzuCSli6JiCq7g3w.DpZEeZkJlxt4Jzqqpnr9pF8JT3YADqHiAOMCD557nAIRM..
+	lastupdate = 1444958489
+
+sblouser:
+	password = {sblowfish}08$sgAGP7mXZBMa7Jr3mMrUr.$4poWUdeN49slzebWMhaU/gSutPWWaY5m
+	lastupdate = 1444958525
+
+expires:
+	password = {ssha512}06$1r1zf8AVdpGX177Y$NIjbn9rWaWpVXuFU4VxGwGrsfHU4EqCD.cf3OQxV1B2TqFJI8ItOSuST8GGx6VsMBpVWNFdEvjwxqb2sTJpM..
+	lastupdate = 1444958573
+
+neverexp:
+	password = {ssha512}06$.7WzWHrw5EeqhGg7$PVJxbE79T6JuV4KjYfh5UguBy5AAqu.bXwm4KzRzTq7JwWGF4HMvtKOLye4uQ5Runj2IvJp2Rb/Pm..RQWmP..
+	lastupdate = 1444958582
+
+expired:
+	password = {ssha512}06$50IcAmCzD/Sy4hhE$H/GHnQMEuGhwEewb63Zpq29Is8FisRcYHILocroRf7oZdH5V3PUoTLOfI/eFwS7hAUI6qwSm3TOPFB92mHuL..
+	lastupdate = 1444958600
+	flags = ADMCHG
+
+lockout:
+	password = {ssha512}06$lkxhiMs6RTra4911$rnpmuR5B9Szkh8JP1IUaXX0qYyQE9mgqf/reHvjHNIvv.Tydm1XYFn4uMoSJSI/iZd3XoV/BgyXK/Vik12Jz..
+	lastupdate = 1444958649
+
+nologin:
+	password = {ssha512}06$1.X45KLNaK.fu3Zb$.bjmh.a2K9kywv/LAa.SUdeQX7I5kF.tHPn.WNOF0/dB3sM4Bdrm3h6aykH4mhtKU1Ll4iOJTbm0qo6z7x42..
+	lastupdate = 1444958719
+
+nopass:
+	password = 
+	lastupdate = 1444960411
+	
+disabled:
+    admin = false
+    
+disable2:
+    password = {ssha512}06$1.X45KLNaK.fu3Zb$.bjmh.a2K9kywv/LAa.SUdeQX7I5kF.tHPn.WNOF0/dB3sM4Bdrm3h6aykH4mhtKU1Ll4iOJTbm0qo6z7x42..
+	admin = false
+    expires = 1014000015

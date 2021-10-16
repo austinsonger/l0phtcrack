@@ -1,0 +1,21 @@
+{
+    "authorName": "L0pht Holdings, LLC", 
+    "dependencies": [
+        {
+            "internalName": "lc7jtr{9846c8cf-1db1-467e-83c2-c5655aa81936}", 
+            "minInternalVersion": 0
+        }, 
+        {
+            "internalName": "lc7importwin{17324176-3fa7-4c1a-9204-3f391b6b3599}", 
+            "minInternalVersion": 0
+        }
+    ], 
+    "displayName": "LC7 Wizard Plugin", 
+    "displayVersion": "7.2.0 (20211014102851)", 
+    "internalName": "lc7wizard{43b6f871-7951-4b81-814b-f41ef64c993b}", 
+    "internalVersion": 57, 
+    "isSystemLibrary": true, 
+    "operatingSystem": "win32", 
+    "releaseDate": "2021-10-14T10:28:51.477000", 
+    "updateURL": "https://s3.amazonaws.com/updates.lc7/lc7/win32/lc7wizard{43b6f871-7951-4b81-814b-f41ef64c993b}"
+}

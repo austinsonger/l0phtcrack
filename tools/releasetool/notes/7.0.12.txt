@@ -1,0 +1,31 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.12
+
+Bugs Fixed
+----------
+
+Max time left rolls over after 24 hours in some cases
+NTLM hash 'incompatible hardware' bug with latest NVIDIA drivers
+Status bar freezes during cracking run
+NTDS.DIT extraction and importing documentation was missing
+
+Hashes
+------
+
+lc7setup_v7.0.12_Win64.exe
+MD5 Digest:     ee664078a0ec5f9dc3bac6d2e54531b4
+SHA256 Digest:  b0d5dc44aa467975741fa8653642d28f80bdcec820562eac662bd6d69c11f8ad
+
+lc7update_v7.0.12_Win64.exe
+MD5 Digest:     3c7a4e75ba996e7a98add2a3abd34ff2
+SHA256 Digest:  584148d0c6a8fd3ad2454f2fe34e21dea2b5a369c389e8aa8330ddaed9a09f5b
+
+lc7setup_v7.0.12_Win32.exe
+MD5 Digest:     364dd79032f5983767b7bdb1924d8f73
+SHA256 Digest:  74e34b48f27e814d521e3f2eb8328e995c328ed4cf83e9d1fbf7db684707ee30
+
+lc7update_v7.0.12_Win32.exe
+MD5 Digest:     9b94ab15c2a5ea87d27f1ce1f14e686b
+SHA256 Digest:  109235f8881847a71d62df5d15b5ceacb6f097b0a151c3df9e1a493b04745532

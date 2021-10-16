@@ -1,0 +1,11 @@
+Bugs:
+
+LC7 was saving credentials to disk in plaintext in the session file
+LC7 required 'Run As Administrator' 
+UI problems using 100K accounts
+
+Enhancenments:
+
+32-bit version 
+Full AIX support
+Remediation support for all platforms

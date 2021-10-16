@@ -1,0 +1,31 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.6
+
+Bugs Fixed
+----------
+
+Windows 7 machines cause a popup about 'Could not AssignProcessToJobObject'.
+Old AMD drivers may cause crash
+
+
+Hashes
+------
+
+lc7setup_v7.0.7_Win64.exe
+MD5 Digest:     479b07981d79a22f1d318c8ed8c5792a
+SHA256 Digest:  745d778cc33c99115ef3b18d1e7ef2de83d5c48de7a368401d9d972e9a1bf9b6
+
+lc7update_v7.0.7_Win64.exe
+MD5 Digest:     c553ab29500a22335f1088707be2eb78
+SHA256 Digest:  3c5b24df0e8e1a60efca2978a6122cfb31378ef0180645a1bf368540c95c4dee
+
+lc7setup_v7.0.7_Win32.exe
+MD5 Digest:     aa31e8e94754e10d14e4c2dbedbf206b
+SHA256 Digest:  803a11a6dba0a3e8f24c656288e0eee90ce1699eee651e4034bd36e677c055d9
+
+lc7update_v7.0.7_Win32.exe
+MD5 Digest:     536b3244b7ddea810e614d0efa9a03cc
+SHA256 Digest:  d2ab78a1345da195181aac886b36802c5724fb9d7c7b21ea7f02f8ac1adc567b
+

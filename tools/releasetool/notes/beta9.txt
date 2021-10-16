@@ -1,0 +1,27 @@
+This is the final beta before release candidate 1. 
+We are now feature complete and all known bugs are fixed.
+
+Bugs:
+
+GPU overheats
+JtR needs memory sandboxing
+Error report dialog crashes
+32-Bit JtR GPU cracking is running out of memory
+LC7 Crashes on Win32
+Create Remote Agent Dialog - Cancel doesn't work.
+Editing a recurring job and cancelling password dialog crashes
+Unix shadow file wizard has incorrect text
+Ran brute force twice and on second try the NT Case Toggle Failed with Self Test Failures
+Display doesn't update until all LANMAN cracked
+Getting error creating binary file in Roaming directory 
+Large Dictionary (16 Gb) causes program to freeze
+
+Enhancements:
+Main Menu needs 'recent sessions' menu item 
+Implement cracking algorithm calibration
+Visualization of GPU and CPU load inside LC7 would be good.
+Licensing: License validation inserted into code 
+Licensing: License key storage and testing
+Licensing: Write key generator in whatever format Digital River allows it.
+Licensing System: Extract license requirements from LC6
+Make better progress time estimates

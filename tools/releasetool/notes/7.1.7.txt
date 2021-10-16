@@ -1,0 +1,20 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.1.7
+
+Changes
+-------
+
+Fix SAM Importer
+
+Hashes
+------
+
+lc7setup_v7.1.7_Win64.exe
+MD5 Digest:     a58880e1a6349ac768305a3311683479
+SHA256 Digest:  4239b953327df89d3f96716e26d726490b5ceaa93f1142db3fd71e49a027f17d
+
+lc7update_v7.1.7_Win64.exe
+MD5 Digest:     6ca361850ac97a15d0d16dcf50d630a1
+SHA256 Digest:  23fe429b62c72f4f0289cccf3cb7ebe18510605cc665d20eecb89fd162806c9e

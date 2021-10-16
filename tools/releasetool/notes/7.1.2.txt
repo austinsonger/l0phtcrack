@@ -1,0 +1,8 @@
+
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.1.2
+
+Failed release. Release was rolled back.
+Skipping this version number to avoid confusion for those that might have downloaded this.

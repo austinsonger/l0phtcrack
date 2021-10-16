@@ -1,0 +1,30 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.4
+
+Bugs Fixed:
+
+If the LC7 temporary directory is locked, LC7 would crash.
+Now, it informs you that you have a stale process, or that you need to reboot.
+General cleanup of initialization sequence.
+
+Hashes
+------
+
+lc7setup_v7.0.4_Win64.exe
+MD5: d1d5d0c60eecd4042c31635501227703  
+SHA1: 55563b24d2e7140bcdabac95a22148d67f8f7962
+
+lc7update_v7.0.4_Win64.exe
+MD5: 2ed8856570f58d1801b9528fd4626f9d  
+SHA1: c4e2f242872cb8f85bc6e42e47cd87d5c7d22443
+
+lc7setup_v7.0.4_Win32.exe
+MD5: e0ed1fa5ae9282bacaaa968429bb51a0  
+SHA1: c1862fedf7cf8df6c3cb5f389b45a95e06be0933
+
+lc7update_v7.0.4_Win32.exe
+MD5: 74b231329efdab1b1487390a6db861cf  
+SHA1: bfab5849a5f8c14a9ce305aee553ccdef7dc6b11
+

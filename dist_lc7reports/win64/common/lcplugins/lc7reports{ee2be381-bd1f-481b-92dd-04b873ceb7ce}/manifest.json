@@ -1,0 +1,17 @@
+{
+    "authorName": "L0pht Holdings, LLC", 
+    "dependencies": [
+        {
+            "internalName": "lc7base{2f63a714-8518-4ab6-ba7d-5440888dfc8a}", 
+            "minInternalVersion": 0
+        }
+    ], 
+    "displayName": "LC7 Reports System Plugin", 
+    "displayVersion": "7.0.1 (20150801101456)", 
+    "internalName": "lc7reports{ee2be381-bd1f-481b-92dd-04b873ceb7ce}", 
+    "internalVersion": 10, 
+    "isSystemLibrary": true, 
+    "operatingSystem": "win64", 
+    "releaseDate": "2015-08-01T10:14:56.133000", 
+    "updateURL": "https://s3.amazonaws.com/updates.lc7/lc7/win64/lc7reports{ee2be381-bd1f-481b-92dd-04b873ceb7ce}"
+}

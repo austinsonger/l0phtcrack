@@ -1,0 +1,6 @@
+Bugs:
+JTR is broken in beta 3. Fixed.
+
+Enhancements:
+SAM/SYSTEM file importer
+Windows Importers grab "User Info" 

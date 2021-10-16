@@ -1,0 +1,39 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.5
+
+Enhancements
+------------
+
+A checkbox and field has been added to all the importers to allow you to limit the number of accounts to import at one time.
+
+Bugs Fixed
+----------
+Non-AMD systems sometimes crash on startup. This is obviously counterproductive.
+
+Version 7.0.4 introduced a GUI cosmetic issue with the GPU status control losing its colors.
+
+Removing a large number of accounts would take a very long time. Now it only takes a medium long time.
+
+Licensing limitations on accounts auditable at a single time have been restored to the way LC6 did it. You can now import more accounts than you have licenses for as long as you delete some down before you start the audit.
+
+
+Hashes
+------
+
+lc7setup_v7.0.5_Win64.exe
+MD5: 2615011139a17a9fdc0f9b159a28eb83  
+SHA1: 42a6acf1b9eb97741660888568d7574ed419500d
+
+lc7update_v7.0.5_Win64.exe
+MD5: 535633c795417f9cc3c84681cbfc3051  
+SHA1: dce41769d851720fed9de735dbe6b6edaec34e8b
+
+lc7setup_v7.0.5_Win32.exe
+MD5: d9f9b4e79a7c021219b5bf39d291694d  
+SHA1: 8765104e68546237b407597bf922b7a0a8bc8f5e
+
+lc7update_v7.0.5_Win32.exe
+MD5: a4aeb0fb15365d2e844cc1aa94e8a189  
+SHA1: b925a64ddc577fa39cb23032e7e5c65a7704861a

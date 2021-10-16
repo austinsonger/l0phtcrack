@@ -1,0 +1,30 @@
+
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.16
+
+Bugs Fixed
+----------
+
+Fix importing on latest Windows 10 and Windows Server 2016. Fixes issues with local and remote import.
+
+Hashes
+------
+
+lc7setup_v7.0.16_Win64.exe
+MD5 Digest:     f1b742cdc1eaf6cd1cd45178a5da0045
+SHA256 Digest:  d6361e8f1964ec66b4f6c0f32bc308c6111446bc45cc9262ae1ddb56dfc654ee
+
+lc7update_v7.0.16_Win64.exe
+MD5 Digest:     14c6d1f9a1ed9b2f774c5797eaa2bdc1
+SHA256 Digest:  8f7e1bb6589febe943fa4650c2afeaf4f105a362cac90d64350d1dec97e77947
+
+lc7setup_v7.0.16_Win32.exe
+MD5 Digest:     008d628dc3a34c6a396a8e2f04191d44
+SHA256 Digest:  fc2d684ae03bc630bcecdc0b4fa5e7d59ac6a496950eae6d7ae84b8e73f6747f
+
+lc7update_v7.0.16_Win32.exe
+MD5 Digest:     8e7a5b0f2548c460c1d9ee232089af23
+SHA256 Digest:  e34c36f9317874ecc9535db8a468c6c858335f5a1d62807e64da487505ba554a
+

@@ -1,0 +1,10 @@
+Issues fixed in this release:
+
+CR: Need to compile different versions for different CPUs
+CR: Turning off checking of automatic updates doesn't work
+CR: Accessing settings page on new system that has never run LC7 causes infinite loop
+CR: JTRDLL requires OPENCL.DLL
+CR: Can't set max length larger than 7 for LM Format
+SZ: MSVCR120.DLL Missing
+CW: Compilation of shaders problem
+CW: Dictionary/Wordlist crack didn't use GPU.

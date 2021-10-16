@@ -1,0 +1,17 @@
+{
+    "authorName": "L0pht Holdings, LLC", 
+    "dependencies": [
+        {
+            "internalName": "lc7password{072cbbd8-84ad-481f-b0a6-398b121434db}", 
+            "minInternalVersion": 0
+        }
+    ], 
+    "displayName": "LC7 Unix Import System Plugin", 
+    "displayVersion": "7.2.0 (20211014102851)", 
+    "internalName": "lc7importunix{62a9e7aa-58f4-45ba-8fd7-5ebeb3d80551}", 
+    "internalVersion": 57, 
+    "isSystemLibrary": true, 
+    "operatingSystem": "win64", 
+    "releaseDate": "2021-10-14T10:28:51.477000", 
+    "updateURL": "https://s3.amazonaws.com/updates.lc7/lc7/win64/lc7importunix{62a9e7aa-58f4-45ba-8fd7-5ebeb3d80551}"
+}

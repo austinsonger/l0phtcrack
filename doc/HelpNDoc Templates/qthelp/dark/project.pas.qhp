@@ -1,0 +1,115 @@
+<%
+var
+  sVirtualFolder, sNameSpace: string;
+  aTopicList: THndTopicsInfoArray;
+  aKeywordList: THndKeywordsInfoArray;
+  nBlocLevel: integer = 0;
+  nCurTopic, nTopicKind, nCurTopicLevel, nCurTopicChildrenCnt, nDif, nClose: integer;
+  nCurKeyword, nCurKeywordTopic: integer;
+  sTopicUrl, sCurrentKeyword, sKeywordLink: string;
+  aAssociatedTopics: array of string;
+
+begin
+  HndGeneratorInfo.BOMOutput := False;
+  // Init
+  sNameSpace := HndGeneratorInfo.GetCustomSettingValue('Namespace');
+  if Trim(sNameSpace) = '' then
+   sNameSpace := lowercase(StringReplace(HndProjects.GetProjectTitle(), ' ', '.', [rfReplaceAll]));
+  sVirtualFolder := HndGeneratorInfo.GetCustomSettingValue('VirtualFolder');
+  if Trim(sVirtualFolder) = '' then
+   sVirtualFolder := 'doc';
+%>
+
+<% printLn('<?xml version="1.0" encoding="UTF-8"?>'); %>
+<QtHelpProject version="1.0">
+	<namespace><% print(sNameSpace); %></namespace>
+	<virtualFolder><% print(sVirtualFolder); %></virtualFolder>
+	<filterSection>
+		<toc>
+
+			<%
+				nBlocLevel := 0;
+				aTopicList := HndTopics.GetTopicListVisible(False);
+				for nCurTopic := 0 to length(aTopicList) - 1 do
+				begin
+					HndGeneratorInfo.CurrentTopic := aTopicList[nCurTopic].id;
+					nTopicKind := aTopicList[nCurTopic].Kind;
+					nCurTopicLevel := HndTopics.GetTopicLevel(HndGeneratorInfo.CurrentTopic);
+					nCurTopicChildrenCnt := HndTopics.GetTopicDirectChildrenCountVisible(HndGeneratorInfo.CurrentTopic);
+					
+					// Topic URL
+					if nTopicKind = 2 then sTopicUrl := HndTopics.GetTopicUrlLink(HndGeneratorInfo.CurrentTopic)  // Link to URL
+					else if nTopicKind = 1 then sTopicUrl := ''  // Empty
+					else sTopicUrl := format('%s.html', [aTopicList[nCurTopic].HelpId]);  // Normal topic
+					
+					// Close the previous topics
+					if ((nCurTopic > 0) and (nCurTopicLevel < HndTopics.GetTopicLevel(aTopicList[nCurTopic - 1].id))) then
+					begin
+						nDif := HndTopics.GetTopicLevel(aTopicList[nCurTopic - 1].id) - nCurTopicLevel;
+						for nClose := 0 to nDif - 1 do
+						begin
+							print('</section>');
+							nBlocLevel := nBlocLevel - 1;
+						end;
+					end;
+					
+					print('<section title="' + HTMLEscape(aTopicList[nCurTopic].caption) + '" ref="' + sTopicUrl + '"');
+
+					if (nCurTopicChildrenCnt > 0) then
+					begin
+						print('>');
+						nBlocLevel := nBlocLevel + 1;
+					end
+					else begin
+						print('/>');
+					end;
+					
+					// Close the last topic
+					if (HndTopics.GetTopicNextVisible(HndGeneratorInfo.CurrentTopic) = '') then
+					begin
+						while nBlocLevel > 0 do
+						begin
+							print('</section>');
+							nBlocLevel := nBlocLevel - 1;
+						end;
+					end;
+				
+				end;
+			%>
+
+		</toc>
+		<keywords>
+
+			<%
+				aKeywordList := HndKeywords.GetKeywordList(False);
+				for nCurKeyword := 0 to length(aKeywordList) - 1 do
+				begin
+					sCurrentKeyword := aKeywordList[nCurKeyword].id;
+					
+					aAssociatedTopics := HndTopicsKeywords.GetTopicsAssociatedWithKeyword(sCurrentKeyword);
+					if Length(aAssociatedTopics) > 0 then
+					begin
+						for nCurTopic := 0 to Length(aAssociatedTopics) - 1 do
+						begin
+							sKeywordLink := format('%s.html', [HndTopics.GetTopicHelpId(aAssociatedTopics[nCurTopic])]);
+			%>
+							<keyword name="<% print(HTMLEscape(aKeywordList[nCurKeyword].caption));%>" ref="<% print(sKeywordLink); %>"/>
+			<%
+						end;
+					end
+				end;
+			%>		
+		
+		</keywords>
+		<files>
+			<file>*.html</file>
+			<file>img/*.*</file>
+			<file>lib/*.*</file>
+			<file>css/*.css</file>
+		</files>
+	</filterSection>
+</QtHelpProject>
+
+<%
+end.
+%>

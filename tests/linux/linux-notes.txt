@@ -1,0 +1,26 @@
+Linux:
+
+Users:
+user1,user2,user3,user4,user5,user6
+expires, neverexpires, expired, disabled, lockedout, nologin, nopass
+
+Turn on expiration (100 days):
+chage -M 100 <expires username>
+
+Turn off expiration
+chage -I -1 -m 0 -M 99999 -E -1 <neverexpires username>
+
+Set to passwd expired/must change:
+chage -M 0 <expired username>
+
+Set to disabled:
+chage -E 1 <disabled username>
+
+Set to lockedout:
+usermod -L <lockedout username>
+
+Set to no-login:
+chsh nologin -s /sbin/nologin
+or 
+chsh nologin -s /bin/false
+

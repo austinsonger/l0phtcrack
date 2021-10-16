@@ -1,0 +1,79 @@
+=head1 ActivePerl 5.26 Change Log
+
+For the latest information on ActivePerl, please see:
+
+    http://www.ActiveState.com/ActivePerl/
+
+=head2 Build 2601, December 2017
+
+Build 2601 is based on Perl 5.26.1 plus additional selected changes.
+
+I<Bug Fixes and Changes since build 2600>
+
+=over 3
+
+=item *
+
+The version of OpenSSL used by the following modules has been upgraded to version 1.1.0g.
+For more information on this version, visit https://www.openssl.org/news/openssl-1.1.0-notes.html
+
+=over
+
+=item IO-Socket-SSL 2.052 (was 2.050)
+
+=item Net-SSLeay 1.82 (was 1.81)
+
+=back
+
+=item *
+
+The following other C libraries have been updated.
+
+=over
+
+=item expat 2.2.5 (was 2.2.4) (GD, XML-Parser)
+
+=item libpng 1.6.34 (was 1.6.30) (GD)
+
+=item libgd 2.2.5 (was 2.2.4) (GD)
+
+=back
+
+=item *
+
+Most bundled modules have been updated to their latest released
+version from CPAN.  Use the C<ppm query> command to check the exact
+version included in this release.
+
+=back
+
+=head2 Build 2600, August 2017
+
+I<What's new in the 2600 Series>
+
+=over 3
+
+=item *
+
+This build corresponds to the Perl 5.26.0 source code release.
+
+=item *
+
+The 2600 series builds of ActivePerl are not binary compatible with
+builds in the 2400 or earlier series.  Any extensions built using binaries
+from the ActivePerl 2400 or earlier series will need to be recompiled.
+Note especially that this applies to PPM packages that may have been
+built for earlier series of ActivePerl.
+
+=item *
+
+Significant changes that have occurred since the 5.24 release are documented in
+L<perl5260delta>.
+
+=item *
+
+Most bundled distributions have been updated to their latest released
+version from CPAN.  Use the C<ppm list> command to check the exact
+version of all modules included in this release.
+
+=back

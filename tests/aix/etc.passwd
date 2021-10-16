@@ -1,0 +1,7 @@
+root:!:100:100:8A-74(office) hashcat:/home/root:/usr/bin/sh
+invalid:*:200:200:8A-74(office):/home/invalid:/usr/bin/sh
+guest:*:500:500::/home/guest:/usr/bin/sh
+md5user:!:101:101:asdfasdfasdf hashcat:/home/md5user:/usr/bin/sh
+s1user:!:103:103:asdfasdfasdf hashcat:/home/s1user:/usr/bin/sh
+s256user:!:104:104:asdfasdfasdf hashcat:/home/s256user:/usr/bin/sh
+s512user:!:105:105:asdfasdfasdf hashcat:/home/s512user:/usr/bin/sh

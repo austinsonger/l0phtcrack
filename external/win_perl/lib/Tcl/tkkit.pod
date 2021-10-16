@@ -1,0 +1,110 @@
+=head1 NAME
+
+tkkit - Single-file dynamic library bundle for Tcl/Tk functionality
+
+=head1 DESCRIPTION
+
+I<tkkit> is a single-file dynamic library that bundles Tcl, Tk and several
+related extensions together for use by the I<Tcl> module.
+
+I<Tk> is a toolkit for creating applications with graphical interfaces on
+Windows, Mac OS X and X11.  The Tk toolkit is native to the I<Tcl>
+programming language, but its ease of use and cross-platform availability
+has made it the GUI toolkit of choice for many other dynamic languages.
+
+I<Tcl::Tk> and I<Tkx> are Perl modules that makes the Tk toolkit available
+to Perl programs.  By loading one of these modules, Perl programs can
+create windows and fill them with text, images, buttons and other controls
+that make up the user interface of the application.  See the
+I<Tkx::Tutorial> docs for an example.
+
+=head2 Packages
+
+I<tkkit> includes the following packages from the ActiveTcl
+L<http://docs.activestate.com/activetcl/8.5/at.pkg_index.html>
+distribution:
+
+=over
+
+=item Tcl 8.5 (core)
+
+L<http://docs.activestate.com/activetcl/8.5/tcl/tcl_contents.htm>
+
+=item Tk 8.5 (core)
+
+L<http://docs.activestate.com/activetcl/8.5/tcl/tk_contents.htm>
+
+=item TclX 8.4 (eXtended command set for Tcl)
+
+L<http://docs.activestate.com/activetcl/8.5/tclx/TclX.n.html>
+
+=item vfs 1.4 (script level virtual file system access) 
+
+L<http://docs.activestate.com/activetcl/8.5/tclvfs/toc.html>
+
+=item bwidget 1.9 (extra megawidgets)
+
+L<http://docs.activestate.com/activetcl/8.5/bwidget/contents.html>
+
+=item Tktable 2.10 (2D table widget)
+
+L<http://docs.activestate.com/activetcl/8.5/tktable/tkTable.html>
+
+=item treectrl 2.3 (multi-column hierarchical tree/list widget)
+
+L<http://docs.activestate.com/activetcl/8.5/tktreectrl/toc.html>
+
+=item img::jpeg (JPEG image format)
+
+L<http://docs.activestate.com/activetcl/8.5/img/doc/img-jpeg.html>
+
+=item img::png (PNG image format)
+
+L<http://docs.activestate.com/activetcl/8.5/img/doc/img-png.html>
+
+=item img::ico (ICO image format)
+
+L<http://docs.activestate.com/activetcl/8.5/img/doc/img-ico.html>
+
+=item img::xpm (XPM image format)
+
+L<http://docs.activestate.com/activetcl/8.5/img/doc/img-xpm.html>
+
+=item ico 1.0 (Windows ICO manipulation)
+
+L<http://docs.activestate.com/activetcl/8.5/tklib/ico/ico.html>
+
+=item ctext (enhanced text widget)
+
+L<http://docs.activestate.com/activetcl/8.5/tklib/ctext/ctext.html>
+
+=item tooltip 1.4 (balloon help)
+
+L<http://docs.activestate.com/activetcl/8.5/tklib/tooltip/tooltip.html>
+
+=item widget 3.1 (megawidgets)
+
+L<http://docs.activestate.com/activetcl/8.5/tklib/widget/widget.html>
+
+=item comm 4.6 (remote interpreter communication)
+
+L<http://docs.activestate.com/activetcl/8.5/tcllib/comm/comm.html>
+
+=item snit 2.3 (object-oriented framework)
+
+L<http://docs.activestate.com/activetcl/8.5/tcllib/snit/snit.html>
+
+=back
+
+
+=head1 LICENSE
+
+This library is a component of ActivePerl and is covered under the same
+terms as ActivePerl.
+
+Copyright 2007-2011 ActiveState.  All rights reserved.
+
+=head1 SEE ALSO
+
+L<Tkx>
+L<Tcl>

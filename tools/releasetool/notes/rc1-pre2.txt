@@ -1,0 +1,8 @@
+Bugs:
+
+"Skip This Update" doesn't work in updater
+automatic updates are broken 
+24 hour run didn't stop and time left overflowed 
+crack session didn't progress to NTLM bug
+Abnormal termination during calibration causes weird recovery file 
+jtrexe crashed during GPU/OpenCL DEC calibration 

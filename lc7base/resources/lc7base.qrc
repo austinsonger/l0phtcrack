@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="/base">
+    <file>back.png</file>
+    <file>back@2x.png</file>
+    <file>forward.png</file>
+    <file>forward@2x.png</file>
+    <file>home.png</file>
+    <file>home@2x.png</file>
+    <file>search.png</file>
+    <file>search@2x.png</file>
+    <file>reports_icon.png</file>
+    <file>reports_icon@2x.png</file>
+  </qresource>
+  <qresource prefix="/reports">
+    <file>emptysquare.png</file>
+  </qresource>
+</RCC>

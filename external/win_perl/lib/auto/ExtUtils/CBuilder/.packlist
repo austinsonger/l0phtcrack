@@ -1,0 +1,14 @@
+C:\Perl64\lib\ExtUtils\CBuilder.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Base.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\Unix.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\VMS.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\Windows.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\Windows\BCC.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\Windows\GCC.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\Windows\MSVC.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\aix.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\android.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\cygwin.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\darwin.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\dec_osf.pm
+C:\Perl64\lib\ExtUtils\CBuilder\Platform\os2.pm

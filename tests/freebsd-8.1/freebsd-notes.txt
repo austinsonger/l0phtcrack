@@ -1,0 +1,24 @@
+FreeBSD:
+
+Users:
+user1,user2,user3,user4,user5,user6
+expires, neverexpires, expired, disabled, lockedout, nologin, nopass
+
+Turn on expiration (100 days):
+pw usermod <expires username> -p 100d
+
+Turn off expiration
+nothing required
+
+Set to passwd expired/must change:
+pw usermod <expired username> -p 1
+
+Set to disabled:
+pw usermod <disabled username> -e 1
+
+Set to lockedout:
+pw lock <lockedout username>
+
+Set to no-login:
+pw usermod nologin -s /usr/sbin/nologin
+

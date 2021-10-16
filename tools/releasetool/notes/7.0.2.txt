@@ -1,0 +1,29 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.2
+
+Bugs Fixed:
+
+A race condition in the Protected Store code occasionally caused LC7 to crash on startup, or when accessing the settings page.
+Beta users did not receive additional trial time with the new release.
+
+
+Hashes
+------
+
+lc7setup_v7.0.2_Win64.exe
+MD5: ebaf0bebdf5677fb8b5a707f1bb1b96e  
+SHA1: b1b4bb4a5f22ccd453b972494440fc86bf9a3134  
+
+lc7update_v7.0.2_Win64.exe
+MD5: cb24485e1c9831308637925bde4bef1f  
+SHA1: adb8b3f8332425c21900794ae9df9412a74526e3  
+
+lc7setup_v7.0.2_Win32.exe
+MD5: dede57ad9eb3ba2ef4c858296901a993  
+SHA1: f9c0ce6f4baf698183287e047bdd58f0a6e88908
+
+lc7update_v7.0.2_Win32.exe
+MD5: 8a1ddb21ea67729ee8b066e601c0aea8  
+SHA1: 88a028a6a237dfc5acb210d4bcf4944d37f16271

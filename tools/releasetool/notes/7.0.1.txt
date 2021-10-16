@@ -1,0 +1,26 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.1
+
+This is the first release of L0phtCrack 7!
+
+
+Hashes
+------
+
+lc7setup_v7.0.1_Win64.exe
+MD5: 452997388a1c37e174902b88485d6e5b  
+SHA1: f37518010e4da6193643008a0fec2312814c0ba4
+
+lc7update_v7.0.1_Win64.exe
+MD5: 012e8a4d3e429f24e8b3e6f1508fff59  
+SHA1: 6bf4dfe67b8ed7c9cbe4d2240cdfa11b7bc01102
+
+lc7setup_v7.0.1_Win32.exe
+MD5: 52395557f670047edfdd9f0f3a2b55e0  
+SHA1: a767249398ffd0a00e613e8265b40c96b3882053
+
+lc7update_v7.0.1_Win32.exe
+MD5: 2396038519f7f31abea47647251f2277  
+SHA1: 84083ffea1309a812b834f3fe018a1d9090307f1

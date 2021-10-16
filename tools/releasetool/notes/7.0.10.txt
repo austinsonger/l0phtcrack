@@ -1,0 +1,29 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.10
+
+Bugs Fixed
+----------
+
+Path handling for Unicode needed improvement
+Cancelling UAC prompt during local import causes hang
+
+Hashes
+------
+
+lc7setup_v7.0.10_Win64.exe
+MD5 Digest:     0af7b312e108560d200c578e37ee77e3
+SHA256 Digest:  b1fe7ea3717220d05489be318413604e93ed2c979a7e7552d542de9aae66e970
+
+lc7update_v7.0.10_Win64.exe
+MD5 Digest:     89daaffcc7844a04c5a2f6704d2bfb03
+SHA256 Digest:  8c868160732cc913364986864f58c383ae36358c64c1b424bab34c551008a743
+
+lc7setup_v7.0.10_Win32.exe
+MD5 Digest:     f8f3fffe7919b8e8efca95253f6f3766
+SHA256 Digest:  3ed123eefa1294300ed6d6131d45251222aaeca185882c73d10c4e849dd9befe
+
+lc7update_v7.0.10_Win32.exe
+MD5 Digest:     9040d6839838f2111c1d17bf1e667cdb
+SHA256 Digest:  e81f214f2143a1b3432d8793cec4ff020764af7a55082707b24dbcc26e632b42

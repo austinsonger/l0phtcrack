@@ -1,0 +1,34 @@
+﻿[config]
+name=L0phtCrack Dark QtHelp Template
+category=QtHelp
+extension=qhc
+
+[var_BaseColor]
+name=Base color
+name.fr=Couleur de base
+name.de=Grundfarbe
+description=Customize the documentation's base color.
+description.fr=Personnaliser la couleur de base de la documentation.
+description.de=Festlegen der Grundfarbe der Dokumentation.
+kind=color
+default=#EFEFEF
+
+[var_ShowBreadCrumbs]
+name=Show BreadCrumbs
+name.fr=Afficher le cheminement
+name.de=Brotkrümelnavigation
+description=Show the breadcrumbs at the top of each topic bellow the topic title.
+description.fr=Afficher le cheminement au haut de chaque chapitre en dessous du titre du chapitre.
+description.de=Brotkrümelnavigation über jedem Kapitel/Thema unterhalb des Titels anzeigen.
+kind=bool
+default=1
+
+[var_ShowNavigation]
+name=Show navigation arrows
+name.fr=Afficher les flèches de navigation
+name.de=Navigationspfeile anzeigen
+description=Show the navigation arrows at the top of each topic right of the topic title.
+description.fr=Afficher les flèches de navigation en haut de chaque chapitre à droite du titre du chapitre.
+description.de=Navigationspfeile über jedem Kapitel/Thema auf der rechten Seite des Titels anzeigen.
+kind=bool
+default=1

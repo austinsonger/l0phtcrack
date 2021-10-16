@@ -1,0 +1,43 @@
+=head1 NAME
+
+ActivePerl - ActiveState's quality-assured binary build of Perl
+
+=head1 DESCRIPTION
+
+ActivePerl is ActiveState's quality-assured binary build of Perl. The
+latest Windows, Linux and Mac OS X builds are available for free to the
+community. Solaris, HP-UX and AIX builds are available in ActivePerl
+Business Edition.
+
+ActivePerl includes:
+
+=over
+
+=item * 
+
+The binary core distribution of perl.  See L<perl> for details.
+
+=item *
+
+A set of useful additional CPAN modules "out of
+the box".
+
+=item *
+
+The Perl Package Manager, for quick and easy install of additional
+Perl extension modules.  See L<ppm> for details.
+
+=item *
+
+Complete documentation in HTML format.  This is found in the F<html>
+sub directory where ActivePerl was installed.
+
+=back
+
+The release notes for this version of ActivePerl is available in
+L<activeperl-release>.  A list of changes beween builds of ActivePerl
+is found in L<activeperl-changes>.
+
+=head1 SEE ALSO
+
+L<perl>, L<ppm>, L<activeperl-release>, L<activeperl-changes>

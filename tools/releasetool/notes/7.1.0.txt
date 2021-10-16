@@ -1,0 +1,38 @@
+
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.1.0
+
+Enhancements
+------------
+
+Revamped calibration system in preparation for support of multiple cracking engines
+Added directory services replication import mechanism for remote windows domain controller imports
+NTDS.DIT imports now support 'dirty' databases that were not repaired after copying
+
+Bugs Fixed
+----------
+
+NTDS.DIT import now supports Windows Server 2016 on all client platforms
+jtrexe was crashing on virtualized platforms and systems without OpenCL
+
+
+Hashes
+------
+
+lc7setup_v7.1.0_Win64.exe
+MD5 Digest:     84b0af9fdf8f5d2012ca64585549ccc7
+SHA256 Digest:  b572b2d1365edd28f6a0216e5ac881366ed8c0491514c554e5cdfdc1ee13d3bc
+
+lc7update_v7.1.0_Win64.exe
+MD5 Digest:     c6d063b9cc20160938a522503a15bf07
+SHA256 Digest:  d477329479ece4a4d45a617176dbdcab70291cd90722b167884918f4fdff7bd0
+
+lc7setup_v7.1.0_Win32.exe
+MD5 Digest:     35e44ce279312084488b252983848ca7
+SHA256 Digest:  5188ff8168b19823c3ae9fe95af8f684c8e029350e340061c87b3bf8641d2b03
+
+lc7update_v7.1.0_Win32.exe
+MD5 Digest:     ce6b09b0bf4ac871abbfed76b1aa2f82
+SHA256 Digest:  789062084a099bee19bac8dd34f78e86792ddfb4de87e11f354e9689b69db660

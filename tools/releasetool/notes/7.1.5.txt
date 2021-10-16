@@ -1,0 +1,30 @@
+pytho
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.1.5
+
+Changes
+-------
+
+Fix resume/pause
+Documentation update for ntdsutil defrag corrections (esentutl /d ntds.dit)
+
+Hashes
+------
+
+lc7setup_v7.1.5_Win64.exe
+MD5 Digest:     b03528a0fc8d9224887e9222d813a28c
+SHA256 Digest:  c5cfc7c5e1f4362b3f86aa3ddb2542af4cbb880e05076ab58336037519b50956
+
+lc7update_v7.1.5_Win64.exe
+MD5 Digest:     b3218daf32b95e5ba90d4af0b1770bc5
+SHA256 Digest:  d0b83cdaa8f1561db6acbcca1a702883f679369eda68e3065e0ae484f4c82b73
+
+lc7setup_v7.1.5_Win32.exe
+MD5 Digest:     4c1534128191cca6eb8ebf24ac0f93b8
+SHA256 Digest:  72faa3bbaec1611274f2383ff021d0ca687a01ac26cf085304848c43812cef3f
+
+lc7update_v7.1.5_Win32.exe
+MD5 Digest:     f2a91d82b759d5f8f84027ff88f5018a
+SHA256 Digest:  25e7cbecba897dbc2c6fcb59ccc17abad02b8b129a92dfc23223c4b40c77457e

@@ -1,0 +1,31 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.13
+
+Bugs Fixed
+----------
+
+'Session aborted' message on timeout is confusing
+User Info not discovering all passwords
+Random node "permissions error" and "bad file descriptor" errors
+.lc7 File association isn't hooked up to LC7 for sessions
+
+Hashes
+------
+
+lc7setup_v7.0.13_Win64.exe
+MD5 Digest:     755820c1af21eb74fade298e85907799
+SHA256 Digest:  ed0666a7ab9c591ea19b9acd0ae366b69378bcd0350ef089be7980a51984e298
+
+lc7update_v7.0.13_Win64.exe
+MD5 Digest:     ec03c6d01aec2125f9460e7434738593
+SHA256 Digest:  5d167df1c230f29c5e4869521a3c6aef504e59aca9e1f91290a7d290cc8dd219
+
+lc7setup_v7.0.13_Win32.exe
+MD5 Digest:     4d20231f3a6a0dd5c0ea221d4171c58c
+SHA256 Digest:  7ad75a933b6796dd8416a58eb98cd305ddf56075246874117902fbbacc1d7c96
+
+lc7update_v7.0.13_Win32.exe
+MD5 Digest:     a43cfa556d53c50acb4fda1e58b6bad0
+SHA256 Digest:  23a86b3b8bdd24a59fcf67b76162406c894c305b4dc7d39b4e8c66a11b88ca0a

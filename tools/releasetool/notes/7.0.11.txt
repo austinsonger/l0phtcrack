@@ -1,0 +1,35 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.11
+
+Bugs Fixed
+----------
+Last Changed Time isn't always accurate
+Mark Intel HD Graphics as unsupported GPU because their OpenCL compiler is buggy.
+
+Enhancements
+------------
+NTDS.DIT/System Importer
+Verified working on Windows Server 2016
+
+Hashes
+------
+
+lc7setup_v7.0.11_Win64.exe
+MD5 Digest:     eddecaa2c777a024afa2c6516c16189f
+SHA256 Digest:  98f78c68a993951856d5bce24722505cb6b4c2f9d484426142ae8202f3a2ac22
+
+lc7update_v7.0.11_Win64.exe
+MD5 Digest:     7064eee9395af95f7a5c8163b398d2a0
+SHA256 Digest:  cfc93317b791bcbfda3f89f7c63a62e8f4196346cc50321d59f1f2e1350526a0
+
+lc7setup_v7.0.11_Win32.exe
+MD5 Digest:     af66f294711ae9154383303913d33257
+SHA256 Digest:  3e129f83938b51fd99a815d6b3d9f3fccb8139b27bb49284f8625f6f6536faf3
+
+lc7update_v7.0.11_Win32.exe
+MD5 Digest:     389a78b14b1bf75a7c89949e00b569c2
+SHA256 Digest:  247a40326503e7c88bff9257d07c4af0c6a4ee9eae01756a9a0f8b5902305447
+
+

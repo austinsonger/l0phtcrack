@@ -1,0 +1,28 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.3
+
+Bugs Fixed:
+
+Moving queue items around and deleting them can cause crashes. This has been resolved.
+
+
+Hashes
+------
+
+lc7setup_v7.0.3_Win64.exe
+MD5: 5e1664db2b277f6d7f015474e64204d5
+SHA1: 362c697008473665d006a9d0c77862e4c0ba8375
+
+lc7update_v7.0.3_Win64.exe
+MD5: 25ca948b54de8528e7f3ff1c214d27d3  
+SHA1: 5a5f7111af63f5136fdfe2878959ec12fb58993c
+
+lc7setup_v7.0.3_Win32.exe
+MD5: 478fd20b72e805c14d13dcbf607a700f  
+SHA1: 7cce8b225833a9b50a2bbfdcc7892c334deb43fc
+
+lc7update_v7.0.3_Win32.exe
+MD5: 03d2848ec4d9946c7d6f1327bef5dc73  
+SHA1: 2ceaf685b5227ddf6d7e1d1f5c79ee9b40519c51

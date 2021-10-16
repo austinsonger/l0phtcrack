@@ -1,0 +1,57 @@
+AIX Notes
+----------
+
+/etc/passwd: normal passwd format
+/etc/security/passwd: hash information in 'stanza' format
+/etc/security/user: account information (lockout,etc) in 'stanza' format
+
+Docs here:
+
+https://www-01.ibm.com/support/knowledgecenter/ssw_aix_71/com.ibm.aix.files/passwd_security.htm%23passwd_security
+http://www.ibm.com/developerworks/aix/library/au-security_cmds2/
+http://unix.stackexchange.com/questions/23923/how-to-check-that-a-user-password-is-expired-in-aix
+http://rick.jasperfamily.org/linux/quickstart.html (aix rosetta stone to linux)
+http://sandeepjr.blogspot.com/2006/12/understanding-asterisks-in-aix.html (explanation of disabled)
+http://stromberg.dnsalias.org/~strombrg/Useful-AIX-commands.html (aix admin techniques)
+http://www-03.ibm.com/systems/power/software/aix/linux/toolbox/date.html (where to get sudo package)
+http://www.sysaix.com/password-expiry (password expiry)
+https://www-01.ibm.com/support/knowledgecenter/ssw_aix_71/com.ibm.aix.files/tunables.htm (tunable file / stanza format)
+
+Hashes supported (per /usr/lib/security/ and /etc/security/pwdalg.cfg and /etc/security/login.cfg):
+
+MD5: "smd5"
+SHA-1: "ssha1", 
+SHA-256: "ssha256"
+SHA-512: "ssha512"
+Blowfish: "sblowfish"
+
+Notes:
+
+How do you set a password hashing algorithm on a system?
+ 	chsec -f /etc/security/login.cfg -s usw -a pwd_algorithm=<algorithm name>
+How do you list a password hashing algorithm that is set on system?
+	lssec -f /etc/security/login.cfg -s usw -a pwd_algorithm
+
+Users:
+
+crypuser, md5user, s1user, s256user, s512user, sblouser
+expires, neverexp, expired, disabled, lockout, nologin, nopass
+
+Turn on expiration (10 weeks):
+chuser maxage=10 <expires user>
+
+Turn off expiration
+chuser maxage=0 <expires user>
+
+Set to passwd expired/must change:
+pwdadm -f ADMCHG <expired username>
+
+Set to disabled:
+<only when fresh user created with no credentials>
+
+Set to lockedout:
+chuser account_locked=true <lockedout username>
+
+Set to no-login:
+chuser login=false <nologin username>
+chuser rlogin=false <nologin username>

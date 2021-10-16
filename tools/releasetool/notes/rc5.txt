@@ -1,0 +1,24 @@
+Release Candidate 5
+-------------------
+
+Hello Beta Testers!
+
+Changes from RC5:
+
+Bugfix: brute force on slow hashes really slow for first two characters
+Bugfix: sha512/crypt giving zero c/s on nvidia
+Bugfix: Recalibrating a single cell can cause crashes.
+Bugfix: md5/crypt giving zero c/s on AMD
+Bugfix: cracking needs lower system priority to ensure gui remains responsive.
+Bugfix: any accounts that have no hash and are 'no password' should show as cracked
+Bugfix: Clicks on calibration dialog going to wrong handler
+Bugfix: BSD Blowfish test not loading passwords
+Bugfix: JtR Self Tests Failing
+Bugfix: kernel caching not working on nvidia
+Bugfix: LC7 Agent needs testing on Windows 10 'Anniversary Update'
+Bugfix: SHA512/Crypt fails consistently on Nvidia hardware.
+Bugfix: MD5/Crypt fails consistently on AMD hardware.
+
+Thanks, and happy testing!
+
+

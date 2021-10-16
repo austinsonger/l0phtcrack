@@ -1,0 +1,59 @@
+daemon:*:1:1::0:0:The devil himself:/root:/sbin/nologin
+operator:*:2:5::0:0:System &:/operator:/sbin/nologin
+bin:*:3:7::0:0:Binaries Commands and Source:/:/sbin/nologin
+sshd:*:27:27::0:0:sshd privsep:/var/empty:/sbin/nologin
+_portmap:*:28:28::0:0:portmap:/var/empty:/sbin/nologin
+_identd:*:29:29::0:0:identd:/var/empty:/sbin/nologin
+_rstatd:*:30:30::0:0:rpc.rstatd:/var/empty:/sbin/nologin
+_rusersd:*:32:32::0:0:rpc.rusersd:/var/empty:/sbin/nologin
+_fingerd:*:33:33::0:0:fingerd:/var/empty:/sbin/nologin
+_x11:*:35:35::0:0:X Server:/var/empty:/sbin/nologin
+_unbound:*:53:53:unbound:0:0:Unbound Daemon:/var/unbound:/sbin/nologin
+_spamd:*:62:62::0:0:Spam Daemon:/var/empty:/sbin/nologin
+uucp:*:66:1::0:0:UNIX-to-UNIX Copy:/var/spool/uucppublic:/sbin/nologin
+www:*:67:67::0:0:HTTP Server:/var/www:/sbin/nologin
+_isakmpd:*:68:68::0:0:isakmpd privsep:/var/empty:/sbin/nologin
+proxy:*:71:71::0:0:Proxy Services:/nonexistent:/sbin/nologin
+_syslogd:*:73:73::0:0:Syslog Daemon:/var/empty:/sbin/nologin
+_pflogd:*:74:74::0:0:pflogd privsep:/var/empty:/sbin/nologin
+_bgpd:*:75:75::0:0:BGP Daemon:/var/empty:/sbin/nologin
+_tcpdump:*:76:76::0:0:tcpdump privsep:/var/empty:/sbin/nologin
+_dhcp:*:77:77::0:0:DHCP programs:/var/empty:/sbin/nologin
+_mopd:*:78:78::0:0:MOP Daemon:/var/empty:/sbin/nologin
+_tftpd:*:79:79::0:0:TFTP Daemon:/var/empty:/sbin/nologin
+_rbootd:*:80:80::0:0:rbootd Daemon:/var/empty:/sbin/nologin
+_ppp:*:82:82::0:0:PPP utilities:/var/empty:/sbin/nologin
+_ntp:*:83:83::0:0:NTP Daemon:/var/empty:/sbin/nologin
+_ftp:*:84:84::0:0:FTP Daemon:/var/empty:/sbin/nologin
+_ospfd:*:85:85::0:0:OSPF Daemon:/var/empty:/sbin/nologin
+_hostapd:*:86:86::0:0:HostAP Daemon:/var/empty:/sbin/nologin
+_dvmrpd:*:87:87::0:0:DVMRP Daemon:/var/empty:/sbin/nologin
+_ripd:*:88:88::0:0:RIP Daemon:/var/empty:/sbin/nologin
+_relayd:*:89:89::0:0:Relay Daemon:/var/empty:/sbin/nologin
+_ospf6d:*:90:90::0:0:OSPF6 Daemon:/var/empty:/sbin/nologin
+_snmpd:*:91:91::0:0:SNMP Daemon:/var/empty:/sbin/nologin
+_rtadvd:*:92:92::0:0:IPv6 Router Advertisement Daemon:/var/empty:/sbin/nologin
+_ypldap:*:93:93::0:0:YP to LDAP Daemon:/var/empty:/sbin/nologin
+_smtpd:*:95:95::0:0:SMTP Daemon:/var/empty:/sbin/nologin
+_rwalld:*:96:96::0:0:rpc.rwalld:/var/empty:/sbin/nologin
+_nsd:*:97:97::0:0:NSD Daemon:/var/empty:/sbin/nologin
+_ldpd:*:98:98::0:0:LDP Daemon:/var/empty:/sbin/nologin
+_sndio:*:99:99::0:0:sndio privsep:/var/empty:/sbin/nologin
+_ldapd:*:100:100::0:0:LDAP Daemon:/var/empty:/sbin/nologin
+_iked:*:101:101::0:0:IKEv2 Daemon:/var/empty:/sbin/nologin
+_iscsid:*:102:102::0:0:iSCSI Daemon:/var/empty:/sbin/nologin
+_smtpq:*:103:103::0:0:SMTP Daemon:/var/empty:/sbin/nologin
+nobody:*:32767:32767::0:0:Unprivileged user:/nonexistent:/sbin/nologin
+user1:$2b$08$lIHtA.BJUQgnD2biOjuIbOe2kHgQaNF7dOtjnmAlErxDo7BE7HbQy:1001:1001::0:0:user1:/home/user1:/bin/ksh
+user2:$2b$08$fGFhnXjkV4EDM.vnNZlgiuiF1FCfIVYWdWrqUCAUMVjneC7QOFAuS:1002:1002::0:0:user2:/home/user2:/bin/ksh
+user3:$2b$08$eVIhdfugsXh86qxlz2ZL3OfYGPqSCiMIA6NfYXvAIpo8wLIMDyIyi:1003:1003::0:0:user3:/home/user3:/bin/ksh
+user4:$2b$08$J9cKPfgxutTycmYIcSJGOOHOKAD6NPSpHAfvzL26OI2yTle.gPTvq:1004:1004::0:0:user4:/home/user4:/bin/ksh
+user5:$2b$08$KYp9QDpEC4JH90../j03cexXZOHOm0q3l2Dn/k/JDXEAm7COD.PpW:1005:1005::0:0:user5:/home/user5:/bin/ksh
+user6:$2b$08$qQxwgv.G39kmkKZUYYxMreQCxEcnVijyAYVlch03rxFbRehdCSQB2:1006:1006::0:0:user6:/home/user6:/bin/ksh
+expires:$2b$08$ajpA2OmmGcVnXb3cd9eiqeJP7jchHtCp2C6v7/jDoxIBK0b.y/y6i:1007:1007::1451635200:0:expires:/home/expires:/bin/ksh
+neverexpires:$2b$08$YR3Mq92vGtlqOi73iX1OpegB3ihyw.z2uN12yTIACcK0MtP.xY0yK:1008:1008::0:0:neverexpires:/home/neverexpires:/bin/ksh
+expired:$2b$08$iMXgBOJL6TH.UV.Ksk1ONO9mmfbG8YHUZyYfYY9f2OEb3FZaZxdaO:1009:1009::1:0:expired:/home/expired:/bin/ksh
+disabled:$2b$08$GcjIFywP.EFzpV/11vm5.ufm74qTD8/zLxKcP9NWM8MlXmxthlRMW:1010:1010::0:1:disabled:/home/disabled:/bin/ksh
+lockedout:*$2b$08$EmGLdQNyng1LuYFM2m4sTud0IvzCTctLSPmaE.q5z/VXXPIopZTiy:1011:1011::0:0:lockedout:/home/lockedout:/bin/ksh-
+nologin:$2b$08$.IJo9kHdPmfD8RGFTlVtIOHnQBVjhG2NKHBVG89Q7PDmdNAoLF3UG:1012:1012::0:0:nologin:/home/nologin:/sbin/nologin
+nopass:*:1013:1013::0:0:nopass:/home/nopass:/bin/ksh

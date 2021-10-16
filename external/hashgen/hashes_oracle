@@ -1,0 +1,1501 @@
+#!comment: Built with pass_gen.pl in ISO-8859-1 character set mode, 0 to 128 characters dict file=wordlist-big
+addams:A6D503C95798C5B7:0:0::oracle_des_hash:
+1:23A6B8951EC890D0:1:0:    :oracle_des_hash:
+u3:A07EC616AE62F90B:2:0: rincess4life:oracle_des_hash:
+elev__chars:D6DB4711EB087CEA:3:0:!    :oracle_des_hash:
+barney:4537EC1CE63BA3B6:4:0:!!    :oracle_des_hash:
+harvey:60DD5A5B385D9182:5:0:!!!:oracle_des_hash:
+Joe:4195989E91D13654:6:0:!!!!!!:oracle_des_hash:
+teN__chars:A79C09E285C2162A:7:0:!!!!!!    :oracle_des_hash:
+a:76CBCDE7EA2D52A5:8:0:!!!!!!!    :oracle_des_hash:
+u3:B677B694F4BC3420:9:0:!!!!!!!!    :oracle_des_hash:
+2:97ED00A1DE33DE88:10:0:!!!!!!!!!!    :oracle_des_hash:
+Herman:E1FF316C1C543F4E:11:0:!!!666666!!!:oracle_des_hash:
+john:15241F0B218DBD1B:12:0:!!!gerard!!!:oracle_des_hash:
+john:509BE0D657C800B6:13:0:!!!sara:oracle_des_hash:
+2:59202AED7D8FBA5F:14:0:!!1331xxx:oracle_des_hash:
+skippy:369034D0E52A53B7:15:0:!!8558!!:oracle_des_hash:
+Johnson:8F2AC5BB4AAED27F:16:0:!!@#$%^:oracle_des_hash:
+Twelve_chars:380A8F39AF5C34EA:17:0:!!Jed02?:oracle_des_hash:
+ripper:CB26235D4A6A2379:18:0:!!URdead:oracle_des_hash:
+usr:B1AF968ECA246FD7:19:0:!!blingbling:oracle_des_hash:
+barney:5F54DB81470AE56A:20:0:!!php1:oracle_des_hash:
+elev__chars:994375B83AEC01DA:21:0:!!techno:oracle_des_hash:
+ninechars:10FA54496DB6A358:22:0:!!turbo:oracle_des_hash:
+bin:E3EC0CB470C7F9EF:23:0:!#%&    :oracle_des_hash:
+elev__chars:AEE5BDFCA3615625:24:0:!#%&(    :oracle_des_hash:
+Herman:9BA28241BBD009E0:25:0:!#%&*^$@:oracle_des_hash:
+01234:EC6CBF00B14E4147:26:0:!)obcy:oracle_des_hash:
+Johnson:5D8A9E30C7401D54:27:0:!+!+@    :oracle_des_hash:
+teN__chars:367F840D2CFEC060:28:0:!+!=@    :oracle_des_hash:
+addams:1BFC79A6A72ED51F:29:0:!1001dk:oracle_des_hash:
+Johnson:ACEE3B249FEE6C4E:30:0:!12345:oracle_des_hash:
+harvey:F8659E8175A0BBDE:31:0:!1521!:oracle_des_hash:
+anicocls:825B1861A811D7C2:32:0:!1Gwestgate:oracle_des_hash:
+addams:03231B63CC5E5704:33:0:!1onewon:oracle_des_hash:
+John:D1AAD55019FABE02:34:0:!23456:oracle_des_hash:
+Bing:4D26189DEFD6F508:35:0:!2triv2g:oracle_des_hash:
+2:243367AC43699DCF:36:0:!372437!:oracle_des_hash:
+bin:C7A353F6ED7526D3:37:0:!7350r13r0    :oracle_des_hash:
+u3:3CCCB27A816168AA:38:0:!@    :oracle_des_hash:
+john:F1BD126AD112235A:39:0:!@!@    :oracle_des_hash:
+user:15848EF8F2E8967C:40:0:!@#    :oracle_des_hash:
+u2:6888C563A2386460:41:0:!@#!@#    :oracle_des_hash:
+barney:E09C4D627BF8AAF0:42:0:!@#$    :oracle_des_hash:
+teN__chars:13B13A779A87F81F:43:0:!@#$!@#$    :oracle_des_hash:
+u3:25A7AE5A3E97861C:44:0:!@#$%:oracle_des_hash:
+root:A4896EC79EFF69B0:45:0:!@#$%    :oracle_des_hash:
+harvey:FA4DB98E5B6B6A60:46:0:!@#$%3    :oracle_des_hash:
+ripper:6851EBAC55F8780E:47:0:!@#$%^:oracle_des_hash:
+3:AB527C94AF5A7E2F:48:0:!@#$%^:oracle_des_hash:
+harvey:3AF214D6FE611B7B:49:0:!@#$%^    :oracle_des_hash:
+sz110:194EE4B3B0748CDD:50:0:!@#$%^&:oracle_des_hash:
+admin:E9024B82AB444E76:51:0:!@#$%^&:oracle_des_hash:
+Herman:AB83F102CAB0078F:52:0:!@#$%^&    :oracle_des_hash:
+addams:B318419E764AC401:53:0:!@#$%^&*:oracle_des_hash:
+ripper:B72E84F9C00645FE:54:0:!@#$%^&*:oracle_des_hash:
+elev__chars:9843E605472D8064:55:0:!@#$%^&*    :oracle_des_hash:
+sevench:AAB59C846F003D3E:56:0:!@#$%^&*(    :oracle_des_hash:
+anicocls:F1F19800B0C219B0:57:0:!@#$%^&*()    :oracle_des_hash:
+01234:3A57C15774E58B3D:58:0:!@#$%abcd:oracle_des_hash:
+fi15_characters:42AE02A2B833FC99:59:0:!@#$xYa:oracle_des_hash:
+usry:F23BF7B415B1C0C4:60:0:!@#&*(    :oracle_des_hash:
+harvey:4D8589DFE750C7DC:61:0:!@#(*&:oracle_des_hash:
+bin:BDFCA1E7CA201BD9:62:0:!@#*()    :oracle_des_hash:
+fi15_characters:3AEBF86B0BDF2154:63:0:!@#admin    :oracle_des_hash:
+1:CE0ED9642A781627:64:0:!@#lucas:oracle_des_hash:
+John:BEC7D7573C8C83A5:65:0:!@#manager    :oracle_des_hash:
+sevench:87C1DE478B4A48AE:66:0:!@#test    :oracle_des_hash:
+elev__chars:D3B955CA1CEF26FB:67:0:!@Noreen45:oracle_des_hash:
+usr:ADC9E6ECE5661310:68:0:!@QWASzx:oracle_des_hash:
+a:312810835161EA7F:69:0:!@qwe:oracle_des_hash:
+ninechars:787F667EF2AD669A:70:0:!Asdfj13:oracle_des_hash:
+sevench:01EA798346D12AA1:71:0:!ClancY9:oracle_des_hash:
+John:380712D5289C1FF2:72:0:!Hax0R!:oracle_des_hash:
+ripper:803E5B89AB047160:73:0:!MIKE!:oracle_des_hash:
+sz110:4933AF9E09FB4987:74:0:!Password1:oracle_des_hash:
+John:602095149FB09015:75:0:!Q2w3e:oracle_des_hash:
+ninechars:AB3194D1F823B7B5:76:0:!Q@W#E    :oracle_des_hash:
+u2:D886A7B64B365BE7:77:0:!Splat:oracle_des_hash:
+root:E5D6AF839A9640BA:78:0:!Wolfe$:oracle_des_hash:
+3:88760908736881D1:79:0:!\"£$%^:oracle_des_hash:
+root:18FA406377701455:80:0:!^)!!$%^&:oracle_des_hash:
+usry:7AC43A9E445D98D4:81:0:!alph123:oracle_des_hash:
+admin:D54D6F56F4938D11:82:0:!avkorn:oracle_des_hash:
+a:5A2EA21C8143E4F0:83:0:!bartd:oracle_des_hash:
+teN__chars:5CFCB6FB8AB1C239:84:0:!bastage!:oracle_des_hash:
+u1:2CFB9A683425E4CD:85:0:!bcg42:oracle_des_hash:
+usr:E5208E4F8FC2D612:86:0:!beavis:oracle_des_hash:
+1:772157D61F69887E:87:0:!brianna!:oracle_des_hash:
+ninechars:048261172F0C909B:88:0:!bsa1983:oracle_des_hash:
+01234:67F3352D492B20A1:89:0:!bubbles!46:oracle_des_hash:
+usry:5FA7E6EAD3AFF3F0:90:0:!callie:oracle_des_hash:
+teN__chars:59D8E8C8153B2911:91:0:!chair:oracle_des_hash:
+fi15_characters:085294A0D3BAFFA8:92:0:!chimpboi!:oracle_des_hash:
+Thirteenchars:28D11C068C437E0E:93:0:!d!0t²:oracle_des_hash:
+John:91AA1E3F3E7D491E:94:0:!daintofpunk!:oracle_des_hash:
+01234:6B7C50619E2F74C2:95:0:!december1987!:oracle_des_hash:
+addams:EABF5779FB17D0AF:96:0:!dgjdas:oracle_des_hash:
+01234:84E604267A7D1B9C:97:0:!dieman!:oracle_des_hash:
+user:D6C8067247EBFC52:98:0:!dre$con:oracle_des_hash:
+Herman:EF0F7DCC44B717F6:99:0:!dulcere:oracle_des_hash:
+elev__chars:A20814E5F8E0453D:100:0:!elDuck!:oracle_des_hash:
+elev__chars:4C56CB26917224E7:101:0:!elpoo:oracle_des_hash:
+Herman:B5773F5272336365:102:0:!emp!re!:oracle_des_hash:
+ripper:7883C8B8C9658161:103:0:!fanball1:oracle_des_hash:
+Joe:FBFA72B834FB4781:104:0:!firehawk1:oracle_des_hash:
+usrx:EAFFCF4E01F649D7:105:0:!front1er    :oracle_des_hash:
+ripper:788F8546B3717226:106:0:!fuckoff:oracle_des_hash:
+sevench:0665E2A85F910074:107:0:!fuckyou!:oracle_des_hash:
+usrx:70EDA12A96D72F28:108:0:!ga@ga!:oracle_des_hash:
+1:327F096AC996544A:109:0:!gert!:oracle_des_hash:
+six16_characters:F3063B8FC9277AA6:110:0:!ghi33rt:oracle_des_hash:
+john:7A2D74BA2C872957:111:0:!gravier!:oracle_des_hash:
+fi15_characters:171B76DB6D5239CB:112:0:!hasenfratz    :oracle_des_hash:
+addams:0A87D277264C7398:113:0:!havdalah:oracle_des_hash:
+usr:DD38A08489D28A7B:114:0:!horso!:oracle_des_hash:
+Thirteenchars:50D0D38B61FEB9F1:115:0:!jason:oracle_des_hash:
+01234:6AB37524CA2DC993:116:0:!kendra!:oracle_des_hash:
+bin:B036FE92E6E51A15:117:0:!lexmark16:oracle_des_hash:
+u2:2EFF40A28AF735D3:118:0:!lovehp:oracle_des_hash:
+2:50AF5473A37846D4:119:0:!loverockandroll:oracle_des_hash:
+usr:454B823E2DCC35E5:120:0:!luvzuz:oracle_des_hash:
+eightchr:1CCEDABFC43FB5E2:121:0:!magnum:oracle_des_hash:
+u1:953EBC1E9259A033:122:0:!manage    :oracle_des_hash:
+john:2546D6F980049BC9:123:0:!meandhim:oracle_des_hash:
+2:3FB5DD363BC749D2:124:0:!missmyboo:oracle_des_hash:
+skippy:5B842407A7EEA2EA:125:0:!mthr3w.0u=:oracle_des_hash:
+root:FFDFB7A45924A4B5:126:0:!myk!!:oracle_des_hash:
+teN__chars:C9A734EFC63EB9D5:127:0:!nfinity213:oracle_des_hash:
+1:C3DBDCB100C2E21F:128:0:!ninesux:oracle_des_hash:
+six16_characters:D330D802A547E8ED:129:0:!ninja5:oracle_des_hash:
+anicocls:0B28D3C945EFDE08:130:0:!nixau!:oracle_des_hash:
+Herman:88FC164461BA7FD0:131:0:!nova234:oracle_des_hash:
+01234:1491AA9650A6355A:132:0:!onetwo34:oracle_des_hash:
+ninechars:B6DA28277F876E12:133:0:!onkar:oracle_des_hash:
+sevench:67544ABB54891632:134:0:!p8is38:oracle_des_hash:
+Herman:8902169E9E9796ED:135:0:!parksbisawesome:oracle_des_hash:
+bin:A943633D87850C7E:136:0:!peter!:oracle_des_hash:
+elev__chars:51F2022711D5D323:137:0:!phpbb:oracle_des_hash:
+sz110:F7B0C406CC576EF3:138:0:!phpbb2#:oracle_des_hash:
+sz110:6D332322CBE33010:139:0:!pmoney:oracle_des_hash:
+anicocls:24804B6366176B46:140:0:!r3d1al!:oracle_des_hash:
+1:FD8D93B1B63EA991:141:0:!r3tr0:oracle_des_hash:
+root:694E198F1230E12C:142:0:!ra3zo6:oracle_des_hash:
+fi15_characters:0AE07B92CFFCA0D8:143:0:!redm0nd!:oracle_des_hash:
+Twelve_chars:DDC062B3B8A66DC2:144:0:!ritro99:oracle_des_hash:
+Thirteenchars:643CD17679EA7B28:145:0:!s1l3nt!:oracle_des_hash:
+Johnson:403F5653ACF32B6B:146:0:!secure!    :oracle_des_hash:
+John:96A999019948CEE6:147:0:!serials:oracle_des_hash:
+Joe:8D9252D0614F64A2:148:0:!shadow!:oracle_des_hash:
+addams:0DCD1DEA0DBC2EEF:149:0:!shootpower!:oracle_des_hash:
+root:2AF23B8F5EE6B218:150:0:!snidley:oracle_des_hash:
+bin:3588FC019BC25A6B:151:0:!spain!:oracle_des_hash:
+Joe:6585EBE17B588D39:152:0:!stewart:oracle_des_hash:
+Herman:80D23D9A78619CED:153:0:!stinkfut!:oracle_des_hash:
+anicocls:F3599E112000D30F:154:0:!stupid:oracle_des_hash:
+sevench:7E146A987F5500F0:155:0:!taytay!:oracle_des_hash:
+u3:EB1CAA47A18B6394:156:0:!tazz!:oracle_des_hash:
+01234:64C66D4B3237F4C5:157:0:!technoid:oracle_des_hash:
+fi15_characters:6F940F0E65EF67E8:158:0:!tfk!:oracle_des_hash:
+barney:DB79E16C9C1CD664:159:0:!thanca!:oracle_des_hash:
+root:730AD814D0279941:160:0:!tiger:oracle_des_hash:
+Johnson:FBA49ADFCBDA9FE3:161:0:!tiger!:oracle_des_hash:
+Johnson:60799A9AB76DCBCF:162:0:!tigger:oracle_des_hash:
+jack:8DF08303A8FF96E5:163:0:!v7w00!:oracle_des_hash:
+admin:11E2FCB9A0E234D5:164:0:!windward!:oracle_des_hash:
+sz110:1E823258217E478A:165:0:!yamaha:oracle_des_hash:
+ripper:5DF0A68DACC192B3:166:0:!yiannist@:oracle_des_hash:
+harvey:9C5C189108E2190C:167:0:""""""    :oracle_des_hash:
+fi15_characters:6572525050D0C79E:168:0:"NULL"    :oracle_des_hash:
+u3:3DDB6C2BDF556847:169:0:"headbanger":oracle_des_hash:
+jack:2B289DDDF4D13531:170:0:"lucy":oracle_des_hash:
+a:D9180DBB22D04320:171:0:"myspace.com":oracle_des_hash:
+anicocls:2EADF277775596C8:172:0:#    :oracle_des_hash:
+sevench:14EA88DC4BFDBC5C:173:0:#!sammie:oracle_des_hash:
+01234:E3C5135A94A8CCF2:174:0:###    :oracle_des_hash:
+Joe:CD0694C635592BBE:175:0:####:oracle_des_hash:
+user:1DF47CDB7B722DBD:176:0:#####    :oracle_des_hash:
+john:44A4218BE8A5950F:177:0:######:oracle_des_hash:
+barney:16393D9734F7655F:178:0:######    :oracle_des_hash:
+anicocls:EE84447EA0EE48C9:179:0:#######    :oracle_des_hash:
+addams:07A032A060D049C2:180:0:########    :oracle_des_hash:
+u1:C3B389B9C449FE38:181:0:###########ERON############:oracle_des_hash:
+bin:C7CD00648CECC885:182:0:##heya##:oracle_des_hash:
+2:C2D1A7D4EB79ED90:183:0:##none:oracle_des_hash:
+2:3238F4BAA0077A00:184:0:#1GMAGMA:oracle_des_hash:
+Twelve_chars:8FBBD2F120F24D50:185:0:#1Ribbet:oracle_des_hash:
+Herman:DC6898E615B91B42:186:0:#1baller:oracle_des_hash:
+usry:E05E15213F0B63BC:187:0:#1christ:oracle_des_hash:
+2:E08BD7E21A6E035C:188:0:#1cutie:oracle_des_hash:
+Joe:D20801DD60828040:189:0:#1cutiepie:oracle_des_hash:
+lexi Conrad:7576B672CFDB43D2:190:0:#1drummer:oracle_des_hash:
+01234:168DFE10D21766AD:191:0:#1joshy:oracle_des_hash:
+1:013E9644EC1044CA:192:0:#1kmarshall:oracle_des_hash:
+eightchr:418E548A87EE894A:193:0:#1loser:oracle_des_hash:
+a:66DD53A7DF9A2342:194:0:#1moomoo:oracle_des_hash:
+Joe:AC3148A86A13041D:195:0:#1password:oracle_des_hash:
+usry:AFF08E18905EA0E7:196:0:#1pimp:oracle_des_hash:
+bin:F7D905388B25C455:197:0:#1q2w3e:oracle_des_hash:
+addams:FA0A3E2E0FBB4440:198:0:#1raider:oracle_des_hash:
+ninechars:0471B6DD0A4F3F36:199:0:#1stunna:oracle_des_hash:
+1:7B18FD28B813526D:200:0:#1titty:oracle_des_hash:
+ripper:3194E2C78E0060D3:201:0:#1travis:oracle_des_hash:
+sevench:E7D43F8B1953CA76:202:0:#2107:oracle_des_hash:
+3:765C562F651E26A4:203:0:#260z!:oracle_des_hash:
+Joe:13F87E801D180E6E:204:0:#4#$is>:oracle_des_hash:
+elev__chars:EB12F23DDFD684FD:205:0:#85gismo:oracle_des_hash:
+user:6520C9F420294030:206:0:#@!    :oracle_des_hash:
+anicocls:E4438303F2C8D054:207:0:#@!!@#    :oracle_des_hash:
+eightchr:AE06CC543165F969:208:0:#BlurP#:oracle_des_hash:
+usrx:EC648954D5856C3D:209:0:#JURA5:oracle_des_hash:
+usr:FB2941349C0221E8:210:0:#M0tley2:oracle_des_hash:
+usr:E50A38469519E4FF:211:0:#M0tley321:oracle_des_hash:
+skippy:0107AADB0AC2FAA5:212:0:#MJonker:oracle_des_hash:
+barney:8A5D549B391DC265:213:0:#NAME?:oracle_des_hash:
+ninechars:B32FC6125BEE0D0B:214:0:#Noodles:oracle_des_hash:
+u3:B47AE1A3C1E47564:215:0:#P18#12#:oracle_des_hash:
+Bing:B68FDC7D78F082E7:216:0:#REF!:oracle_des_hash:
+teN__chars:86AA748D43832A96:217:0:#WC&B02:oracle_des_hash:
+3:7680AB8CF1F79522:218:0:#aC01wQ:oracle_des_hash:
+barney:17932CBA2F215338:219:0:#beauty#:oracle_des_hash:
+Thirteenchars:0EDFE4E8787C78FC:220:0:#blink182:oracle_des_hash:
+Herman:BCA3863961A9C74D:221:0:#blunt#:oracle_des_hash:
+ripper:47FCEE344B27A8F5:222:0:#boogie:oracle_des_hash:
+usry:8644705A7B800216:223:0:#boxes!!:oracle_des_hash:
+Thirteenchars:9597BA1BE860E42C:224:0:#chr@and:oracle_des_hash:
+Herman:676191EE4C1E42A8:225:0:#daa:oracle_des_hash:
+Bing:A5D860DB3049B08C:226:0:#dan88:oracle_des_hash:
+ninechars:B61254D09DB0400A:227:0:#dancer:oracle_des_hash:
+harvey:FB3A22AA8C97DAF3:228:0:#danny#:oracle_des_hash:
+u3:987B5F91CD55D536:229:0:#dlth#:oracle_des_hash:
+Thirteenchars:FCD809142C416738:230:0:#ector@1:oracle_des_hash:
+3:7EAD14E18EEB17C7:231:0:#esp123#:oracle_des_hash:
+ninechars:9927BA747F48D7AE:232:0:#ff8beb$:oracle_des_hash:
+Johnson:AC514A38ED5EB7AA:233:0:#game#:oracle_des_hash:
+u1:2A0929A8AFDE520D:234:0:#hellohello:oracle_des_hash:
+Herman:AD3D239DF666F9CF:235:0:#hope84:oracle_des_hash:
+admin:356DAB3A30773E4B:236:0:#imgod!:oracle_des_hash:
+admin:7B14CBF8DBA7AB57:237:0:#include:oracle_des_hash:
+ripper:5065208D093CA3E5:238:0:#josiah18:oracle_des_hash:
+usry:B5415BF7D2DB0284:239:0:#kaRUCi:oracle_des_hash:
+Johnson:F973FC9792355D7D:240:0:#l3phan!:oracle_des_hash:
+fR14characters:0F0603FCA7B0B9F8:241:0:#lucky$:oracle_des_hash:
+u1:1B0E33E3E2B4DB8A:242:0:#macfun:oracle_des_hash:
+sevench:DC072C656086713D:243:0:#net@pass:oracle_des_hash:
+elev__chars:75DE897AE69EF275:244:0:#no641t3mp    :oracle_des_hash:
+harvey:859C52C92558C6CD:245:0:#oneboyj:oracle_des_hash:
+Hank:5D1B8F7B839E2A88:246:0:#ougk#:oracle_des_hash:
+3:67415FA3E606EF5B:247:0:#pa$$:oracle_des_hash:
+Johnson:EF2C0DFC5A2115B3:248:0:#phyrric#:oracle_des_hash:
+Twelve_chars:5C3121CBB25505D3:249:0:#pjotor:oracle_des_hash:
+a:ED34F5077FB888D3:250:0:#playboy:oracle_des_hash:
+user:915ED657CFBC4453:251:0:#pltr666:oracle_des_hash:
+harvey:E5B57DED905A89B3:252:0:#qazwsx40:oracle_des_hash:
+anicocls:6562F89F3F914DD6:253:0:#r16$c13:oracle_des_hash:
+user:91A6E1A6F8B3442D:254:0:#redlotus:oracle_des_hash:
+user:7C4AF464427EA8F5:255:0:#root#    :oracle_des_hash:
+anicocls:5CE4AA43406E2CE1:256:0:#stormphpbb:oracle_des_hash:
+John:0018FF0A662E1197:257:0:#sv-data#:oracle_des_hash:
+2:9EB687FB64D90643:258:0:#tabsel52:oracle_des_hash:
+skippy:65A82509E2B22C04:259:0:#test$web:oracle_des_hash:
+ninechars:F4477063D15304B3:260:0:#tutis2:oracle_des_hash:
+3:47C5371725373A00:261:0:#w*rUm:oracle_des_hash:
+six16_characters:A132EE4B38F16500:262:0:#xf992:oracle_des_hash:
+Johnson:79EDFD2AAAEA5AC6:263:0:$    :oracle_des_hash:
+John:79D72DF538636257:264:0:$!KN3SS:oracle_des_hash:
+harvey:2CAABB78A2D84608:265:0:$#@!    :oracle_des_hash:
+John:0B953F0C3F2BDC70:266:0:$#ALO0:oracle_des_hash:
+fi15_characters:B994496004677CF6:267:0:$$$:oracle_des_hash:
+Twelve_chars:6DEC0B1384E0014C:268:0:$$$$    :oracle_des_hash:
+usrx:8BAF3382BEE2C8DB:269:0:$$$$$$    :oracle_des_hash:
+Hank:7F9FD6DBD64C93A9:270:0:$$$$$$$    :oracle_des_hash:
+a:3D5ACF17CE6F2A11:271:0:$$$$$$$$    :oracle_des_hash:
+u2:D6AA62E75A0464E5:272:0:$$$masterj:oracle_des_hash:
+Thirteenchars:C12069FA7FC3C9A3:273:0:$$Express$$:oracle_des_hash:
+eightchr:E0A3839159251CC2:274:0:$$PIMP$$:oracle_des_hash:
+Herman:03646F4D33529AFC:275:0:$$asma$%:oracle_des_hash:
+01234:5744D5CC05D73D0C:276:0:$%Samson$%:oracle_des_hash:
+john:3E01C111E707FD1B:277:0:$00000:oracle_des_hash:
+Joe:C3761FA28E238A2A:278:0:$0D0MIE$:oracle_des_hash:
+fi15_characters:69BB45AC8F39BED5:279:0:$0ld@2v:oracle_des_hash:
+elev__chars:67EAD089078AD273:280:0:$10Million:oracle_des_hash:
+eightchr:A5C93C1F46BFD14F:281:0:$1_aitor_4$_alcatraz:oracle_des_hash:
+a:9EBA374A8A4C54DA:282:0:$1korni:oracle_des_hash:
+John:876819B8EDF039F2:283:0:$3vereWx:oracle_des_hash:
+u3:96E8732CC845E514:284:0:$4me@1s:oracle_des_hash:
+skippy:2B8A543F267E1E76:285:0:$@nley:oracle_des_hash:
+harvey:089BF58FC65CF120:286:0:$DragoN911:oracle_des_hash:
+jack:5859C476FCD25CBB:287:0:$GTK+d3liv3r$    :oracle_des_hash:
+3:1B84BB661A90267D:288:0:$Glendale3:oracle_des_hash:
+Hank:7F8F39A36D221B14:289:0:$Jamez1$:oracle_des_hash:
+fR14characters:A35161EBC46E202B:290:0:$M1105:oracle_des_hash:
+1:7DED1EB56689F3FF:291:0:$aLica01:oracle_des_hash:
+2:980BC8C541B937C7:292:0:$achosen1:oracle_des_hash:
+ripper:B6ECCEB32C99F973:293:0:$alinas99:oracle_des_hash:
+addams:405D6011DF604BF7:294:0:$allymywife:oracle_des_hash:
+a:233CE0C2D4E8343D:295:0:$amR0ck5:oracle_des_hash:
+Johnson:DDF3494B1EA3BC50:296:0:$archaic$:oracle_des_hash:
+01234:D4EA972ED56880A5:297:0:$av5290:oracle_des_hash:
+Joe:F5C7D1096FBF1E93:298:0:$avetheW0rld:oracle_des_hash:
+anicocls:6501AD3ABAED0695:299:0:$beth01:oracle_des_hash:
+Johnson:0460BD467AC5F16D:300:0:$bling1:oracle_des_hash:
+teN__chars:37A99230944859DB:301:0:$brent111:oracle_des_hash:
+anicocls:759741FBF8CACCA5:302:0:$c0RP10n$:oracle_des_hash:
+Bing:753A76AA6DDD60CB:303:0:$c0ttie:oracle_des_hash:
+Johnson:2E6530B7B4E3BDF0:304:0:$community$:oracle_des_hash:
+ripper:9B1DB4AA5D61A8DB:305:0:$cowsrule:oracle_des_hash:
+u2:9BC2130D66D890F0:306:0:$cr099!t:oracle_des_hash:
+teN__chars:D005A6A5D74CDB45:307:0:$dallas$:oracle_des_hash:
+admin:F1215B8BF415DE6D:308:0:$drummer:oracle_des_hash:
+Hank:789B1D2884118F68:309:0:$excii:oracle_des_hash:
+Thirteenchars:BD4B70A2F6084702:310:0:$frizup:oracle_des_hash:
+u3:3DE6D811439C64BF:311:0:$gfd27dm:oracle_des_hash:
+lexi Conrad:31BAEC7A132D5D2F:312:0:$h@D0w:oracle_des_hash:
+john:588D2043BC830498:313:0:$hawn:oracle_des_hash:
+elev__chars:40F92B6F8E6CC9F4:314:0:$ho107:oracle_des_hash:
+Hank:62ECE017E7028C33:315:0:$hybrid:oracle_des_hash:
+u1:CF927CB81188C2C8:316:0:$josailorv$:oracle_des_hash:
+eightchr:7A3BA604BAE8C16C:317:0:$katherine:oracle_des_hash:
+01234:1CE437DB9FE1133C:318:0:$keystone$:oracle_des_hash:
+Herman:882EE61631FF06AA:319:0:$lackware:oracle_des_hash:
+root:293FD75EA21354C3:320:0:$lacrosse$:oracle_des_hash:
+skippy:D3EE8CEC5ADEE78D:321:0:$lambretta:oracle_des_hash:
+usrx:C8A2AF79AA06D5B0:322:0:$m0k3y:oracle_des_hash:
+admin:900DDEE16AA30C88:323:0:$manager$:oracle_des_hash:
+Joe:6C3DEFB1281FDE9C:324:0:$maradith:oracle_des_hash:
+john:B03784B5FF80FB00:325:0:$massimo:oracle_des_hash:
+harvey:EA00350856B14129:326:0:$matthew:oracle_des_hash:
+sevench:2CA6D36F00EABC3A:327:0:$millenium$:oracle_des_hash:
+01234:01D5A1BFBFB60DA6:328:0:$moKin:oracle_des_hash:
+usry:05C3DCB4A092C07F:329:0:$mob$*ALS*:oracle_des_hash:
+u1:BC1F2B2F6B44F1F1:330:0:$niBBl3z:oracle_des_hash:
+six16_characters:8176EEECECFFFE2C:331:0:$olamIt@:oracle_des_hash:
+bin:2C497A2E63010F78:332:0:$outh1998:oracle_des_hash:
+01234:8C2B54D424D0FB0A:333:0:$p00n$:oracle_des_hash:
+jack:B9F68DD607AB02A1:334:0:$p4c3k4k3:oracle_des_hash:
+root:A37A2EF0607CB35A:335:0:$phpbb:oracle_des_hash:
+skippy:483A2BB104838A08:336:0:$piderx:oracle_des_hash:
+john:0DC0A4AFAD0DA7D2:337:0:$plqrvt$:oracle_des_hash:
+ripper:5A94B83912F02F70:338:0:$power$:oracle_des_hash:
+Twelve_chars:5D5EE03414A77BEE:339:0:$r3n%470$:oracle_des_hash:
+john:BD1BA10AA2132EA2:340:0:$reeny$:oracle_des_hash:
+a:8102298B4D2CF382:341:0:$secure$    :oracle_des_hash:
+fi15_characters:D01705F9F88E00D4:342:0:$sixof1:oracle_des_hash:
+Twelve_chars:87F93D3D477FB02B:343:0:$superarts:oracle_des_hash:
+Thirteenchars:CFAC9755A7E121D2:344:0:$t0p&g0:oracle_des_hash:
+skippy:2F91C616459050CA:345:0:$talks:oracle_des_hash:
+user:445847E47E96F96F:346:0:$tr@ng3r:oracle_des_hash:
+user:E1808E1185FFC7DE:347:0:$treet:oracle_des_hash:
+lexi Conrad:2CFA603607F8D86E:348:0:$tube47:oracle_des_hash:
+fR14characters:5D709C6E09748F80:349:0:$uckmydick:oracle_des_hash:
+Joe:B4D954EE0561A599:350:0:$unbleaf:oracle_des_hash:
+fi15_characters:072E841FBAB83140:351:0:$uperman:oracle_des_hash:
+lexi Conrad:F0A6277FD465B576:352:0:$ussc08:oracle_des_hash:
+lexi Conrad:97BD35B7B32C0558:353:0:$vercer:oracle_des_hash:
+Bing:72554CAAC7663489:354:0:$wsu2121:oracle_des_hash:
+harvey:974E796E9CD01940:355:0:$yZyGy8:oracle_des_hash:
+fi15_characters:5B7E97AC14537BA6:356:0:%    :oracle_des_hash:
+addams:80EA5005CA320BFE:357:0:%$#@!    :oracle_des_hash:
+ninechars:4F37D1ACF1E7373B:358:0:%%%%%    :oracle_des_hash:
+usrx:13FD833EBC640097:359:0:%%phpBB%%:oracle_des_hash:
+skippy:FA98BFFFF683D7CB:360:0:%,aT7bMzuc:oracle_des_hash:
+john:A8A00B813EC65DFB:361:0:%33ezln:oracle_des_hash:
+Thirteenchars:2A00F4819E81865C:362:0:%6hK&8:oracle_des_hash:
+addams:B24DD537F4CCD5BA:363:0:%976Gan&:oracle_des_hash:
+anicocls:D5381315D0C4BE5E:364:0:%darcrist%:oracle_des_hash:
+jack:B3B2C88B3E9ED001:365:0:%here:oracle_des_hash:
+Hank:06F73C17A53351A3:366:0:%savior%:oracle_des_hash:
+jack:DAF88C48F5C8BB98:367:0:%sth#zcj$:oracle_des_hash:
+ninechars:3B856B3FAD0DE11F:368:0:%superman&:oracle_des_hash:
+john:802E145B8649E0A1:369:0:&    :oracle_des_hash:
+user:9CAECFFA8D504089:370:0:&#1575;&#1581;&#1605;&#1583;:oracle_des_hash:
+Thirteenchars:01E8B28C28EB33A5:371:0:&&&&&    :oracle_des_hash:
+Twelve_chars:0A7E1524EDE22C6F:372:0:&&&&&&    :oracle_des_hash:
+a:5AD3F3AAD61BC9FF:373:0:&&&&&&&    :oracle_des_hash:
+john:F064C8955EE3C516:374:0:&&&&&&&&    :oracle_des_hash:
+01234:F1AC6A9F8E4C064A:375:0:&&*&TTYT:oracle_des_hash:
+anicocls:E5B1E888FEA0B22F:376:0:&=C3=A9\""\'&=C3=A9\""\':oracle_des_hash:
+sevench:0E56DF351AEE3A95:377:0:&^%$#@!    :oracle_des_hash:
+Thirteenchars:EF7A467A5BD27549:378:0:&^)*)#:oracle_des_hash:
+usry:8E17CF372FECF734:379:0:&_&=C3=A0&=C3=A7=C3=A7=C3= =A7:oracle_des_hash:
+Twelve_chars:A7DF5183368E7AEC:380:0:&_&=C3=A0&=C3=A7=C3=A7=C3=A7:oracle_des_hash:
+sevench:DC47F738803140CE:381:0:&_GHT=C3=A0=C3=A9:oracle_des_hash:
+sz110:ED6B45728C249C96:382:0:&ashwin:oracle_des_hash:
+Herman:597792855479DD32:383:0:&caiag716:oracle_des_hash:
+Johnson:BF123ACDEA6346F2:384:0:&eharst!!!:oracle_des_hash:
+elev__chars:EFD3DFF9BAB03449:385:0:&ghost:oracle_des_hash:
+Hank:096E880A6C4FFAD0:386:0:&hearts:oracle_des_hash:
+fR14characters:41C8A7746DEE4A46:387:0:&hearts!!!:oracle_des_hash:
+six16_characters:810014379A38A349:388:0:&hearts11:oracle_des_hash:
+Johnson:52455528EBA7D032:389:0:&hearts;:oracle_des_hash:
+fi15_characters:F4C9A53758C0EF91:390:0:&hearts;;:oracle_des_hash:
+root:116EC320CAFA4834:391:0:&hearts;ccm:oracle_des_hash:
+2:5A56E26DB0A9F3A7:392:0:&heartshim:oracle_des_hash:
+eightchr:70AA2E9C3B117A2A:393:0:&helies:oracle_des_hash:
+usrx:6DAE293292753C1F:394:0:&iloveit55:oracle_des_hash:
+a:99485330746F0F17:395:0:&iloveyo2u:oracle_des_hash:
+usrx:B08CD514789EB9AF:396:0:&newman:oracle_des_hash:
+a:03B755D379E32985:397:0:&é\"\':oracle_des_hash:
+Joe:5E921C645C7371F8:398:0:':oracle_des_hash:
+2:C61570B3E7E7E488:399:0:''''''    :oracle_des_hash:
+elev__chars:E779668DE27D3B27:400:0:''PANIC''SUR13:oracle_des_hash:
+01234:4B850BD568B9F17E:401:0:';lkjhgfdsa    :oracle_des_hash:
+jack:1D5DCA914ECB0289:402:0:'elephant:oracle_des_hash:
+fR14characters:D817F385BAC8E6C7:403:0:'xafomee:oracle_des_hash:
+user:3F8C4095211B978B:404:0:(:oracle_des_hash:
+addams:49BBD2B69E003F35:405:0:(    :oracle_des_hash:
+Joe:22993FAF4A9A64CC:406:0:(((((((((    :oracle_des_hash:
+2:1BF62C1A865F212F:407:0:((((((((((    :oracle_des_hash:
+harvey:08B5B4E24709B8AF:408:0:()()()():oracle_des_hash:
+sz110:4B84D47CEA633B1D:409:0:()virg0!:oracle_des_hash:
+addams:D3792BF438D0ADAA:410:0:(*&^%$#@!    :oracle_des_hash:
+jack:D3A069EC95E44B45:411:0:(*)steve(*):oracle_des_hash:
+Thirteenchars:B4E15039FA88EF9C:412:0:(*dk48wt)_:oracle_des_hash:
+Twelve_chars:018D5E1F567DEBED:413:0:(0ldmeat:oracle_des_hash:
+eightchr:0DA7ABC65F6127EA:414:0:(3107    :oracle_des_hash:
+Twelve_chars:1F6E05E29BB0F6E9:415:0:(858) 373-8773:oracle_des_hash:
+ripper:FBE84AB5F721DEA3:416:0:(ARIANNA&ANDREA):oracle_des_hash:
+lexi Conrad:CDF6F377D867950B:417:0:(BABILUX):oracle_des_hash:
+a:846A78FF35C83421:418:0:(LL)lol(LL):oracle_des_hash:
+lexi Conrad:4C73B5FD36FD7ADD:419:0:(adamGontier):oracle_des_hash:
+Thirteenchars:DC92333667A11188:420:0:(badoygs):oracle_des_hash:
+fi15_characters:D486C83C934BE19D:421:0:(banana):oracle_des_hash:
+1:FC80339B8933A7A0:422:0:(blank):oracle_des_hash:
+eightchr:528529D074EF685C:423:0:(boots!):oracle_des_hash:
+lexi Conrad:02FFD985FE452383:424:0:(chimul):oracle_des_hash:
+user:64498062F3F8CC79:425:0:(connor#16:oracle_des_hash:
+anicocls:DF88B9748E56A939:426:0:(esba632):oracle_des_hash:
+u1:C6FE33408788802A:427:0:(greywolf124):oracle_des_hash:
+Bing:6ACD8B59B4B967D5:428:0:(harl@ne:oracle_des_hash:
+jack:AF980937B8DA2428:429:0:(m)ary:oracle_des_hash:
+fR14characters:08B144671B4755B6:430:0:(miroku):oracle_des_hash:
+1:DFF44989397CDA8C:431:0:(octubre)151976:oracle_des_hash:
+bin:BDB4FF4DD075BAF3:432:0:(retard):oracle_des_hash:
+Bing:400370205EC55336:433:0:(rmd)(+)(rm)4eva:oracle_des_hash:
+jack:CBCD6A30F1736E8B:434:0:(smile):oracle_des_hash:
+jack:A55E261C33EC5761:435:0:(that    :oracle_des_hash:
+john:15F8189DBE5B0695:436:0:(tyral):oracle_des_hash:
+usrx:ED62CC279B0C780E:437:0:(w1ck3d):oracle_des_hash:
+teN__chars:6D897C96467A7CFD:438:0:):oracle_des_hash:
+u1:354D144294CDEFE0:439:0:)    :oracle_des_hash:
+addams:B25DB2AECB8B96F5:440:0:)!(@daf:oracle_des_hash:
+fi15_characters:565F37AA830B0468:441:0:)(*&^%$#@!    :oracle_des_hash:
+ripper:6A7CC9983AFD03A1:442:0:))))))))))    :oracle_des_hash:
+six16_characters:DE17D2A6EF0538AD:443:0:)luv!:oracle_des_hash:
+fi15_characters:B648BA6CB3A385B7:444:0:*:oracle_des_hash:
+Johnson:9DCA9B7910F84F86:445:0:*    :oracle_des_hash:
+Bing:83F552FC77E1D7C7:446:0:*$mob$*ALS:oracle_des_hash:
+barney:B646238C5ED3DD10:447:0:*$tar$*:oracle_des_hash:
+usrx:E037535D85408B9A:448:0:*&^%$#@!    :oracle_des_hash:
+Bing:31107E147154EF88:449:0:*&^moo*&^:oracle_des_hash:
+fi15_characters:3B42338BF55CD1CA:450:0:**:oracle_des_hash:
+ninechars:7A83B7ECEFC34AB9:451:0:**    :oracle_des_hash:
+John:FCFBB5734F68AA5E:452:0:***:oracle_des_hash:
+elev__chars:E3E901632849AEE9:453:0:***    :oracle_des_hash:
+usrx:E720A36B91184FBE:454:0:***###***:oracle_des_hash:
+Johnson:C5C2E00D5EE3F4D1:455:0:***()***:oracle_des_hash:
+Twelve_chars:254C4E000E437D03:456:0:****    :oracle_des_hash:
+addams:671D520C2CA68F7B:457:0:*****:oracle_des_hash:
+ninechars:A4A72576DD9045D3:458:0:*****    :oracle_des_hash:
+addams:6B4938E3F0151BCF:459:0:******:oracle_des_hash:
+a:ACB0A101D7C4597F:460:0:******    :oracle_des_hash:
+fi15_characters:FBCD009FB391A563:461:0:*******:oracle_des_hash:
+anicocls:241CF815882F346E:462:0:*******    :oracle_des_hash:
+fR14characters:3D46B2E9774A3BC8:463:0:********:oracle_des_hash:
+six16_characters:2D02651E7961134D:464:0:********    :oracle_des_hash:
+Thirteenchars:19C50A2FFB10099B:465:0:*********:oracle_des_hash:
+01234:74220590B4971B57:466:0:**********:oracle_des_hash:
+anicocls:E6E7361A578AFF5A:467:0:**********    :oracle_des_hash:
+Twelve_chars:CDEB0BE03B3CC445:468:0:***********:oracle_des_hash:
+ripper:BAFC21C31D0899E0:469:0:************:oracle_des_hash:
+usry:4F971C3B22BC5B3B:470:0:****************:oracle_des_hash:
+usr:CD31E2289AF1381B:471:0:******************:oracle_des_hash:
+John:702C625921767443:472:0:********************************:oracle_des_hash:
+user:7190675DC29DEECA:473:0:********************************************:oracle_des_hash:
+skippy:84CCE91FBC773C6F:474:0:******abba:oracle_des_hash:
+sevench:A004348D2A67989D:475:0:****kz:oracle_des_hash:
+harvey:77F4E74C37BED5E6:476:0:***123qwe:oracle_des_hash:
+Joe:57991A53CB185289:477:0:***k**:oracle_des_hash:
+sz110:1DD6279220EF5A62:478:0:**0607**:oracle_des_hash:
+usry:EE03E690C4A19BB6:479:0:**122333**:oracle_des_hash:
+admin:69F6BD699AD6DABB:480:0:**biddy7:oracle_des_hash:
+barney:7B0E61472C8393F2:481:0:**cilla7**:oracle_des_hash:
+user:0E0927B9F6BF6B32:482:0:**emo14**:oracle_des_hash:
+Twelve_chars:3385511F36941946:483:0:**hopehope**:oracle_des_hash:
+u2:12ED612CF3D09CA8:484:0:**jake1971:oracle_des_hash:
+a:0CA92014ABCD6EF2:485:0:**kjt**:oracle_des_hash:
+sz110:0C0C581232A9418C:486:0:**sebbycat**:oracle_des_hash:
+admin:33366057D911DBF4:487:0:*-*-random:oracle_des_hash:
+bin:C28D03BAF8E73598:488:0:*//35be16go23//*:oracle_des_hash:
+Herman:4873D33597D9FBB3:489:0:*10#as:oracle_des_hash:
+u2:CEA76AF75CCB952C:490:0:*123dt%q:oracle_des_hash:
+Thirteenchars:3BE54906B644AE8E:491:0:*131477:oracle_des_hash:
+user:39E3CA2BAA13B258:492:0:*14slh41*:oracle_des_hash:
+a:E03882BD8E64F63E:493:0:*1879600505602*:oracle_des_hash:
+addams:EAE156087660F420:494:0:*1life:oracle_des_hash:
+Joe:EEB5D0A7035F7457:495:0:*1maier1*:oracle_des_hash:
+Herman:6331FC0B6F666A57:496:0:*2112*:oracle_des_hash:
+anicocls:24ACFCCDE0710F51:497:0:*3gd8tz:oracle_des_hash:
+u2:7C5605249BD84A7E:498:0:*4167-:oracle_des_hash:
+u2:D5111B9C5D35D7A8:499:0:*523331*:oracle_des_hash:
+teN__chars:5299E5500A75FE0A:500:0:*76ygh:oracle_des_hash:
+bin:DA7A8BD91DE7C063:501:0:*790616*:oracle_des_hash:
+ripper:5BD6FCA9B099C271:502:0:*91cutlass:oracle_des_hash:
+admin:6C7EF0E8EF2E1EEE:503:0:*@-8523.0:oracle_des_hash:
+john:903CB3B48A92E492:504:0:*ARCTICMON:oracle_des_hash:
+admin:49A3E5F35D815F6D:505:0:*Amigo!:oracle_des_hash:
+3:EC1452F418FA52D5:506:0:*AngelA01*:oracle_des_hash:
+jack:604724084ED91F8F:507:0:*Chidori*:oracle_des_hash:
+Johnson:D198844DB6554019:508:0:*DIXON*:oracle_des_hash:
+2:C5D8BAA0D70233A4:509:0:*FREDDY*:oracle_des_hash:
+root:924BCA2067681AFE:510:0:*Gracie*:oracle_des_hash:
+anicocls:075F4DDA7AC915C7:511:0:*Javier*:oracle_des_hash:
+teN__chars:9DAE7B63568AB816:512:0:*KOL*500:oracle_des_hash:
+a:4D8C83688318832A:513:0:*Orion*:oracle_des_hash:
+teN__chars:FCA06ED6AA36C9BB:514:0:*SoRenia:oracle_des_hash:
+john:65A2A36D08E28B3E:515:0:*a123456:oracle_des_hash:
+Johnson:0C390D6E6640714C:516:0:*aaargb:oracle_des_hash:
+usr:C078312D6B78A335:517:0:*abigailteam,o*:oracle_des_hash:
+John:B901081BD6B34DE3:518:0:*ammy:oracle_des_hash:
+sevench:2E57C32E8E1EB1CD:519:0:*babam*:oracle_des_hash:
+sevench:BD61EC7CA5AD8860:520:0:*babyd:oracle_des_hash:
+six16_characters:6FABACAFFE022DAC:521:0:*beast:oracle_des_hash:
+3:0972F59152E3B036:522:0:*beguito4*:oracle_des_hash:
+u3:CF7B58F81738111C:523:0:*bentikus*:oracle_des_hash:
+six16_characters:C1CCB1EDA1715BCE:524:0:*beroba*:oracle_des_hash:
+usr:B051A1BA48C25534:525:0:*bitchies*:oracle_des_hash:
+sz110:BC13B5F3CC2A4BB3:526:0:*blakeismine*:oracle_des_hash:
+harvey:DFBC35873A9ED2C7:527:0:*blonde:oracle_des_hash:
+usrx:C851A4A2DD39F66C:528:0:*boricuaba:oracle_des_hash:
+u1:7853527B84CC1271:529:0:*bradley*:oracle_des_hash:
+u1:716C76C6CB0A8C6D:530:0:*broken:oracle_des_hash:
+a:11A90CCC8AE97564:531:0:*c!haai:oracle_des_hash:
+Thirteenchars:7035A3541E150919:532:0:*ca4us!23:oracle_des_hash:
+Joe:7E95F20D6ACD5A84:533:0:*caroline*:oracle_des_hash:
+Johnson:912AB3A7AEEBC9BE:534:0:*cesar:oracle_des_hash:
+jack:274237F5DD161457:535:0:*cherries*:oracle_des_hash:
+harvey:DA78CF6D92042B20:536:0:*chocolate1:oracle_des_hash:
+u2:D0BBAC323304A595:537:0:*cleopatra*26103:oracle_des_hash:
+ninechars:7C9D29C98D0A27C6:538:0:*coolness:oracle_des_hash:
+Twelve_chars:349077B36311F424:539:0:*dream:oracle_des_hash:
+sevench:FC596EE02780C910:540:0:*ejaculation**:oracle_des_hash:
+addams:463EE76DBC40057F:541:0:*esmeralda*:oracle_des_hash:
+Herman:FFF2567D85B1F95E:542:0:*estrella:oracle_des_hash:
+u1:AE3585D8C794398B:543:0:*evenstar:oracle_des_hash:
+admin:80A9D6CDDDD80931:544:0:*fabiola*:oracle_des_hash:
+six16_characters:A0267754FBA586C1:545:0:*fathead1*:oracle_des_hash:
+anicocls:09E7AB6CBB0A4F09:546:0:*ferry*:oracle_des_hash:
+u2:E1CA774936635E7D:547:0:*gabby*:oracle_des_hash:
+Johnson:2101C65B78C34051:548:0:*god:oracle_des_hash:
+lexi Conrad:BC5BE4720249E8A1:549:0:*guildes*:oracle_des_hash:
+harvey:495EB057B0F4BB36:550:0:*haktc*:oracle_des_hash:
+barney:0E52766E50CCB2C8:551:0:*hidden1:oracle_des_hash:
+u1:2C3A694E90163A75:552:0:*higashi:oracle_des_hash:
+john:EBBBD4F8A687C5D8:553:0:*him*11:oracle_des_hash:
+Herman:2364962EED82E0B0:554:0:*holly&ben:oracle_des_hash:
+Twelve_chars:71837E12CCB43905:555:0:*homo*:oracle_des_hash:
+Herman:CE51D6DD944D3D61:556:0:*honney*:oracle_des_hash:
+usr:F22D0816A51DF6ED:557:0:*hottie*:oracle_des_hash:
+admin:709BCB696A2885BF:558:0:*iaminlove*:oracle_des_hash:
+john:16D6C3E4FF64A503:559:0:*ilovesoph:oracle_des_hash:
+usry:382007A77D79F722:560:0:*iloveu4eva*:oracle_des_hash:
+usr:AC31D7C6A14665BE:561:0:*iloveyou:oracle_des_hash:
+usrx:728C10A5A8E24255:562:0:*ilvgez*:oracle_des_hash:
+addams:367E39A42F6F7C4A:563:0:*jenniferal:oracle_des_hash:
+admin:851D74B2465E614E:564:0:*jiboo:oracle_des_hash:
+Thirteenchars:6ECB85C39478DC53:565:0:*katrijn*:oracle_des_hash:
+u1:8407B5AD32933188:566:0:*koala:oracle_des_hash:
+root:141DD9A6E8C6A665:567:0:*kumar:oracle_des_hash:
+Twelve_chars:9802FCC414296F1A:568:0:*lesbaby*:oracle_des_hash:
+Joe:A5E8D96414066945:569:0:*loha*ani*:oracle_des_hash:
+John:D741B877E4A20288:570:0:*lovebites*:oracle_des_hash:
+root:872063D243B552D7:571:0:*maiden*:oracle_des_hash:
+bin:3B13E4F9FF5A5CE7:572:0:*marina93:oracle_des_hash:
+fi15_characters:33DB8B38A996CF7B:573:0:*mattyh:oracle_des_hash:
+a:535C23CE4041E0B0:574:0:*mimibutt:oracle_des_hash:
+2:4A1958BB6A31F431:575:0:*minina*:oracle_des_hash:
+John:1C29CEC7AF37027C:576:0:*moozie18*:oracle_des_hash:
+u2:DB4BE3D74C42D462:577:0:*newcastle8*:oracle_des_hash:
+addams:FF1B248DDB656A47:578:0:*ntarget:oracle_des_hash:
+harvey:DDF9727AC1727284:579:0:*papaya*:oracle_des_hash:
+2:1B0B86D58295923B:580:0:*pass*:oracle_des_hash:
+addams:486E98AE58402204:581:0:*php1:oracle_des_hash:
+skippy:5D6E532A42AE0154:582:0:*phpbb*:oracle_des_hash:
+usr:0A774788F9A7E747:583:0:*pokey*:oracle_des_hash:
+usry:B810261F576BC7C0:584:0:*princess*:oracle_des_hash:
+anicocls:1FE4A8FAB3EDADE2:585:0:*ragnar0k*:oracle_des_hash:
+a:327FEFE84014D251:586:0:*roxy*:oracle_des_hash:
+elev__chars:36A7F8DF62C763BF:587:0:*s*a*m*:oracle_des_hash:
+teN__chars:1148997D0CFA8220:588:0:*sexii*:oracle_des_hash:
+ripper:0858653CE88E07DB:589:0:*shane*:oracle_des_hash:
+1:67AAC3763C5C246E:590:0:*slipknot911*:oracle_des_hash:
+Thirteenchars:1F24127D057F6728:591:0:*smirnoff*:oracle_des_hash:
+sz110:82D335F433B28275:592:0:*star15*:oracle_des_hash:
+3:F0C78E19F47F1062:593:0:*stargirl*:oracle_des_hash:
+Johnson:C19859CE6365BB45:594:0:*stephen*:oracle_des_hash:
+ripper:47794D5CCC5FF37F:595:0:*steve*:oracle_des_hash:
+john:507F68C625B6ADD0:596:0:*the*:oracle_des_hash:
+Hank:FADE686CDB68FE7E:597:0:*trenton*:oracle_des_hash:
+fR14characters:35E18E0067A2C465:598:0:*trixi*:oracle_des_hash:
+harvey:7A21B636A8456EAB:599:0:*trustNO1:oracle_des_hash:
+1:CBCA07471A5E86C7:600:0:*vanusa*:oracle_des_hash:
+skippy:B642397DB0D449DE:601:0:*will*:oracle_des_hash:
+u2:16E3D80C216C3231:602:0:*zalena6:oracle_des_hash:
+jack:3E6F37C1B5593CBC:603:0:*~MIA~*:oracle_des_hash:
+user:BCAE9BF3DF32520B:604:0:+    :oracle_des_hash:
+six16_characters:16476DC3A2BA416E:605:0:+*/568309:oracle_des_hash:
+Twelve_chars:13E28206CDF1DE64:606:0:+*98sayutani89*+:oracle_des_hash:
+john:E434BD238BB01A95:607:0:++++:oracle_des_hash:
+Hank:EB6579ADF8001091:608:0:++++++    :oracle_des_hash:
+sz110:FEE012B63344942E:609:0:++++++++++    :oracle_des_hash:
+Herman:C44A20B2292C1382:610:0:+4nesk4+:oracle_des_hash:
+skippy:B281DC76F20461CE:611:0:+perkele:oracle_des_hash:
+ninechars:A7171EA757374419:612:0:+pete-:oracle_des_hash:
+usry:EEDC6114DB94E08D:613:0:+slaughter:oracle_des_hash:
+ninechars:E416796FA7A2356D:614:0:+zebrahead:oracle_des_hash:
+sz110:E54AEA8F7AD207C8:615:0:,,,,,,    :oracle_des_hash:
+Joe:52B7A4BE8EE2C506:616:0:,,chrisd:oracle_des_hash:
+root:585B5689C18A6068:617:0:,.-,.-:oracle_des_hash:
+usry:1A1348D6867C8D46:618:0:,./,./:oracle_des_hash:
+Herman:72E62CBED856D729:619:0:,/1ab5o:oracle_des_hash:
+John:441F87688444EE11:620:0:,ehujvbcnh:oracle_des_hash:
+Joe:5789EA69EEC4655B:621:0:,fhhfrelf:oracle_des_hash:
+a:A70E72658D3A5842:622:0:,inhas:oracle_des_hash:
+Herman:769FC89CEB03AD1F:623:0:,j8G(a?:oracle_des_hash:
+addams:FA7F185A8D45ABFA:624:0:,jhbcrf:oracle_des_hash:
+John:AAE563AD3DC3C0F8:625:0:,lp-,lp-:oracle_des_hash:
+john:05774D8009C36613:626:0:,mnbvcxz:oracle_des_hash:
+ninechars:BD31F3A1F8432438:627:0:,pñose:oracle_des_hash:
+Bing:AE0D400A160FCC50:628:0:-    :oracle_des_hash:
+Hank:CF3B00FE7C3B4999:629:0:-*:oracle_des_hash:
+admin:F74212EF8FB29FDC:630:0:--*/-:oracle_des_hash:
+Herman:44C55E1C990967FF:631:0:----:oracle_des_hash:
+usrx:E4263E9B79F61193:632:0:------    :oracle_des_hash:
+Hank:AF96E181C9D4EBA5:633:0:---333777+++:oracle_des_hash:
+Joe:9328EB5ED7C97C1C:634:0:---___:oracle_des_hash:
+elev__chars:4C6D458BAF5A2D8C:635:0:---nick---:oracle_des_hash:
+Bing:62076928D855E8D4:636:0:--bitch--:oracle_des_hash:
+jack:A346333649A9C7AF:637:0:--blaze--:oracle_des_hash:
+u2:DCFDBFAEF629314F:638:0:-.-<yx33:oracle_des_hash:
+3:15BC78786F2A50E4:639:0:-10623fuck:oracle_des_hash:
+root:81FF80CB5D5EEDA5:640:0:-10=koud:oracle_des_hash:
+usry:065354840D9DAC76:641:0:-2-1--1-11:oracle_des_hash:
+Herman:27AFBBE308828A46:642:0:-6861615-:oracle_des_hash:
+1:4A892CE636EDFD38:643:0:-=W@j=-:oracle_des_hash:
+anicocls:236C9A39C4DDC945:644:0:-amoreterno-:oracle_des_hash:
+Joe:CCAF27F19E0906DB:645:0:-bbS-:oracle_des_hash:
+Thirteenchars:726F603A5599CFDC:646:0:-camilla-:oracle_des_hash:
+sevench:D84A9BB4D838E0A7:647:0:-csa-sniper-:oracle_des_hash:
+ripper:DF4C82193FE25550:648:0:-darkside:oracle_des_hash:
+Herman:944142794B97F6D1:649:0:-esdo-es:oracle_des_hash:
+01234:01C86245A292C1EA:650:0:-fanQ-:oracle_des_hash:
+bin:161C00ECB94FCB46:651:0:-fergie-:oracle_des_hash:
+fR14characters:9F77F179F1F9AE19:652:0:-flexa-:oracle_des_hash:
+root:E410228A7F172CAC:653:0:-fuckyou000-:oracle_des_hash:
+sevench:11D1DAC2758BF531:654:0:-iki384:oracle_des_hash:
+fi15_characters:419456C7A17B8DFD:655:0:-l-e-z-1:oracle_des_hash:
+addams:16A71A9238F5836E:656:0:-manga:oracle_des_hash:
+Johnson:9122DA72D5A6B2A6:657:0:-marcel-:oracle_des_hash:
+u1:710DD83BBF4EC5C7:658:0:-mawpika-:oracle_des_hash:
+jack:11C164CDC63ACE15:659:0:-mirk-1:oracle_des_hash:
+ripper:AFD9D174E2F2E929:660:0:-p3658b-:oracle_des_hash:
+eightchr:2EAFA5549CAAD736:661:0:-pickle06:oracle_des_hash:
+Thirteenchars:ACFB1001FFBDFBF0:662:0:-pickle07:oracle_des_hash:
+addams:5D23F181F05156F0:663:0:-rhcp-:oracle_des_hash:
+anicocls:7CE6320931CA3DDC:664:0:-rich-:oracle_des_hash:
+a:5D993FCDC8BEDE3D:665:0:-sailorsaturn-:oracle_des_hash:
+John:ED3370C9B430FAEA:666:0:-sappa99:oracle_des_hash:
+sevench:1AE2933EBEB78C3A:667:0:-slayerr:oracle_des_hash:
+addams:44B8D20ADCEE13FE:668:0:-sugarsweee:oracle_des_hash:
+skippy:9ECB1858756CC7C7:669:0:.    :oracle_des_hash:
+Thirteenchars:B43A6FF1FF138854:670:0:.,m    :oracle_des_hash:
+Herman:C1124501B20BAA71:671:0:.,m.,m:oracle_des_hash:
+Herman:735B66D5445643E8:672:0:.,mn    :oracle_des_hash:
+root:2B218ECA8F996EA5:673:0:.,mnb    :oracle_des_hash:
+Hank:7727A3966C1A52F6:674:0:..:oracle_des_hash:
+Herman:F0DBD54340C03C63:675:0:...:oracle_des_hash:
+ripper:8A6A6E6426F6ADE0:676:0:....    :oracle_des_hash:
+elev__chars:9B45EB7C3081F0F2:677:0:.....:oracle_des_hash:
+harvey:D524BBADE6D4FB65:678:0:.....    :oracle_des_hash:
+fi15_characters:12EF8E4BBDE7A41C:679:0:......:oracle_des_hash:
+teN__chars:BC8278BE90469ABF:680:0:......    :oracle_des_hash:
+lexi Conrad:D48B0F2B6278159B:681:0:.......:oracle_des_hash:
+u2:3A031C721FD238B2:682:0:.......    :oracle_des_hash:
+Johnson:94D9B85C5E2C5757:683:0:........    :oracle_des_hash:
+Herman:CB85F6653D86C22E:684:0:.........    :oracle_des_hash:
+admin:C0E39CF151CEDE75:685:0:..........    :oracle_des_hash:
+a:42FE5F14EA8BFB1F:686:0:...84621ap:oracle_des_hash:
+01234:3DDC62A22E449093:687:0:...mmm:oracle_des_hash:
+usr:2EE36AD0C3BD9070:688:0:..@@..:oracle_des_hash:
+sz110:F584D556CA509EDD:689:0:..cecilia..:oracle_des_hash:
+sevench:3885574A56983AA7:690:0:..sittich:oracle_des_hash:
+3:CC2716194B8AFA36:691:0:././:oracle_des_hash:
+teN__chars:DEE74968F806D516:692:0:.05tml:oracle_des_hash:
+u2:6C38486444D5602B:693:0:.1..2...3....4.....5......6    :oracle_des_hash:
+1:E6B3005288C7ECAC:694:0:.123456:oracle_des_hash:
+six16_characters:BAEC9A8410E1531E:695:0:.1asfr:oracle_des_hash:
+u2:79237558C69B07E1:696:0:.1pleo1.:oracle_des_hash:
+ninechars:BD2576DC3A64B9C8:697:0:.3698741025:oracle_des_hash:
+admin:442AD0A896C36820:698:0:.441979:oracle_des_hash:
+eightchr:AE9EF250ED6EC385:699:0:.5.yo.gm:oracle_des_hash:
+eightchr:EDEC4141FABFFFDA:700:0:.5pa5m:oracle_des_hash:
+harvey:A293337DCF7D78C6:701:0:.7077.:oracle_des_hash:
+lexi Conrad:6F1264C38939207A:702:0:.;[/']    :oracle_des_hash:
+fR14characters:992973C8FA92F250:703:0:.Arun29:oracle_des_hash:
+1:18DFAA32D1BAF699:704:0:.C0in.:oracle_des_hash:
+root:4A7148EBDE028FEA:705:0:.GP0:oracle_des_hash:
+skippy:8BF50D100BDA4217:706:0:.Silkek:oracle_des_hash:
+a:4D13A10F023C4DDB:707:0:.T8r0e0k0:oracle_des_hash:
+jack:011349A477AD9C2A:708:0:.andres:oracle_des_hash:
+Thirteenchars:B0D1952567F5BA05:709:0:.babydoll.:oracle_des_hash:
+elev__chars:110C369726D44460:710:0:.bekki4chr:oracle_des_hash:
+Twelve_chars:37124E7A298B5DDD:711:0:.booboo.:oracle_des_hash:
+anicocls:6A93F73C2A0D39E2:712:0:.boutiquedemerde:oracle_des_hash:
+Thirteenchars:D0FEB56324CF71A8:713:0:.colchones:oracle_des_hash:
+sevench:E85C32D52870C8C8:714:0:.com:oracle_des_hash:
+harvey:5E98DAB90F410757:715:0:.com4u:oracle_des_hash:
+fR14characters:BFAADA598AD77F82:716:0:.commar113:oracle_des_hash:
+Bing:9AF547CF2FBD3404:717:0:.daygar1:oracle_des_hash:
+usry:EB6F541FEBB2B09A:718:0:.erica:oracle_des_hash:
+root:22CBBCE5823D1B52:719:0:.exe:oracle_des_hash:
+fR14characters:421CB16F01A04656:720:0:.famil:oracle_des_hash:
+Johnson:CBF6EF063FD9C3A4:721:0:.farewell:oracle_des_hash:
+elev__chars:777C2FE898D67A3B:722:0:.flatl1ne:oracle_des_hash:
+user:55E924EEDA34B1BE:723:0:.foobar.:oracle_des_hash:
+u3:14B6DBB95D7075BC:724:0:.gr33N:oracle_des_hash:
+admin:251FADE43AA83CC2:725:0:.hack:oracle_des_hash:
+ninechars:19D572FDB6E328A2:726:0:.hack//sign:oracle_des_hash:
+ninechars:3926BFBE2EBDA2D2:727:0:.happy:oracle_des_hash:
+ninechars:AFC168C47FC596C8:728:0:.huevos.0:oracle_des_hash:
+anicocls:1EF461BE86A538C9:729:0:.indien:oracle_des_hash:
+a:0781B00816E847A1:730:0:.ireland.:oracle_des_hash:
+usr:9FC8443433B35543:731:0:.juneau.:oracle_des_hash:
+harvey:B39DCBF6796DE7FC:732:0:.k281191k.:oracle_des_hash:
+1:832627FA4E8FDF46:733:0:.l;by:oracle_des_hash:
+sz110:B8F9C88706DCBE42:734:0:.latala.:oracle_des_hash:
+sevench:A5E7606220E4FE28:735:0:.leedsunited.:oracle_des_hash:
+harvey:EE792402349FE118:736:0:.letmein:oracle_des_hash:
+barney:52B5827D0463A6F8:737:0:.lexam..0:oracle_des_hash:
+Johnson:3E8D42281D228433:738:0:.mabel.:oracle_des_hash:
+Hank:5C6C99A3B665A28E:739:0:.manderhal:oracle_des_hash:
+3:E6161B8E607D518F:740:0:.mexican:oracle_des_hash:
+sz110:F70A2D1BFC440348:741:0:.norple22:oracle_des_hash:
+2:4D4899BD56B9985D:742:0:.nsumer:oracle_des_hash:
+bin:D5C0529F025BF254:743:0:.pavements:oracle_des_hash:
+bin:E5E1F8671CB4CE7B:744:0:.peprice:oracle_des_hash:
+addams:EA8337E1A84F0E40:745:0:.phpbb:oracle_des_hash:
+lexi Conrad:D0C800007AFD0F4A:746:0:.plur.:oracle_des_hash:
+fi15_characters:16AC90D9DBA97207:747:0:.pooky:oracle_des_hash:
+1:A25291348ACF84B7:748:0:.rar    :oracle_des_hash:
+barney:E46A6DEE73D182A3:749:0:.sK++fj:oracle_des_hash:
+elev__chars:D0C46BE0743CA088:750:0:.sagara.:oracle_des_hash:
+usrx:3FFB5D913C44E539:751:0:.ts    :oracle_des_hash:
+Bing:590BF74994B9CDE8:752:0:.vanschuyver:oracle_des_hash:
+teN__chars:C6CF7AAC7F65B5F7:753:0:.vqXAxh3:oracle_des_hash:
+anicocls:DB35610672C2F21B:754:0:.xxoo.:oracle_des_hash:
+usr:875089A3FB5FA5A7:755:0:/*-123sefeliz:oracle_des_hash:
+sevench:63DB8E6035526593:756:0:/*-9510.:oracle_des_hash:
+ninechars:1798A62BE1D9043C:757:0:/*/*/*    :oracle_des_hash:
+anicocls:A0D893749AC81853:758:0:/.,    :oracle_des_hash:
+usrx:67901C0FE7A90E19:759:0:/.,m    :oracle_des_hash:
+harvey:F8DA3EC4B4C61165:760:0:/.,mn    :oracle_des_hash:
+teN__chars:2A335C608846A162:761:0:/.,mnb    :oracle_des_hash:
+Hank:2A69298A6053BC9A:762:0:/.,mnbvcxz    :oracle_des_hash:
+sz110:B3D6E127F6A8339F:763:0:/./.:oracle_des_hash:
+fi15_characters:1DA5627EE932055F:764:0:/.Ok~`:oracle_des_hash:
+01234:A1AF7409BEE344AE:765:0://**ingenierogalvez010205:oracle_des_hash:
+ninechars:10ECA23C2F909B0C:766:0://--**+:oracle_des_hash:
+Herman:3BC02FDDFC549608:767:0://////:oracle_des_hash:
+six16_characters:1D600EDF4CC6A954:768:0://////    :oracle_des_hash:
+fi15_characters:05F4B6F2E14C4A66:769:0://123//:oracle_des_hash:
+eightchr:B2D9EC908EA6C6CE:770:0://midnight:oracle_des_hash:
+root:FE7B379B32B729DA:771:0://www.marcolano.com/login/myspace.txt. I WILL MAKE GOOD USE OF THE FRUITS OF YOUR EFFORTS:oracle_des_hash:
+barney:B90AB0BB6E69E4DB:772:0:/15/MarS/15/:oracle_des_hash:
+fi15_characters:D6030AD93B0C7053:773:0:/18399397*a:oracle_des_hash:
+Hank:A11B217BFFF4A08C:774:0:/22gard:oracle_des_hash:
+john:94D95EACAE655347:775:0:/2368:oracle_des_hash:
+u3:33F79D0EE2F76AA0:776:0:/=O/2um:oracle_des_hash:
+usry:E5898456372D4DFA:777:0:/azerty*:oracle_des_hash:
+root:00113798BD330518:778:0:/bin    :oracle_des_hash:
+John:5B8002F0B066D193:779:0:/dev/nul    :oracle_des_hash:
+elev__chars:0479685F8FCF33C8:780:0:/dev/null    :oracle_des_hash:
+01234:443B473BDDD1F0E7:781:0:/etc/pas    :oracle_des_hash:
+John:7A25329FBA16530E:782:0:/etc/passwd    :oracle_des_hash:
+addams:121F27DA24350291:783:0:/lib    :oracle_des_hash:
+usrx:F4ADAB5BB218C3CA:784:0:/saturn/:oracle_des_hash:
+usr:AE5251C0B7444A47:785:0:/tmp    :oracle_des_hash:
+usry:1BCEDAC9F8009E63:786:0:/usr    :oracle_des_hash:
+elev__chars:0ECB27893272E7A2:787:0:/usr/bin    :oracle_des_hash:
+skippy:DD8EA02D888B07E3:788:0:/usr/gro    :oracle_des_hash:
+fR14characters:5A69D88C9FA41A9B:789:0:/usr/group    :oracle_des_hash:
+01234:A2955CE31E35D36C:790:0:/usr/lib    :oracle_des_hash:
+usr:BFD2ACAF326D11EE:791:0:/var    :oracle_des_hash:
+01234:56A50223ECD6AE40:792:0:0:oracle_des_hash:
+sevench:999E4AFFD8E90CD1:793:0:0:oracle_des_hash:
+fi15_characters:C66E8A06EDC11A72:794:0:0    :oracle_des_hash:
+teN__chars:E981AB286C708609:795:0:00:oracle_des_hash:
+barney:6C8AB6442D33FFAF:796:0:00    :oracle_des_hash:
+anicocls:B6A64903F8BC53FF:797:0:00-08-A    :oracle_des_hash:
+ninechars:F12125E0919D6FDB:798:0:00-7949:oracle_des_hash:
+elev__chars:AD80B84D617EAF1E:799:0:000:oracle_des_hash:
+teN__chars:DBFDF914408865DB:800:0:000    :oracle_des_hash:
+lexi Conrad:FDB207F7F02CBCCF:801:0:0000:oracle_des_hash:
+01234:8E0E7E428758F663:802:0:0000    :oracle_des_hash:
+3:07F113F7CF36AF11:803:0:00000:oracle_des_hash:
+fi15_characters:74B193C1B8044AAC:804:0:00000    :oracle_des_hash:
+John:778A5D8A4D289A8E:805:0:000000:oracle_des_hash:
+bin:086877F9E7D0CA52:806:0:000000    :oracle_des_hash:
+harvey:36237544AE0E76EF:807:0:0000000:oracle_des_hash:
+root:BF5DAD17E04FF070:808:0:0000000    :oracle_des_hash:
+ripper:0455A4DB5072AD90:809:0:00000000:oracle_des_hash:
+Twelve_chars:5AF258F8D44ADBA7:810:0:00000000    :oracle_des_hash:
+user:47E13324E71441E8:811:0:000000000:oracle_des_hash:
+Hank:705C2C93FD04BEE2:812:0:000000000    :oracle_des_hash:
+usrx:1A679762C71E9B7C:813:0:0000000000:oracle_des_hash:
+Herman:2B70213D4CEBA886:814:0:0000000000    :oracle_des_hash:
+skippy:AE9B838AD33EF57B:815:0:000000002:oracle_des_hash:
+bin:82188333B3441D22:816:0:000000009    :oracle_des_hash:
+addams:AC3D9B6C06F6254C:817:0:00000001    :oracle_des_hash:
+admin:393C75478BE7808E:818:0:000000011    :oracle_des_hash:
+john:F475E9B8785B3107:819:0:00000007:oracle_des_hash:
+01234:6E1274B9A677651E:820:0:0000000s:oracle_des_hash:
+root:3E9A56FE0302FBB7:821:0:00000034:oracle_des_hash:
+Hank:ED6F320E475CB23C:822:0:00000040    :oracle_des_hash:
+jack:34061C8669B523AA:823:0:0000007    :oracle_des_hash:
+elev__chars:B9005D3A3BAB45F5:824:0:000000aa:oracle_des_hash:
+a:12CB561D811FEB03:825:0:000000c:oracle_des_hash:
+u3:EAF94A7903E88B56:826:0:000001    :oracle_des_hash:
+eightchr:CDC873DAABFE2756:827:0:00000188    :oracle_des_hash:
+ninechars:BCD768158E3B9F72:828:0:0000019    :oracle_des_hash:
+Herman:7BED8CD45B50684D:829:0:00000190:oracle_des_hash:
+addams:6E0B19E832D2B62E:830:0:000001B\:oracle_des_hash:
+sevench:A9E3B76286C6BF19:831:0:000001b:oracle_des_hash:
+sz110:3A84FDA6575FAD4F:832:0:000006:oracle_des_hash:
+Joe:A6CA2DEFC37B1C2E:833:0:000007    :oracle_des_hash:
+elev__chars:ED9E93E695F2E23D:834:0:000009:oracle_des_hash:
+barney:FF7676F25436DB11:835:0:00000946:oracle_des_hash:
+u1:ABA98FEE3AE6A1F9:836:0:00000a:oracle_des_hash:
+Hank:3D9ADBB34F0A5A05:837:0:00000x    :oracle_des_hash:
+usrx:FDAE90D0CB68AB2D:838:0:00001    :oracle_des_hash:
+01234:597B4CCEA436610B:839:0:00001080    :oracle_des_hash:
+barney:B9EF07D437FC5252:840:0:00001085:oracle_des_hash:
+usry:44A70E82894F1045:841:0:000011:oracle_des_hash:
+fR14characters:5FA8F45563E19EC0:842:0:00001111:oracle_des_hash:
+ripper:1812318F41BBD397:843:0:00001111    :oracle_des_hash:
+a:98075D6AED7830B5:844:0:00001234    :oracle_des_hash:
+ripper:5CE6BCD9C311A4B0:845:0:00001478    :oracle_des_hash:
+anicocls:34A066E50E75E929:846:0:00001674:oracle_des_hash:
+usr:41BAF9557E99F02B:847:0:00001969    :oracle_des_hash:
+1:C0DE0F1C06CBD016:848:0:00001972:oracle_des_hash:
+sz110:3AC84D79CDDFC35B:849:0:00001973:oracle_des_hash:
+bin:256AFFAC6C44F14F:850:0:00002:oracle_des_hash:
+Johnson:7F4D68EB4178D8F2:851:0:00002032:oracle_des_hash:
+sevench:54B32F943ADEF340:852:0:000022    :oracle_des_hash:
+teN__chars:E63C5DA5C156CD34:853:0:00002224:oracle_des_hash:
+a:C1D09635D9B6BD03:854:0:000023:oracle_des_hash:
+u2:5ADFA1ACB91BFA86:855:0:000029:oracle_des_hash:
+Bing:4265763B6B2C1887:856:0:00002928:oracle_des_hash:
+1:1BAD739713AE5F8B:857:0:0000315:oracle_des_hash:
+ninechars:BCC8A3EB9719FEFB:858:0:00003712    :oracle_des_hash:
+harvey:56907EFBBAAA3A43:859:0:00005:oracle_des_hash:
+Thirteenchars:5F0313AA33C3C13F:860:0:00005    :oracle_des_hash:
+Thirteenchars:EAD3C87208B54526:861:0:000050    :oracle_des_hash:
+fR14characters:5AA11D12E250533D:862:0:00005409:oracle_des_hash:
+ripper:5EB65C5769EF8614:863:0:00005463:oracle_des_hash:
+skippy:C8CE870B0F8F1FFD:864:0:00005562:oracle_des_hash:
+u1:D8F7316D84F3A89F:865:0:000059:oracle_des_hash:
+Bing:EB3226BEA1D62FFD:866:0:00006    :oracle_des_hash:
+john:B2DAA07B62569D82:867:0:000068:oracle_des_hash:
+3:8E856836EC00586B:868:0:00007:oracle_des_hash:
+teN__chars:C58FAA1E36B1022A:869:0:00007    :oracle_des_hash:
+skippy:9C4C43694855964D:870:0:0000927:oracle_des_hash:
+John:188AE1D378FBF05D:871:0:000099:oracle_des_hash:
+usrx:B11D1C15568DD1ED:872:0:00009989:oracle_des_hash:
+u2:6FBF6DFC1AC2AE3A:873:0:00009webmail:oracle_des_hash:
+fi15_characters:B6E2A87F9B27698F:874:0:0000is:oracle_des_hash:
+a:8E4C2C3124A2BDF1:875:0:0000qw    :oracle_des_hash:
+user:099243132452045C:876:0:0000rubia:oracle_des_hash:
+skippy:1C453C4729EAC42E:877:0:0000rubioa:oracle_des_hash:
+addams:11DC5B06D76A4855:878:0:0000tech:oracle_des_hash:
+barney:0B6EF8E9BAC83410:879:0:0001:oracle_des_hash:
+John:D72736A34B49C50C:880:0:0001000    :oracle_des_hash:
+Bing:FE89253B184D62D2:881:0:00010011:oracle_des_hash:
+bin:3420B8F52FDEDCC6:882:0:00010207    :oracle_des_hash:
+elev__chars:51E6D5FD745BE3B0:883:0:000105:oracle_des_hash:
+admin:C3B1F6B0F35FD2F9:884:0:00010683:oracle_des_hash:
+root:BD019C7D32E69D65:885:0:000111:oracle_des_hash:
+John:8022A08A6935D6B1:886:0:000111    :oracle_des_hash:
+fi15_characters:D80677219240C657:887:0:000111000    :oracle_des_hash:
+fi15_characters:BAE113F9A6D1A8F0:888:0:000123:oracle_des_hash:
+u2:4A55DC28DA64AB2A:889:0:000123123    :oracle_des_hash:
+John:F4356F6EF877875B:890:0:000123258    :oracle_des_hash:
+addams:E9B0BB10F56A7657:891:0:000123cd:oracle_des_hash:
+u1:DD00BD05DD01ABC2:892:0:000134    :oracle_des_hash:
+ripper:A8A221DC74095A52:893:0:000143:oracle_des_hash:
+01234:555B5F495E32CDF6:894:0:000143    :oracle_des_hash:
+Joe:D7B4C16C8F709382:895:0:000151:oracle_des_hash:
+u3:D823FACB4EEF4D84:896:0:000153    :oracle_des_hash:
+teN__chars:E65FAC153FD5DECE:897:0:000159    :oracle_des_hash:
+fi15_characters:40809C421E0C983F:898:0:00016112:oracle_des_hash:
+root:1614CD942EA944B0:899:0:000162434:oracle_des_hash:
+u2:2D75F6C5E606FC49:900:0:000166:oracle_des_hash:
+Twelve_chars:1004D8EBD3ACC597:901:0:00016982:oracle_des_hash:
+admin:1203CA839E451200:902:0:00016c84:oracle_des_hash:
+01234:C9E6D615C92EB000:903:0:000173000    :oracle_des_hash:
+user:426F17905C1F5080:904:0:000182    :oracle_des_hash:
+2:CA36309CA6EA6D32:905:0:0001987    :oracle_des_hash:
+ninechars:0783F12789EE3117:906:0:0002000:oracle_des_hash:
+Herman:387CDC8162DCA078:907:0:0002006    :oracle_des_hash:
+1:F915E2C50C240EED:908:0:000222:oracle_des_hash:
+1:F1AA8B09A18EC3D1:909:0:000222    :oracle_des_hash:
+Herman:E44393E8FD7D72B3:910:0:000224:oracle_des_hash:
+harvey:8E9459CE7D04865D:911:0:000229    :oracle_des_hash:
+harvey:847AF5C43443EF1D:912:0:000235285    :oracle_des_hash:
+a:D4A5AE357915B5FE:913:0:000245:oracle_des_hash:
+Herman:A11D6D0ADDB84098:914:0:000247:oracle_des_hash:
+ripper:7D2CAF42FBC95A05:915:0:000249    :oracle_des_hash:
+admin:130F2DA49232E425:916:0:000274:oracle_des_hash:
+fR14characters:BCAB6DABCF5BBAA3:917:0:0002840808:oracle_des_hash:
+usry:47F935243764BD93:918:0:0003:oracle_des_hash:
+usry:6D5ED7C71140EE47:919:0:0003-hb:oracle_des_hash:
+sz110:587E935179E5B75F:920:0:00031702:oracle_des_hash:
+barney:6F16CDC1DA0C513B:921:0:000320:oracle_des_hash:
+01234:69125A0EEC8618D6:922:0:000321    :oracle_des_hash:
+six16_characters:4ACE9BC702C713FC:923:0:000325    :oracle_des_hash:
+John:AE24C70A48C79FCB:924:0:000333    :oracle_des_hash:
+u2:C8DD4A63F027B2EF:925:0:000373k:oracle_des_hash:
+addams:C16352C7D13333EE:926:0:00037714:oracle_des_hash:
+addams:08F9492296B3E74B:927:0:000415:oracle_des_hash:
+eightchr:973FCE4C20BA682C:928:0:000415722:oracle_des_hash:
+Twelve_chars:D02D896A96FABF90:929:0:0004288:oracle_des_hash:
+lexi Conrad:444486FCD474823A:930:0:000442:oracle_des_hash:
+bin:7F39BF026977AD34:931:0:000444    :oracle_des_hash:
+Hank:79BE52D32658E124:932:0:000462    :oracle_des_hash:
+u3:55E2F3FDC4073D2A:933:0:00047695:oracle_des_hash:
+usry:DDDBEF6C433BA2A7:934:0:00051245:oracle_des_hash:
+fi15_characters:9385FC701FDC93F6:935:0:0005196127    :oracle_des_hash:
+lexi Conrad:37AC6A8539685AC9:936:0:000548    :oracle_des_hash:
+sevench:5A4C67698B9F3444:937:0:00055000:oracle_des_hash:
+u1:497B84E5F93FE7E1:938:0:000555:oracle_des_hash:
+usrx:661968630A46FE00:939:0:00056325    :oracle_des_hash:
+harvey:9E626421A95961E9:940:0:000567    :oracle_des_hash:
+2:40E44721F8C358C8:941:0:000568264    :oracle_des_hash:
+barney:E62D77142CAF667E:942:0:000571    :oracle_des_hash:
+u3:1667752AE0EED575:943:0:0006:oracle_des_hash:
+Thirteenchars:59CC3054AE3CA63A:944:0:00060006:oracle_des_hash:
+six16_characters:377839281DBFEB21:945:0:00061bd    :oracle_des_hash:
+u1:EEEAAEC2A9172C55:946:0:000621:oracle_des_hash:
+01234:EB85715982121DF2:947:0:000666:oracle_des_hash:
+bin:625923E8C3F69F33:948:0:0007:oracle_des_hash:
+root:01D5329C97BE128F:949:0:0007    :oracle_des_hash:
+1:EB5BB52E7EB1E410:950:0:000700:oracle_des_hash:
+usry:72949C04F7F1374C:951:0:000715    :oracle_des_hash:
+bin:D5181358480CD09D:952:0:000732:oracle_des_hash:
+teN__chars:656C9102DF2499F6:953:0:00073933:oracle_des_hash:
+root:003C8CAC06311511:954:0:000772ln:oracle_des_hash:
+bin:F801A2281F1B80EC:955:0:000777:oracle_des_hash:
+1:9358758AD68C7B9F:956:0:000780:oracle_des_hash:
+bin:B2FA8F66FB1BDC43:957:0:000784:oracle_des_hash:
+elev__chars:AF559854909DD427:958:0:000827:oracle_des_hash:
+anicocls:D1B6C2EE1E3D8C6A:959:0:000852:oracle_des_hash:
+barney:55FB9C9B52BB2087:960:0:00085771:oracle_des_hash:
+fi15_characters:88119D640B330D04:961:0:00088703:oracle_des_hash:
+a:F5D4ACFDA6CD1794:962:0:000888:oracle_des_hash:
+3:0550230D57400E8E:963:0:000911:oracle_des_hash:
+anicocls:1DC5DA7AD04B2D8B:964:0:000919:oracle_des_hash:
+ripper:118B8DBD0A3D2A4A:965:0:000925    :oracle_des_hash:
+Joe:6ACB9D3C5D7CB01F:966:0:000965    :oracle_des_hash:
+barney:4A4E453C959A73F0:967:0:0009732    :oracle_des_hash:
+addams:2A7F2E071F602BEC:968:0:00097329    :oracle_des_hash:
+Hank:4CB54E3BE2F1E536:969:0:000978:oracle_des_hash:
+Joe:6ABD49571C04A578:970:0:000987:oracle_des_hash:
+fR14characters:F93BC2504F2106D7:971:0:000988    :oracle_des_hash:
+Joe:0EBBDA53A50C5B2C:972:0:000999:oracle_des_hash:
+anicocls:276C7C65C1B7D43C:973:0:000aaa:oracle_des_hash:
+Bing:5B40163188AFB606:974:0:000aaa    :oracle_des_hash:
+01234:5966305A0A2F5F43:975:0:000abl9f    :oracle_des_hash:
+Herman:84BDB89486CE6582:976:0:000alxk:oracle_des_hash:
+usr:1773618FD15ED23C:977:0:000c12g7    :oracle_des_hash:
+fR14characters:0DDA0C207D8285CF:978:0:000ersin    :oracle_des_hash:
+Joe:60C60637AA0E356A:979:0:000grizz:oracle_des_hash:
+2:2E4EA147E608A99C:980:0:000s62oa:oracle_des_hash:
+a:A3B12486F40227D6:981:0:000www:oracle_des_hash:
+eightchr:B56E7FE204E869AC:982:0:000x000:oracle_des_hash:
+u2:7A268EBF78A6DA2E:983:0:001:oracle_des_hash:
+jack:2E51B40C611F37B9:984:0:001    :oracle_des_hash:
+Johnson:73C85F2A984211B2:985:0:001.1.2.4.21:oracle_des_hash:
+teN__chars:14562AA5C6605E17:986:0:00100:oracle_des_hash:
+Johnson:4034AA8EC69DC91A:987:0:00100    :oracle_des_hash:
+addams:548CEF5221CE2D09:988:0:001001:oracle_des_hash:
+John:4E7B68BE644E0A4C:989:0:001001    :oracle_des_hash:
+usr:F41D510D3C0CDA9A:990:0:00100100:oracle_des_hash:
+fi15_characters:1F445A700C231867:991:0:001001001:oracle_des_hash:
+teN__chars:145A540D7514E2B0:992:0:001002:oracle_des_hash:
+skippy:2A00954DFD5B39CA:993:0:001006:oracle_des_hash:
+Herman:3E7393E0B031ABF7:994:0:0010068163    :oracle_des_hash:
+skippy:998C00F22E78A60A:995:0:001007    :oracle_des_hash:
+01234:29FED09AE1CA3FD1:996:0:001009:oracle_des_hash:
+Thirteenchars:D74348045F04991F:997:0:00101000    :oracle_des_hash:
+Herman:748A17626BF46101:998:0:001011:oracle_des_hash:
+Joe:732CA716F3343E98:999:0:0010250:oracle_des_hash:
+usrx:4983C71EC74AF509:1000:0:001032077    :oracle_des_hash:
+Joe:C98592D0398E55A4:1001:0:001044:oracle_des_hash:
+harvey:647360CFC9005A9F:1002:0:001046:oracle_des_hash:
+elev__chars:DFA05ADDD6AE389D:1003:0:001056:oracle_des_hash:
+addams:0C1684182B8CB00B:1004:0:00105876    :oracle_des_hash:
+skippy:4053DDA2F606803D:1005:0:001065:oracle_des_hash:
+Joe:E2A5488C94F6756F:1006:0:001071    :oracle_des_hash:
+addams:FF80A37251EBD6C0:1007:0:001092:oracle_des_hash:
+Herman:AFD8E691057B3217:1008:0:0011    :oracle_des_hash:
+sevench:0C12DD9B79E1F964:1009:0:001100:oracle_des_hash:
+u1:914C8591AE6062D3:1010:0:001100    :oracle_des_hash:
+user:EA093C7711844157:1011:0:00110011:oracle_des_hash:
+Johnson:ED3B7066E013711B:1012:0:001109:oracle_des_hash:
+Thirteenchars:2B29D92E2EF9F3AA:1013:0:001122:oracle_des_hash:
+john:82D084746A43966F:1014:0:001122    :oracle_des_hash:
+ripper:109141DA4ADBFA31:1015:0:00112230    :oracle_des_hash:
+ripper:EAD93AF6F5207FC7:1016:0:00112233:oracle_des_hash:
+addams:F203223E19F32808:1017:0:00112350:oracle_des_hash:
+anicocls:39B817EDEBEECB5B:1018:0:001139:oracle_des_hash:
+barney:811A1F01873A29E5:1019:0:001140    :oracle_des_hash:
+Hank:3FAC726E90CE38B4:1020:0:00114477    :oracle_des_hash:
+skippy:A3EADF2A6E7FFDA1:1021:0:00114843    :oracle_des_hash:
+u1:F729C129E5048EB2:1022:0:001187:oracle_des_hash:
+bin:A0BA4ADE8BC8F47D:1023:0:00118835    :oracle_des_hash:
+Bing:9E97F20FD45D19EE:1024:0:001199:oracle_des_hash:
+Joe:5162125C70607979:1025:0:00119945    :oracle_des_hash:
+Hank:520B7CD68C9F66F6:1026:0:0011mm:oracle_des_hash:
+1:6D3C8D32E40EBAE0:1027:0:0011phpbb:oracle_des_hash:
+u2:D0D85BA260E7BD44:1028:0:0012:oracle_des_hash:
+barney:3E0C25088729B1F1:1029:0:00120:oracle_des_hash:
+2:93219ACE63F1A340:1030:0:001200:oracle_des_hash:
+u1:654A92AA4FCC7FC3:1031:0:001201:oracle_des_hash:
+lexi Conrad:7300D82038F3FE47:1032:0:001203:oracle_des_hash:
+Bing:A04D1DB68D4AA5EF:1033:0:001206918:oracle_des_hash:
+fR14characters:3C37676CE27F50E1:1034:0:00123:oracle_des_hash:
+bin:963DA44EE37C29A3:1035:0:00123    :oracle_des_hash:
+john:13AA5D3263F49BD8:1036:0:001231fs:oracle_des_hash:
+Twelve_chars:04458820AEA30D42:1037:0:001234:oracle_des_hash:
+teN__chars:3D30DCD54819ECF3:1038:0:0012345    :oracle_des_hash:
+John:C3C4852B638D3EEB:1039:0:001234566:oracle_des_hash:
+Joe:D18EA066BE60320C:1040:0:001235:oracle_des_hash:
+addams:E8105807C7939062:1041:0:001235    :oracle_des_hash:
+admin:72C13C2E9A549ED2:1042:0:0012369:oracle_des_hash:
+Thirteenchars:3A639E9AC269C15D:1043:0:001239    :oracle_des_hash:
+bin:82BBFC6DECA3FE82:1044:0:0012395:oracle_des_hash:
+Johnson:11E2059612863CF3:1045:0:001242:oracle_des_hash:
+01234:2320F86B2464FFD9:1046:0:001244244:oracle_des_hash:
+usrx:1272B104D2AEC8CB:1047:0:0012550800    :oracle_des_hash:
+usrx:9E8276FF7E50266E:1048:0:001258:oracle_des_hash:
+barney:F9698D696B2D1948:1049:0:001276nx:oracle_des_hash:
+eightchr:695BF802735DD0DE:1050:0:001291    :oracle_des_hash:
+Thirteenchars:65DDB4109077296A:1051:0:00129961    :oracle_des_hash:
+Hank:0FB3E1FB087B80A3:1052:0:00130000    :oracle_des_hash:
+sevench:D8917C3FE4C8F84B:1053:0:00130013    :oracle_des_hash:
+sz110:32EBF3C083AAFA5C:1054:0:001301    :oracle_des_hash:
+a:72C135F3EBF6D2CD:1055:0:001302:oracle_des_hash:
+fR14characters:7BC7E6DC9F038618:1056:0:0013038:oracle_des_hash:
+eightchr:542B07393588C583:1057:0:00130986:oracle_des_hash:
+root:E7BC198FA2FB6186:1058:0:0013168:oracle_des_hash:
+Twelve_chars:AB4CECD684A50729:1059:0:00132580    :oracle_des_hash:
+eightchr:EE564548265B9F62:1060:0:001326:oracle_des_hash:
+a:65B607F4D9F091E2:1061:0:00132625:oracle_des_hash:
+Herman:AA554F74260C96D3:1062:0:00132802:oracle_des_hash:
+fR14characters:32FA56A1BC1C01A2:1063:0:00132809    :oracle_des_hash:
+barney:4D7BE3D147FF0422:1064:0:001329    :oracle_des_hash:
+lexi Conrad:52B9AA72AD493B99:1065:0:001337    :oracle_des_hash:
+u3:E34EA4AAF94158A0:1066:0:00134199    :oracle_des_hash:
+sevench:79CC095B69C2F626:1067:0:00135437:oracle_des_hash:
+jack:1B740CFDD588B134:1068:0:001357:oracle_des_hash:
+2:2D49496FD98B0175:1069:0:00135799    :oracle_des_hash:
+eightchr:F21C6DA4AC6DC6D5:1070:0:001368:oracle_des_hash:
+Johnson:BEB3AE772148FE99:1071:0:0013845    :oracle_des_hash:
+barney:E3AE7D9FFFF62EA6:1072:0:00140187    :oracle_des_hash:
+sevench:0354D7A3DDFE679E:1073:0:001405    :oracle_des_hash:
+skippy:4BAB6E40201B730F:1074:0:001429    :oracle_des_hash:
+usry:ABF1512D0D3F8C40:1075:0:001433m:oracle_des_hash:
+sevench:50613E10BD9F2277:1076:0:001450    :oracle_des_hash:
+sz110:D653770673823670:1077:0:001453:oracle_des_hash:
+3:D043FFE68B440FFF:1078:0:001453    :oracle_des_hash:
+eightchr:8567FE0E490D7C55:1079:0:00145961    :oracle_des_hash:
+fR14characters:9F87E5B5D1AE7156:1080:0:00146803    :oracle_des_hash:
+six16_characters:CBCA884A85F42ABD:1081:0:0014694315:oracle_des_hash:
+harvey:7B9D321E9F780FAA:1082:0:00147284    :oracle_des_hash:
+six16_characters:0AD0120E41BF9586:1083:0:00147896    :oracle_des_hash:
+skippy:B9BCB9B6E9CDF4BD:1084:0:00148297:oracle_des_hash:
+root:34E1508A239ABE4D:1085:0:0014abd014:oracle_des_hash:
+teN__chars:D57A01CC47D69854:1086:0:00150203:oracle_des_hash:
+John:84C1294C156A6EFD:1087:0:001513    :oracle_des_hash:
+01234:38C6267FFC24AFFB:1088:0:001514:oracle_des_hash:
+usr:68288531754B4C17:1089:0:001533:oracle_des_hash:
+u3:F07A43D7936DCB4D:1090:0:001534:oracle_des_hash:
+Hank:2B1C903D09965EA6:1091:0:001580:oracle_des_hash:
+John:B06D20CEBF46F81A:1092:0:001583745:oracle_des_hash:
+john:720E7AA990A92A74:1093:0:00159:oracle_des_hash:
+lexi Conrad:5A930166A30CD66B:1094:0:001601:oracle_des_hash:
+six16_characters:80B3666A15F163AD:1095:0:0016238:oracle_des_hash:
+skippy:114D992CF7B7224D:1096:0:001663    :oracle_des_hash:
+usry:277D6B8827A72F99:1097:0:00168000:oracle_des_hash:
+sz110:D0D623724AF24B49:1098:0:001689:oracle_des_hash:
+jack:D14E5FD6649F8C58:1099:0:00169:oracle_des_hash:
+anicocls:86BB7D0E4D8246D3:1100:0:001703:oracle_des_hash:
+teN__chars:7FE9F112EE66DB8E:1101:0:001742424:oracle_des_hash:
+u3:B9083FA4315C7250:1102:0:00174800    :oracle_des_hash:
+Hank:2AFC80BB5B8322DF:1103:0:001800:oracle_des_hash:
+user:6B8A7B6C27FCFC03:1104:0:00180018    :oracle_des_hash:
+admin:7B7FE7C7C07D0335:1105:0:001822:oracle_des_hash:
+root:5117B97A97DA571D:1106:0:001827:oracle_des_hash:
+user:A42BF37D5986E75E:1107:0:001852:oracle_des_hash:
+fR14characters:0194825151D1C0AB:1108:0:001853233091:oracle_des_hash:
+u2:518B07E73E8B5704:1109:0:001874:oracle_des_hash:
+2:07D2872F0F568D45:1110:0:0018754    :oracle_des_hash:
+Joe:14559B05BAFDC064:1111:0:001876    :oracle_des_hash:
+sz110:2E941267CA74C714:1112:0:0019:oracle_des_hash:
+lexi Conrad:D5BED39195A8FFD4:1113:0:001905:oracle_des_hash:
+fR14characters:EC33EFB0B463D3EB:1114:0:001926:oracle_des_hash:
+skippy:1E496E31817DF8FA:1115:0:001926    :oracle_des_hash:
+Twelve_chars:8694FFFACABEE9B6:1116:0:00195:oracle_des_hash:
+2:4E44AB9BDB9C2E5B:1117:0:001957    :oracle_des_hash:
+Thirteenchars:E94436EC0A7587FB:1118:0:001960:oracle_des_hash:
+sevench:17269F3ACAF4036B:1119:0:001962:oracle_des_hash:
+Thirteenchars:05AF9C7E654D3EB8:1120:0:001966:oracle_des_hash:
+John:FA78338E90CA44F9:1121:0:00197700:oracle_des_hash:
+fR14characters:0517559898E3A71F:1122:0:001980    :oracle_des_hash:
+eightchr:609661B68F56579B:1123:0:0019800840    :oracle_des_hash:
+root:7048F61E52DDAF32:1124:0:001981:oracle_des_hash:
+2:8A2EC047A7618809:1125:0:001982:oracle_des_hash:
+anicocls:71682691BCBFFA3B:1126:0:001984:oracle_des_hash:
+anicocls:E505A8508C51C8B6:1127:0:001984a:oracle_des_hash:
+ninechars:3C935AFFDB431884:1128:0:00198506    :oracle_des_hash:
+usrx:F291523AEC2B78BD:1129:0:001986    :oracle_des_hash:
+lexi Conrad:08ABE597B6E61A16:1130:0:00198700:oracle_des_hash:
+harvey:C20BEB86A02685EB:1131:0:001988    :oracle_des_hash:
+jack:7820A337EB04A563:1132:0:00198800    :oracle_des_hash:
+eightchr:6D136836F572323D:1133:0:001989    :oracle_des_hash:
+root:C83B7B0A102AEAD3:1134:0:001989100:oracle_des_hash:
+fR14characters:E531E4935FA2797F:1135:0:0019891453:oracle_des_hash:
+jack:B63DF488F3802518:1136:0:001991:oracle_des_hash:
+Twelve_chars:331E5EB34E2A84FA:1137:0:001991    :oracle_des_hash:
+skippy:5993835D55B46EB7:1138:0:001992    :oracle_des_hash:
+jack:E6398769F48AABE5:1139:0:001993    :oracle_des_hash:
+1:0D6D0CBFF6D568E6:1140:0:001994:oracle_des_hash:
+teN__chars:E3CD200DEAAB6832:1141:0:001995    :oracle_des_hash:
+01234:4C14AF08AC80A530:1142:0:001bhs:oracle_des_hash:
+sz110:4F50FB8BBEF39391:1143:0:001direc    :oracle_des_hash:
+root:AC9C6AF4AD341DD0:1144:0:001heslo    :oracle_des_hash:
+ninechars:B26668D2D25DF760:1145:0:001major    :oracle_des_hash:
+Thirteenchars:FF06EAEC63172B20:1146:0:001tv    :oracle_des_hash:
+bin:B0700F0761F74D52:1147:0:002:oracle_des_hash:
+root:9F5A3CA8C417EB16:1148:0:0020:oracle_des_hash:
+sz110:226A65806499C70F:1149:0:002001:oracle_des_hash:
+admin:BEE46B6237C126B3:1150:0:002002    :oracle_des_hash:
+Herman:878DD3DAB619EA86:1151:0:002003:oracle_des_hash:
+addams:DFF3BC777409A972:1152:0:002003880:oracle_des_hash:
+teN__chars:0C15132019F35E61:1153:0:002006    :oracle_des_hash:
+ripper:61424536AAF945B5:1154:0:00201233:oracle_des_hash:
+harvey:9DFB94FF9CFE21DA:1155:0:0020134537    :oracle_des_hash:
+usry:51369863AF75CE23:1156:0:0020200:oracle_des_hash:
+fi15_characters:5C880A91C8385EC9:1157:0:002027417436:oracle_des_hash:
+Twelve_chars:F70A695F8853C8F7:1158:0:00203    :oracle_des_hash:
+Herman:5D4A99588C05555A:1159:0:002060:oracle_des_hash:
+u1:BCC8E2CA313B2FD5:1160:0:0020602060    :oracle_des_hash:
+skippy:F2B9F3C2315E009B:1161:0:00206620:oracle_des_hash:
+ripper:CFA7BB9809292BE2:1162:0:00210021:oracle_des_hash:
+bin:4CC12A1DE9E169D6:1163:0:00210335    :oracle_des_hash:
+Thirteenchars:46CFAC9C07DDC9B5:1164:0:002121    :oracle_des_hash:
+fR14characters:365C19369B1C44BE:1165:0:00215487    :oracle_des_hash:
+sevench:529E62E03713A946:1166:0:0021beta:oracle_des_hash:
+user:0B1B835719EE857D:1167:0:002200:oracle_des_hash:
+u3:C6FBFF7D920055CD:1168:0:002200    :oracle_des_hash:
+usr:06B67AE709A0C60F:1169:0:0022001l    :oracle_des_hash:
+jack:27B61DF25556E1A4:1170:0:0022002:oracle_des_hash:
+root:0B9894958D7E194B:1171:0:002204:oracle_des_hash:
+usry:8728449FEBB27BF3:1172:0:00221235    :oracle_des_hash:
+usr:700CA67AF025D720:1173:0:002218:oracle_des_hash:
+skippy:36F4067DE8E157C4:1174:0:002222:oracle_des_hash:
+sevench:967292B3C70DC019:1175:0:002222    :oracle_des_hash:
+eightchr:77B9FB6A0A4A042B:1176:0:002233    :oracle_des_hash:
+harvey:EC6F797501C6881A:1177:0:0022336809    :oracle_des_hash:
+John:76F8640EE190F916:1178:0:002266    :oracle_des_hash:
+john:C292B00D38F2C122:1179:0:002288:oracle_des_hash:
+fi15_characters:251AF62115C1774D:1180:0:002298    :oracle_des_hash:
+Thirteenchars:79AB4B93AFC744B2:1181:0:00231jl:oracle_des_hash:
+fi15_characters:1F87BE83ADB9562C:1182:0:0023200232    :oracle_des_hash:
+eightchr:E57E260B6E90CA1A:1183:0:00233039:oracle_des_hash:
+fR14characters:12711AC562D58C8C:1184:0:002332    :oracle_des_hash:
+Twelve_chars:837D0483DC47637B:1185:0:002339:oracle_des_hash:
+john:755EEC4609A0E948:1186:0:00240024:oracle_des_hash:
+elev__chars:7BC5F4A10AC1DCF5:1187:0:00243035    :oracle_des_hash:
+Johnson:A2BCD6A5D0CFD898:1188:0:00247361:oracle_des_hash:
+2:8FACEA413D5ABFCB:1189:0:0024bk:oracle_des_hash:
+u1:721CB811FF2C5E75:1190:0:0024bk    :oracle_des_hash:
+Bing:09E52A41FD5E6F2D:1191:0:0025014    :oracle_des_hash:
+six16_characters:B859B4390E127055:1192:0:002508:oracle_des_hash:
+Twelve_chars:67D706FB0D62AFA8:1193:0:00251:oracle_des_hash:
+admin:6F1937855ED0F67A:1194:0:002513:oracle_des_hash:
+Hank:E30203C33FBF55E4:1195:0:002514    :oracle_des_hash:
+ripper:D0953B17AECC8054:1196:0:0026926fucker:oracle_des_hash:
+bin:2DC755CE454BC12D:1197:0:0027:oracle_des_hash:
+Hank:DEDE2D04043FE073:1198:0:00270027    :oracle_des_hash:
+harvey:3DCE9309008EFE5C:1199:0:002707    :oracle_des_hash:
+fR14characters:31C308BEA9C43FF5:1200:0:002717:oracle_des_hash:
+1:BA559AA767D21D52:1201:0:002731186    :oracle_des_hash:
+Bing:720C6006B3DA377E:1202:0:0027374:oracle_des_hash:
+lexi Conrad:FA78A35F7C1A6C5F:1203:0:002758    :oracle_des_hash:
+sz110:59DBDE98EDF839B1:1204:0:00275943:oracle_des_hash:
+fR14characters:E88B81279ED3DD79:1205:0:002762:oracle_des_hash:
+barney:68D6D19D66042B26:1206:0:00279891:oracle_des_hash:
+Joe:1DB916A3432156A5:1207:0:00280e:oracle_des_hash:
+bin:D5C86250A69DC65B:1208:0:002811784:oracle_des_hash:
+Twelve_chars:BC71F9615D238C6A:1209:0:002819    :oracle_des_hash:
+skippy:28D66508A68D65EC:1210:0:0028623:oracle_des_hash:
+sz110:8EB114FD5895FBB5:1211:0:00290880:oracle_des_hash:
+John:152D2E2D1C80D9CD:1212:0:002929    :oracle_des_hash:
+01234:9A9A8C418097707D:1213:0:002940:oracle_des_hash:
+u2:094307A8763CFFE9:1214:0:002983:oracle_des_hash:
+sz110:220A39BA72570E92:1215:0:002998948:oracle_des_hash:
+3:2B866D1963C16D55:1216:0:002pism    :oracle_des_hash:
+bin:407C39D34ED02CDB:1217:0:0030    :oracle_des_hash:
+lexi Conrad:639B6FA8D55047E6:1218:0:0030032    :oracle_des_hash:
+six16_characters:9A240004DE43B076:1219:0:003025:oracle_des_hash:
+sz110:50B1BE35BE41ABAD:1220:0:003051:oracle_des_hash:
+u2:A0FE5ED1A160971F:1221:0:0030aer1    :oracle_des_hash:
+harvey:363A49F70D169C1E:1222:0:0031:oracle_des_hash:
+ripper:E47123E84EC60A6D:1223:0:0031032    :oracle_des_hash:
+eightchr:136558C92D2E476A:1224:0:0031181j:oracle_des_hash:
+sevench:2C2E50560C8C149D:1225:0:00311967    :oracle_des_hash:
+ripper:7E9289DA866BFC82:1226:0:00312789:oracle_des_hash:
+lexi Conrad:4CA1A5BCBC82A16D:1227:0:003131:oracle_des_hash:
+harvey:20187D8BF8236CE9:1228:0:00313387    :oracle_des_hash:
+usry:8CF7FB20F64DE6A4:1229:0:00313582    :oracle_des_hash:
+user:021AEFEDAAE78C5E:1230:0:0031secret:oracle_des_hash:
+usr:2F3DA2C582FC6A7B:1231:0:003214    :oracle_des_hash:
+usr:B8D9D595DFC0FE61:1232:0:003263    :oracle_des_hash:
+Bing:6715BF5EEFCF3647:1233:0:003288:oracle_des_hash:
+usr:86F92E7286F65561:1234:0:00332:oracle_des_hash:
+barney:468248A1D5E4FDD5:1235:0:003366:oracle_des_hash:
+u3:842137EF28C89DAA:1236:0:003366003366:oracle_des_hash:
+user:869C44073CAB784D:1237:0:00336alt:oracle_des_hash:
+fi15_characters:C5BC0CE8D082B432:1238:0:003381:oracle_des_hash:
+usry:0FA162238D36A224:1239:0:0034    :oracle_des_hash:
+skippy:E81BE6FE370C2773:1240:0:003400    :oracle_des_hash:
+John:E1F3E42EBE31CF84:1241:0:003412    :oracle_des_hash:
+fi15_characters:7684342FB4180DA8:1242:0:003437:oracle_des_hash:
+anicocls:B60582E57C29EC6C:1243:0:0034579    :oracle_des_hash:
+harvey:546008A345325F15:1244:0:00346000    :oracle_des_hash:
+u2:FFFC43D91A6938B7:1245:0:003487    :oracle_des_hash:
+lexi Conrad:D29CA404738E9C71:1246:0:0034998:oracle_des_hash:
+addams:94354F705468537E:1247:0:0035:oracle_des_hash:
+Bing:C9851293B58465FD:1248:0:003524:oracle_des_hash:
+jack:1F0BA03A36AF47D8:1249:0:003537:oracle_des_hash:
+usrx:A6383F8B1E5B7E95:1250:0:003544    :oracle_des_hash:
+anicocls:7DAA9F31671EB57C:1251:0:003586:oracle_des_hash:
+ninechars:589BF6292F0FD8FF:1252:0:00359887    :oracle_des_hash:
+Johnson:35D6DA015AE1F47D:1253:0:003600:oracle_des_hash:
+Bing:1884575E89B5286A:1254:0:003605030:oracle_des_hash:
+u3:F00C80B304F90765:1255:0:0036313:oracle_des_hash:
+Twelve_chars:B7B75DC095A834D9:1256:0:003649:oracle_des_hash:
+barney:3CC68EF45BC22D9D:1257:0:00365184:oracle_des_hash:
+fR14characters:F1F19DA63110B4A9:1258:0:0037:oracle_des_hash:
+Bing:1629FF473EF0B5CB:1259:0:003743500:oracle_des_hash:
+usrx:7FCD1E10A1062D8D:1260:0:00376370:oracle_des_hash:
+eightchr:94FF36CAD6B01327:1261:0:00376370    :oracle_des_hash:
+Johnson:1BE2E340070F6DBB:1262:0:003803:oracle_des_hash:
+1:570CAFEDA62C882D:1263:0:003805:oracle_des_hash:
+john:3CF7E94C44F91156:1264:0:003888:oracle_des_hash:
+Johnson:BDA41EC5B1BBFB94:1265:0:003934901:oracle_des_hash:
+a:617E12520502AF0C:1266:0:0039dafi    :oracle_des_hash:
+John:C9A92822D05BE0D9:1267:0:003a9cd5    :oracle_des_hash:
+Bing:451A83C0138AD6F9:1268:0:003jra3112:oracle_des_hash:
+fi15_characters:F4034B1E61E81EF6:1269:0:003zxc:oracle_des_hash:
+barney:F95ED6D1E81EC941:1270:0:0040042:oracle_des_hash:
+u3:1784B7CA76A4DE00:1271:0:0040148    :oracle_des_hash:
+usrx:1354CBABA1E84AA8:1272:0:004063    :oracle_des_hash:
+Johnson:5A371D15DE20B4D7:1273:0:004067:oracle_des_hash:
+usry:EE5C36FABB4909F5:1274:0:00410195:oracle_des_hash:
+Johnson:1711C473CDB34A58:1275:0:004112222:oracle_des_hash:
+John:A876EC4654B4A1BB:1276:0:004122:oracle_des_hash:
+u3:9C556ECD7DC81BFE:1277:0:00415532:oracle_des_hash:
+harvey:4003AE3402DFCCA5:1278:0:00417099    :oracle_des_hash:
+Hank:142BA4EC532F3B28:1279:0:0041a511    :oracle_des_hash:
+eightchr:D5BDA903DD102827:1280:0:004212:oracle_des_hash:
+2:43611C95C84AF5C5:1281:0:00421212:oracle_des_hash:
+Twelve_chars:905018A85654D8B1:1282:0:004268:oracle_des_hash:
+3:16AD6785E071C575:1283:0:004281:oracle_des_hash:
+u2:99D86B712120E62C:1284:0:004296    :oracle_des_hash:
+jack:049E68F5F22CE359:1285:0:00431431:oracle_des_hash:
+u3:FD98215025C06703:1286:0:004321:oracle_des_hash:
+1:950B8316591E2B73:1287:0:004361:oracle_des_hash:
+lexi Conrad:CA0350C86C7600DF:1288:0:004370:oracle_des_hash:
+root:5A434F59F65E3878:1289:0:00439:oracle_des_hash:
+Twelve_chars:C330012A1E03614D:1290:0:004455q    :oracle_des_hash:
+fi15_characters:E7786E460020BE2E:1291:0:004463:oracle_des_hash:
+2:9918697BC8F65114:1292:0:00452355    :oracle_des_hash:
+lexi Conrad:75425C9F9C813571:1293:0:0046:oracle_des_hash:
+01234:BF5E8E9A2E3139D9:1294:0:00460046:oracle_des_hash:
+u2:73B155378691FFDC:1295:0:004656    :oracle_des_hash:
+Bing:20DF6BA482CBF189:1296:0:004667:oracle_des_hash:
+u2:7B68BC931EA1091A:1297:0:004673:oracle_des_hash:
+u3:48AFC03F164DA685:1298:0:004703    :oracle_des_hash:
+Bing:1F806AD9C8C44487:1299:0:004707    :oracle_des_hash:
+lexi Conrad:34CB35FD62D5E65A:1300:0:0047204    :oracle_des_hash:
+harvey:4FB13D50C9E421E4:1301:0:004740294295:oracle_des_hash:
+Joe:C04EA0A7A0B3E0EE:1302:0:004741:oracle_des_hash:
+addams:197D920BD4F42015:1303:0:004770:oracle_des_hash:
+Hank:812BE4182E6B2817:1304:0:00480e38    :oracle_des_hash:
+admin:46ECEF6421F63F18:1305:0:004866:oracle_des_hash:
+root:12FAA888AE3580F0:1306:0:0048sam    :oracle_des_hash:
+1:904D89CB45AF5E28:1307:0:00490049    :oracle_des_hash:
+a:B3AA8B4903EEFC4B:1308:0:0049345    :oracle_des_hash:
+eightchr:75760395424636A8:1309:0:004izcool:oracle_des_hash:
+teN__chars:BCC982F255012870:1310:0:004j767:oracle_des_hash:
+elev__chars:C81698B4E2FF8237:1311:0:004ryv:oracle_des_hash:
+fi15_characters:015164816E12C031:1312:0:005008004    :oracle_des_hash:
+eightchr:D55D16622CC44CD5:1313:0:0050113:oracle_des_hash:
+john:DCA3CB5ABB69AAC5:1314:0:005029:oracle_des_hash:
+usrx:C17BDD2020DD01FF:1315:0:00511440    :oracle_des_hash:
+a:0C902984399779A2:1316:0:0051647:oracle_des_hash:
+eightchr:E2BE09C62CF01D8C:1317:0:005212686    :oracle_des_hash:
+Herman:2FE6FB9FD976D6A6:1318:0:0052688:oracle_des_hash:
+ripper:73F78EBD56D70EF6:1319:0:00531531    :oracle_des_hash:
+jack:11A337E1946649C0:1320:0:0053695    :oracle_des_hash:
+fR14characters:1F4B6B3D03590E6B:1321:0:005377:oracle_des_hash:
+John:77ABFDE79CB4CD34:1322:0:0053ds08    :oracle_des_hash:
+user:FFCAEB7832DD9CE4:1323:0:0053fb    :oracle_des_hash:
+ninechars:4BB2D399E30DB980:1324:0:00541148217106:oracle_des_hash:
+jack:C8FB421D8CA02046:1325:0:005442:oracle_des_hash:
+user:0C776F185969DBD5:1326:0:005500    :oracle_des_hash:
+admin:7498B91D4ADE5B29:1327:0:0055299371:oracle_des_hash:
+admin:C3A66C3698B0DE30:1328:0:00553236    :oracle_des_hash:
+Bing:31EF5FBC4BBF5A5B:1329:0:00554123    :oracle_des_hash:
+u1:ACF1B287B18EAC51:1330:0:005566:oracle_des_hash:
+harvey:F567F8F3B30B2233:1331:0:00561100    :oracle_des_hash:
+Thirteenchars:F1A85DF650AC6A3B:1332:0:00561945:oracle_des_hash:
+barney:9C5021842EEC8F6D:1333:0:00569019246:oracle_des_hash:
+usr:9D376AF7987A705F:1334:0:0056906:oracle_des_hash:
+u3:170AC5790D2701A4:1335:0:00578586:oracle_des_hash:
+sz110:C4584B8CCF653968:1336:0:005806    :oracle_des_hash:
+01234:8964AE6458171E76:1337:0:005877189:oracle_des_hash:
+root:7C47E4F81001C2B2:1338:0:0059:oracle_des_hash:
+user:62BA17C3A0579A20:1339:0:00594824    :oracle_des_hash:
+01234:45B43AFC5635991C:1340:0:005993    :oracle_des_hash:
+jack:62A8324828EDCC77:1341:0:005alive    :oracle_des_hash:
+admin:F49C21B6B885023D:1342:0:005hope:oracle_des_hash:
+sevench:AE0E6F0EA20E44D1:1343:0:005n005n    :oracle_des_hash:
+fR14characters:1A4D9046D9866B53:1344:0:006007:oracle_des_hash:
+fi15_characters:14B79C7A73730EC0:1345:0:006045    :oracle_des_hash:
+fR14characters:23D06BD33F0D3F30:1346:0:0061:oracle_des_hash:
+ninechars:B3289C51E9731063:1347:0:006163:oracle_des_hash:
+usrx:DFBE4708DBBDC8E2:1348:0:006241    :oracle_des_hash:
+u1:C62307E6C8EC8534:1349:0:006318:oracle_des_hash:
+2:A1FDDEC635831AED:1350:0:006400:oracle_des_hash:
+addams:1D9BC8086F0CE01A:1351:0:006422:oracle_des_hash:
+lexi Conrad:468B43DABD097A03:1352:0:006481:oracle_des_hash:
+Twelve_chars:E6410BCF196017BF:1353:0:00648610:oracle_des_hash:
+skippy:C4F7541AC1BD1D26:1354:0:006525    :oracle_des_hash:
+sevench:C7577E8EC57F589B:1355:0:006537:oracle_des_hash:
+skippy:93E087AFFD0D8A99:1356:0:00657545    :oracle_des_hash:
+usry:A268154BD5BCC4EA:1357:0:00658470:oracle_des_hash:
+root:A4D34BE505897D04:1358:0:006597:oracle_des_hash:
+1:C1777A64E3A991DD:1359:0:006603:oracle_des_hash:
+six16_characters:3ACE61E075B3BD9F:1360:0:0066117265200:oracle_des_hash:
+barney:DE517CBB0208505D:1361:0:0066613:oracle_des_hash:
+usry:33169F06E7C99AD7:1362:0:0066789    :oracle_des_hash:
+ninechars:4DA3C3402CB70CC5:1363:0:006705:oracle_des_hash:
+Thirteenchars:4595722A2BDC466D:1364:0:006709:oracle_des_hash:
+1:46D9DD23D43C241A:1365:0:006763712:oracle_des_hash:
+john:D871A409977B710A:1366:0:006785j:oracle_des_hash:
+3:9CE8A2CBA3A4D34C:1367:0:006791224:oracle_des_hash:
+sevench:7B646A0E4356666E:1368:0:006881:oracle_des_hash:
+fR14characters:3E35C36185CB12D0:1369:0:006943:oracle_des_hash:
+2:A65B5A680E90A59C:1370:0:006mkil:oracle_des_hash:
+admin:59F4D10A5C9877AE:1371:0:007:oracle_des_hash:
+fR14characters:3CAD5BC0218533F3:1372:0:007    :oracle_des_hash:
+u3:64B20EE16E8C5054:1373:0:007.vlieg:oracle_des_hash:
+six16_characters:52BA48D03D4FBA43:1374:0:0070:oracle_des_hash:
+elev__chars:CA446755C89594ED:1375:0:007000:oracle_des_hash:
+elev__chars:CAEB485A1F509A57:1376:0:00700070:oracle_des_hash:
+usrx:C4F2AD7005DB854E:1377:0:007001:oracle_des_hash:
+Twelve_chars:CFA2BE050EA14AC8:1378:0:007006b:oracle_des_hash:
+sevench:14E6F25984A0DF06:1379:0:007007:oracle_des_hash:
+teN__chars:F0A0C0C33DCD6DC0:1380:0:007007    :oracle_des_hash:
+1:57744869360FEABB:1381:0:0070076103    :oracle_des_hash:
+usr:6314E38FFD963AB0:1382:0:007008    :oracle_des_hash:
+jack:B762A3FFC5CD3AE3:1383:0:0070717    :oracle_des_hash:
+1:9FB9341CC9B8C38C:1384:0:007111:oracle_des_hash:
+admin:35990934FCD04F78:1385:0:00711711:oracle_des_hash:
+skippy:D9412D32EDB08635:1386:0:007123:oracle_des_hash:
+usr:A2ABCBE1F5B79272:1387:0:007134:oracle_des_hash:
+admin:69AD6D80D32EA176:1388:0:007150189:oracle_des_hash:
+John:BCC4F49CC66BFD17:1389:0:007188    :oracle_des_hash:
+Joe:227DD7183F52BBD8:1390:0:0071980924007:oracle_des_hash:
+elev__chars:88862E5A609FEE9C:1391:0:0071lapb    :oracle_des_hash:
+root:4120748A2D9D3592:1392:0:0072:oracle_des_hash:
+six16_characters:23657AE9C98652E4:1393:0:00720072    :oracle_des_hash:
+sevench:A802A1CE6DCC5358:1394:0:007204:oracle_des_hash:
+2:6B94A2FD5754ABE2:1395:0:0072440147:oracle_des_hash:
+john:6F030C352382FA41:1396:0:007249890246:oracle_des_hash:
+Twelve_chars:6521D78BC2DF6946:1397:0:007313:oracle_des_hash:
+a:8D63E4759BA781FD:1398:0:00734260    :oracle_des_hash:
+elev__chars:16111172777D7023:1399:0:0073563:oracle_des_hash:
+usry:2B7C658EB435249E:1400:0:00737200:oracle_des_hash:
+fR14characters:B37FA754207D6915:1401:0:0074:oracle_des_hash:
+u3:94F6C913E88ACC9A:1402:0:0074562237:oracle_des_hash:
+harvey:610D21A1EEB3B48C:1403:0:00749443:oracle_des_hash:
+skippy:4D0E6FE287E8E10E:1404:0:00751185    :oracle_des_hash:
+harvey:3DB3B943DDCEE128:1405:0:00751284:oracle_des_hash:
+barney:81F529BE019D5831:1406:0:0075307:oracle_des_hash:
+root:905FEAC50E3D3D64:1407:0:0075703    :oracle_des_hash:
+user:DF11496A0E7DE688:1408:0:0076963    :oracle_des_hash:
+harvey:D2A3799CD09BFABA:1409:0:007700:oracle_des_hash:
+harvey:72BBF1473DE9060E:1410:0:007700    :oracle_des_hash:
+fR14characters:0B8A0DE6E9240B62:1411:0:007770    :oracle_des_hash:
+jack:DF7B5C348E639934:1412:0:00777a19    :oracle_des_hash:
+john:2EF01C69C375177A:1413:0:00778899:oracle_des_hash:
+addams:F5000F6E2451C2F8:1414:0:007829:oracle_des_hash:
+elev__chars:AC1EF1095D6A1DB7:1415:0:00784581:oracle_des_hash:
+john:264B538033FAD4FD:1416:0:00784581    :oracle_des_hash:
+Joe:DE29860D86D3A939:1417:0:007895:oracle_des_hash:
+fR14characters:0022DFBEEC58B22E:1418:0:0079:oracle_des_hash:
+six16_characters:0303358FFE21F48B:1419:0:007912:oracle_des_hash:
+admin:5317F541BAE9B780:1420:0:007BonD007:oracle_des_hash:
+harvey:C63E01455FE589C7:1421:0:007GIRLS:oracle_des_hash:
+ripper:11FB55C378CC8B64:1422:0:007bbang:oracle_des_hash:
+anicocls:99B868A7E28FE402:1423:0:007bond:oracle_des_hash:
+addams:E5222EF0101A19AB:1424:0:007car:oracle_des_hash:
+a:85846C455BCF6AD7:1425:0:007chik:oracle_des_hash:
+john:043ABC35F9864176:1426:0:007crs:oracle_des_hash:
+anicocls:8E104DFFBF1C6BBC:1427:0:007d8sa7    :oracle_des_hash:
+anicocls:1FE5A64CE5BEC959:1428:0:007dicey    :oracle_des_hash:
+sevench:8FEBC998F482E789:1429:0:007dog:oracle_des_hash:
+ninechars:734E2D32CB5C4542:1430:0:007edu:oracle_des_hash:
+Hank:913C445758A1EA10:1431:0:007gamer:oracle_des_hash:
+Twelve_chars:23EFC9B7C04DAA0F:1432:0:007gek:oracle_des_hash:
+Twelve_chars:3093089A0A5E59AA:1433:0:007ha261    :oracle_des_hash:
+2:D29E395393960DC5:1434:0:007hk007:oracle_des_hash:
+John:D74E0C2B052ACE63:1435:0:007isthe    :oracle_des_hash:
+ninechars:4E7EAC513CB3FA22:1436:0:007jesus:oracle_des_hash:
+Johnson:6D5BFA2762642530:1437:0:007jimbob:oracle_des_hash:
+bin:3CC4B4E081DD671F:1438:0:007jlp:oracle_des_hash:
+Thirteenchars:62DAE7866BFB0EC2:1439:0:007jo123    :oracle_des_hash:
+Herman:0DB053AAAA9345F7:1440:0:007lisbon:oracle_des_hash:
+jack:3E3A8A50F09945F9:1441:0:007ltkbond:oracle_des_hash:
+lexi Conrad:0B22D1DB26F5A828:1442:0:007nic:oracle_des_hash:
+Twelve_chars:A00B34794184C2CB:1443:0:007sjp:oracle_des_hash:
+u1:E1D3EE4E9866686C:1444:0:007smallville:oracle_des_hash:
+user:9BD57685EC8DBC8D:1445:0:007squall:oracle_des_hash:
+Joe:C187D5F2A0829952:1446:0:007tech:oracle_des_hash:
+u1:49D3C5336177919E:1447:0:007tyran    :oracle_des_hash:
+six16_characters:DD424E74211BFBC7:1448:0:007xps    :oracle_des_hash:
+2:1692CFEBEA9E36AD:1449:0:0080:oracle_des_hash:
+skippy:13CA69BB514E006D:1450:0:0080    :oracle_des_hash:
+usrx:6E0CF62838B23F83:1451:0:00800:oracle_des_hash:
+bin:F0DF5AF7A4220589:1452:0:00800080:oracle_des_hash:
+sevench:D055A8D4D265C288:1453:0:008001111998:oracle_des_hash:
+ripper:2B5228F3B59ABEC1:1454:0:008008:oracle_des_hash:
+a:661815084BC7D4BB:1455:0:008010:oracle_des_hash:
+2:488CC5D948906D0E:1456:0:0081:oracle_des_hash:
+john:73ADC0CCE33110AE:1457:0:0082    :oracle_des_hash:
+1:D9FB0FB1C2E1215E:1458:0:0083:oracle_des_hash:
+ninechars:C4410A15365693F8:1459:0:008300:oracle_des_hash:
+Thirteenchars:677EB875966D5609:1460:0:00832139    :oracle_des_hash:
+john:4BA4308DD1BE69F8:1461:0:00832369    :oracle_des_hash:
+sz110:28E9FA9AA7E0C60E:1462:0:008335:oracle_des_hash:
+2:38B87C74B41EDADB:1463:0:008350961:oracle_des_hash:
+elev__chars:34E0D8A7D5094DEC:1464:0:0084080428:oracle_des_hash:
+usry:AF2F838EF4421668:1465:0:00852193:oracle_des_hash:
+fR14characters:E9A73AC278503685:1466:0:008522:oracle_des_hash:
+elev__chars:1509F951F5E36E2A:1467:0:00860044:oracle_des_hash:
+John:7D6C0A2A08E2EA24:1468:0:00861300:oracle_des_hash:
+3:764F64BF1AF380D1:1469:0:00866022    :oracle_des_hash:
+1:E9406C1B2492E4CE:1470:0:008733:oracle_des_hash:
+lexi Conrad:B7F6AB4ABFB2EF9D:1471:0:008766:oracle_des_hash:
+skippy:D47F7527B2E41A4E:1472:0:0088:oracle_des_hash:
+bin:C3CDCC0745B57E3E:1473:0:008800:oracle_des_hash:
+john:DC972044ED388952:1474:0:008814:oracle_des_hash:
+Thirteenchars:BF517AFC62BA4117:1475:0:008828:oracle_des_hash:
+Twelve_chars:C24BAC887BB90FBC:1476:0:0088777:oracle_des_hash:
+skippy:CF3FF47509CB4BE2:1477:0:0088zz    :oracle_des_hash:
+Herman:EADB4EA9DB574869:1478:0:00890089    :oracle_des_hash:
+2:5DF3D9AD6FB39182:1479:0:0089377:oracle_des_hash:
+root:68D304ED4B4E6615:1480:0:008979:oracle_des_hash:
+jack:07127333C14B2A52:1481:0:009    :oracle_des_hash:
+Bing:595CE2379DFE8777:1482:0:009007:oracle_des_hash:
+John:B06B17F3D81DB26B:1483:0:009009:oracle_des_hash:
+Johnson:5C99E9F48F9D7687:1484:0:009018:oracle_des_hash:
+six16_characters:CD1D85E1B0D15AF8:1485:0:00903:oracle_des_hash:
+admin:D74598B903121C65:1486:0:0090474:oracle_des_hash:
+1:79B6A3CED4047804:1487:0:0090504x:oracle_des_hash:
+Joe:757816A2490634BD:1488:0:0090io9:oracle_des_hash:
+a:75921EC9630CD7BF:1489:0:009218:oracle_des_hash:
+3:4D1EF52E14A9876D:1490:0:009242:oracle_des_hash:
+admin:08B56B0ACB761784:1491:0:009278:oracle_des_hash:
+john:A115E3E14EC8D22C:1492:0:0093:oracle_des_hash:
+fi15_characters:19B0F276E43BE08E:1493:0:00931687    :oracle_des_hash:
+ripper:626623324BCB971B:1494:0:0093245:oracle_des_hash:
+John:BF0CDF6813570387:1495:0:00950e    :oracle_des_hash:
+lexi Conrad:42F270918EBB4E72:1496:0:009546    :oracle_des_hash:
+Herman:592A2B8A1A969DA7:1497:0:009596:oracle_des_hash:
+six16_characters:1BA5DD4F06FAABE2:1498:0:009625:oracle_des_hash:
+ninechars:26AFF58D5B9B00E4:1499:0:0096341    :oracle_des_hash:

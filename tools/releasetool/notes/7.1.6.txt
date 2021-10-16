@@ -1,0 +1,29 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.1.6
+
+Changes
+-------
+
+Fix crash in NTDS importer
+License update
+
+Hashes
+------
+
+lc7setup_v7.1.6_Win64.exe
+MD5 Digest:     41d9623a07e8d7487ed70699998708a5
+SHA256 Digest:  3f0f415f2f0365c17ac0aca816f26fee48b794874f5716887de8e394ce2c296b
+
+lc7update_v7.1.6_Win64.exe
+MD5 Digest:     b0b4be1643cbb026918c5d03f3086570
+SHA256 Digest:  fc557447d8bf81b5231fbb181a56920ff6dd90394d5e3272218470da6d370606
+
+lc7setup_v7.1.6_Win32.exe
+MD5 Digest:     3e7c1baf482f96abdde75c49a439fd91
+SHA256 Digest:  1160845e294ffa2a6354b27e000061f22ea8666c10ed14dc2c7b53cfba729cf1
+
+lc7update_v7.1.6_Win32.exe
+MD5 Digest:     cb3ed25ed9da22574d3a425091502c6c
+SHA256 Digest:  41881dbbcd5e1ae80837ba62d58af19f033776af212094b5b7bd4d07cb624491

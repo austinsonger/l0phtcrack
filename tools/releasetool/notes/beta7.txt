@@ -1,0 +1,10 @@
+Bug: Installer needs stress testing
+Bug: Crashdumps are not sending
+Bug: Saving a session that had completed causes crash
+Bug: LC7 Beta 6 isn't running on Windows 7
+Bug: Question mark in wizard dialog
+Bug: Restarting wizard after a session
+Enhancement: Dictionary Thorough uses lots of foreign words
+Enhancement: ReleaseTool: Need to save PDBs for each installer built someplace
+Enhancement: Remote Agent: Menu item needs to be added for remote agent creation
+Testing: Unix File Importer

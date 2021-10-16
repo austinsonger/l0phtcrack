@@ -1,0 +1,8 @@
+pwdump files generated with:
+http://foofus.net/goons/fizzgig/pwdump/downloads.htm
+pwdump -o <outfile> <machine name>
+
+fgdump files generated with:
+http://foofus.net/goons/fizzgig/fgdump/downloads.htm
+fgdump -u <username> -h <machine name>
+

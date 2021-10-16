@@ -1,0 +1,34 @@
+root:!:0:0::/:/usr/bin/ksh
+daemon:!:1:1::/etc:
+bin:!:2:2::/bin:
+sys:!:3:3::/usr/sys:
+adm:!:4:4::/var/adm:
+uucp:!:5:5::/usr/lib/uucp:
+guest:!:100:100::/home/guest:
+nobody:!:4294967294:4294967294::/:
+lpd:!:9:4294967294::/:
+lp:*:11:11::/var/spool/lp:/bin/false
+invscout:*:6:12::/var/adm/invscout:/usr/bin/ksh
+snapp:*:200:13:snapp login user:/usr/sbin/snapp:/usr/sbin/snappd
+ipsec:*:201:1::/etc/ipsec:/usr/bin/ksh
+nuucp:*:7:5:uucp login user:/var/spool/uucppublic:/usr/sbin/uucp/uucico
+pconsole:*:8:0::/var/adm/pconsole:/usr/bin/ksh
+esaadmin:*:10:0::/var/esa:/usr/bin/ksh
+sshd:*:202:201::/var/empty:/usr/bin/ksh
+dfrench:!:203:0:Dana French:/home/dfrench:/usr/bin/ksh
+qrin:!:36976:1:Auto Generated:/home/qrin:/usr/bin/ksh
+test:!:204:1::/home/test:/usr/bin/ksh
+crypuser:!:205:1::/home/crypuser:/usr/bin/ksh
+md5user:!:206:1::/home/md5user:/usr/bin/ksh
+s1user:!:207:1::/home/s1user:/usr/bin/ksh
+s256user:!:208:1::/home/s256user:/usr/bin/ksh
+s512user:!:209:1::/home/s512user:/usr/bin/ksh
+sblouser:!:210:1::/home/sblouser:/usr/bin/ksh
+expires:!:211:1::/home/expires:/usr/bin/ksh
+neverexp:!:212:1::/home/neverexp:/usr/bin/ksh
+expired:!:213:1::/home/expired:/usr/bin/ksh
+lockout:!:215:1::/home/lockout:/usr/bin/ksh
+nologin:!:216:1::/home/nologin:/usr/bin/ksh
+nopass:!:217:1::/home/nopass:/usr/bin/ksh
+disabled:*:218:1::/home/disabled:/usr/bin/ksh
+disable2:*:219:1::/home/disable2:/usr/bin/ksh

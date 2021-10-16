@@ -1,0 +1,111 @@
+
+Historical Data In LC7
+----------------------
+
+
+session open/close
+queue operations
+import operations
+import results
+audit operations
+audit results
+report generation
+historical data clearing
+
+
+Tables
+------
+
+
+events
+	event type:
+
+		lc7 started
+			lc7 operator login name
+
+		lc7 exited
+
+		session open
+			path
+			session id
+		
+		session close
+
+		background task started
+
+		background task interrupted
+		
+		background task completed
+			session id generated
+			session path generated
+
+		import started
+			session id
+		
+		import stopped
+			session id
+		
+		import finished
+			session id
+			import results uuid
+		
+		audit started
+			session id
+		
+		audit paused
+			session id
+		
+		audit resumed
+			session id
+		
+		audit stopped
+			session id
+		
+		audit finished
+			session id
+			audit results uuid
+		
+		report generated
+			session id
+			report type
+			report location
+
+		remediation performed
+			session id
+			remediation results uuid
+
+		historical data cleared
+
+import results (generated on stop/finish)
+	partial?
+	# of accounts of each hash type imported
+	domain imported
+	machine imported from
+	account credentials used (minus password)
+
+audit results (generated on stop/finish)
+	partial?
+	audit type
+	audit description
+	audit duration
+ 	cpu specs
+ 	gpu specs
+	# of accounts uncracked input of each hash type
+	min/max/average/stddev crack time
+	exponential histogram of crack time
+	histogram of password length
+	character set attempted with frequency
+	character set discovered with frequency
+
+remediation results
+	remediation action (lockout, force pw change, disable)
+	number of accounts remediated per domain
+	number of accounts remediated per machine
+
+--------------
+
+
+How does 
+
+
+

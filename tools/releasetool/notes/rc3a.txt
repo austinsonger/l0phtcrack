@@ -1,0 +1,12 @@
+Release Candidate 3a
+--------------------
+
+Hello Beta Testers!
+
+This is a patch for RC3. We messed up and didn't include the Windows Server 2008 R2 bugfix.
+
+Changes from RC3:
+
+Include Windows Server 2008 R2 agent bugfix
+
+Thanks, and happy testing!

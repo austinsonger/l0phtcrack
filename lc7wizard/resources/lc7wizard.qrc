@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="lc7wizard">
+    <file>wizardlogo.png</file>
+  	<file>wizardlogo@2x.png</file>
+    <file>wizardwatermark.png</file>
+  	<file>wizardwatermark@2x.png</file>
+  </qresource>
+</RCC>

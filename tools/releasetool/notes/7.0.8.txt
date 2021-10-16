@@ -1,0 +1,28 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.8
+
+Bugs Fixed
+----------
+
+Crash on startup would occur when used by users with no access to the system task scheduler.
+
+Hashes
+------
+
+lc7setup_v7.0.8_Win64.exe
+MD5 Digest:     926260d41a0236964e2e90adaf4c84e2
+SHA256 Digest:  efa7456ac0985419dc6d2b4d4a4fb05a2818955d83a5997fb86205165d0c6a97
+
+lc7update_v7.0.8_Win64.exe
+MD5 Digest:     0f9050b6f34a8d819afc96d27d088f0f
+SHA256 Digest:  1f5397fabf5cab37f274cd34d2beaa7b35f0befe92701c3afdb5417e789b3d70
+
+lc7setup_v7.0.8_Win32.exe
+MD5 Digest:     e53d5502e85c86e361982304d258b727
+SHA256 Digest:  8635f4e58610873fb9e0b368fa9d38857126928f17c3ce1d92c0a7fecfdbf3ec
+
+lc7update_v7.0.8_Win32.exe
+MD5 Digest:     10ab04c2769bc8e8a8bfc8d1387fb911
+SHA256 Digest:  647f91cea3ff2b5d43d469968f3f91c857dd9c958151c4ff536c8c7c2629cf3b

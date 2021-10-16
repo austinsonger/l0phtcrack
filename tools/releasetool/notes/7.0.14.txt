@@ -1,0 +1,33 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.14
+
+Bugs Fixed
+----------
+
+In some cases, automatic updates were not working. If the built-in updater does not work for you, please re-download the newest installer to upgrade.
+On newest AMD drivers, GPU Util/Temp/Fan meters and GPU temperate monitoring was not working.
+JTREXE was crashing on some versions of Windows when a queue item finished
+CSV export had embedded newlines in fields
+Removing imported accounts wasn't working correctly all the time
+Multimonitor setups had issues with DPI scaling and switching
+
+Hashes
+------
+
+lc7setup_v7.0.14_Win64.exe
+MD5 Digest:     7ac4f4bff8c30511684aa24d1de2dbd9
+SHA256 Digest:  45c8c6f1d3e6cfe66e1b4a7a37eb8c7ff33a6725904f37c7fcddeabcd0421c34
+
+lc7update_v7.0.14_Win64.exe
+MD5 Digest:     d94c9608dd928f082a048f4384d14257
+SHA256 Digest:  4e15582898458c9d2ff3d671e4a02e1b13cff109dffdb733cef01f99483bbf53
+
+lc7setup_v7.0.14_Win32.exe
+MD5 Digest:     7f1b658f0d9fea64f5e78b691ed5e494
+SHA256 Digest:  f81e51c1f418e7f31ba56a54ffbcadab7fa38454c3fe7e83acf2700c8ed9c231
+
+lc7update_v7.0.14_Win32.exe
+MD5 Digest:     361b5dbe0aa9ca7c886783c75ffca686
+SHA256 Digest:  073ee614e0b84199e62151c083d56e4ba53d1791a8428b03a0d069d03592c909

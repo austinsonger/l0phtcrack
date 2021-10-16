@@ -1,0 +1,30 @@
+Release Candidate 3
+-------------------
+
+Hello Beta Testers!
+This is the third BETA build of LC7.
+
+Please report issues via email to lc7beta@l0phtcrack.com
+
+Feature added:
+
+Support importing challege/response hashes from sniffers (LM, NTLM, LMv2, NTLMv2). Supports output from SpiderLabs Responder and others.
+
+Changes from RC2:
+
+LM gpu cracking fixed
+Fixed GPU hanging during calibration
+Evaluation keys now work correctly
+Fixed crash retrieving passwords from windows protected storage
+Byte order mark on UTF8 dictionaries wasn't handled correctly
+Fixed when license is expired can't cancel out of activation dialog
+Adjusted text on license
+Fixed Windows Server 2008 R2 with KB3149090 bug
+Fixed CUDA crash bug
+Added crashdump dll to lc7jtr distribution for command line usage of jtrexe
+
+New known issues:
+Multimonitor DPI switching does not work correctly
+Some driver/card combinations cause GPU crashes
+
+Thanks, and happy testing!

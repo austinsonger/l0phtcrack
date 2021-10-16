@@ -1,0 +1,9 @@
+Enhancements:
+Need 'reset to defaults' option for settings menu
+
+Bugs Fixed:
+CPU Concurrency is set to 1
+display for account data is confusing for users - look like checkboxes
+not all local users were imported successfully
+CR: Not all LM passwords are being cracked in pwfile5.txt test
+CR: Sorting is broken in the account view

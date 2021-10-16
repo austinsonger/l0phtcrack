@@ -1,0 +1,7 @@
+Bugs:
+
+Pause is broken again
+64-bit and 32-bit installs conflict with each other
+Windows 7 x86 has wrong LIBEAY32.DLL
+Automatic updates were broken
+

@@ -1,0 +1,28 @@
+
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.1.4
+
+Changes
+-------
+Documentation update
+
+Hashes
+------
+
+lc7setup_v7.1.4_Win64.exe
+MD5 Digest:     b362e75039447090cb94420dc30aac78
+SHA256 Digest:  d4c1b89e5086ae9bd3010ed0f40ab1e178ddcdd8732e6fa67b6774f13172031f
+
+lc7update_v7.1.4_Win64.exe
+MD5 Digest:     a32de8d4c7d25379322c581322989b7b
+SHA256 Digest:  23fc62218edde5ad77aedd882fb9ac4f98c62e17fc8ccb2d90b8921795d9fafa
+
+lc7setup_v7.1.4_Win32.exe
+MD5 Digest:     4cf186d4fb310466819cab313a3e88d5
+SHA256 Digest:  969fbdc404a6eb62066799ce2a2ec10620b0b4f7a497b92bfc10ed199bc9e2f7
+
+lc7update_v7.1.4_Win32.exe
+MD5 Digest:     e56641cf4ecf44c882fcec2755b201f0
+SHA256 Digest:  26034977510d160657a965d708c31c2d30aed78d4990f189a8642c9a6b20a405

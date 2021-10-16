@@ -1,0 +1,7 @@
+#ifndef UUID_LC7WIZARDPLUGIN
+#define UUID_LC7WIZARDPLUGIN QUuid("{43b6f871-7951-4b81-814b-f41ef64c993b}")
+#endif
+
+#ifndef UUID_LC7WIZARD
+#define UUID_LC7WIZARD QUuid("{4e1d554e-278a-40e4-9509-27ca865d7438}")
+#endif

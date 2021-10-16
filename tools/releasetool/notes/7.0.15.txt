@@ -1,0 +1,29 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.15
+
+Bugs Fixed
+----------
+
+Fix issue saving session files on scheduled jobs
+Clean up JTR exit code
+
+Hashes
+------
+
+lc7setup_v7.0.15_Win64.exe
+MD5 Digest:     bc805ff195c96b3a23c76bd6c492ac66
+SHA256 Digest:  8b970b10748fe330f21e5cda549970197c18ea02a87a9d65991e1b9b328c9a85
+
+lc7update_v7.0.15_Win64.exe
+MD5 Digest:     cfe57e69af33c6ba13f80f8bc3715ccf
+SHA256 Digest:  e5de9b99581a2bff9b51f88e69344cebb060739740104ef3ac44dc24ef69ee86
+
+lc7setup_v7.0.15_Win32.exe
+MD5 Digest:     315b0b6bd3c56f622fd8d6ae0198c7b4
+SHA256 Digest:  b7ef745f2f73da32f14d9c6696bce57851343444bbf7b3132f66e5b0f6327d5b
+
+lc7update_v7.0.15_Win32.exe
+MD5 Digest:     440f15284823008ca9fabc6c99b4f1b8
+SHA256 Digest:  88e89720c86775754da32de91049fdbb3f200cea49a8363d6aba471749083e56

@@ -1,0 +1,3 @@
+Initial beta release
+Support for automatic update
+Missing remote ssh/unix password dumping, wizard, and simple reporting.

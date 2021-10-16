@@ -1,0 +1,35 @@
+# $FreeBSD: src/etc/master.passwd,v 1.40.22.1.4.1 2010/06/14 02:09:06 kensmith Exp $
+#
+toor:*:0:0::0:0:Bourne-again Superuser:/root:
+daemon:*:1:1::0:0:Owner of many system processes:/root:/usr/sbin/nologin
+operator:*:2:5::0:0:System &:/:/usr/sbin/nologin
+bin:*:3:7::0:0:Binaries Commands and Source:/:/usr/sbin/nologin
+tty:*:4:65533::0:0:Tty Sandbox:/:/usr/sbin/nologin
+kmem:*:5:65533::0:0:KMem Sandbox:/:/usr/sbin/nologin
+games:*:7:13::0:0:Games pseudo-user:/usr/games:/usr/sbin/nologin
+news:*:8:8::0:0:News Subsystem:/:/usr/sbin/nologin
+man:*:9:9::0:0:Mister Man Pages:/usr/share/man:/usr/sbin/nologin
+sshd:*:22:22::0:0:Secure Shell Daemon:/var/empty:/usr/sbin/nologin
+smmsp:*:25:25::0:0:Sendmail Submission User:/var/spool/clientmqueue:/usr/sbin/nologin
+mailnull:*:26:26::0:0:Sendmail Default User:/var/spool/mqueue:/usr/sbin/nologin
+bind:*:53:53::0:0:Bind Sandbox:/:/usr/sbin/nologin
+proxy:*:62:62::0:0:Packet Filter pseudo-user:/nonexistent:/usr/sbin/nologin
+_pflogd:*:64:64::0:0:pflogd privsep user:/var/empty:/usr/sbin/nologin
+_dhcp:*:65:65::0:0:dhcp programs:/var/empty:/usr/sbin/nologin
+uucp:*:66:66::0:0:UUCP pseudo-user:/var/spool/uucppublic:/usr/local/libexec/uucp/uucico
+pop:*:68:6::0:0:Post Office Owner:/nonexistent:/usr/sbin/nologin
+www:*:80:80::0:0:World Wide Web Owner:/nonexistent:/usr/sbin/nologin
+nobody:*:65534:65534::0:0:Unprivileged user:/nonexistent:/usr/sbin/nologin
+user1:$1$kS5qIMAI$7TIcsba/BnlZuLpynlnns1:1002:1002::0:0:User &:/home/user1:/bin/sh
+user2:$1$xASeED80$K5BrMoL1bIaBvdlvLVjUV.:1003:1003::0:0:User &:/home/user2:/bin/sh
+user3:$1$CVFVdkxm$l4Z94w.CFCfUjXnlBVj35.:1004:1004::0:0:User &:/home/user3:/bin/sh
+user4:$1$Y5FfEKhK$VHug8kfxZ7oUNVdjc4ws10:1005:1005::0:0:User &:/home/user4:/bin/sh
+user5:$1$/bEC4Gyf$DWPZe0Vnqi3S7kPq3Ng2A/:1006:1006::0:0:User &:/home/user5:/bin/sh
+user6:$1$nMcH0KLD$DlqY03Tdg0E7dI/AIwzu90:1007:1007::0:0:User &:/home/user6:/bin/sh
+expires:$1$fZUX/oMt$884czjxFu8q3VKxN1Ln7N.:1008:1008::1444262400:0:User &:/home/expires:/bin/sh
+neverexpires:$1$dERLIf1a$o.YUf0YyufemmU/KhSvSj0:1009:1009::0:0:User &:/home/neverexpires:/bin/sh
+expired:$1$8hKit7s3$DyW153Xu5dM89WyzQ0Vt40:1010:1010::1:0:User &:/home/expired:/bin/sh
+lockedout:*LOCKED*$1$YPuRPiGa$wRdE7fX5XdfM1rdAnrL19.:1011:1011::0:0:User &:/home/lockedout:/bin/sh
+disabled:$1$7Oh5shNl$74U7L239zeSoEOnwqRfNd0:1012:1012::0:1:User &:/home/disabled:/bin/sh
+nologin:$1$Vxw2THOO$iwH6yeBNcCdGBgzzsDWXW/:1013:1013::0:0:User &:/home/nologin:/usr/sbin/nologin
+nopass::1014:1014::0:0:User &:/home/nopass:/bin/sh

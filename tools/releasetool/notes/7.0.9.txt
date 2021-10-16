@@ -1,0 +1,33 @@
+L0phtCrack 7 Release Notes
+--------------------------
+
+Version 7.0.9
+
+Features Added
+--------------
+
+All Users Licensing can now be enabled in the System/Settings/About L0phtCrack 7 page.
+
+Bugs Fixed
+----------
+
+Create Remote Agent Installer dialog box had text cut off.
+
+Hashes
+------
+
+lc7setup_v7.0.9_Win64.exe
+MD5 Digest:     fbd299bcff26328efe8d045f5cc29d80
+SHA256 Digest:  1a489159db03a73f7cc938983d8d2fad24f5a0fdde17bd95868524388b446876
+
+lc7update_v7.0.9_Win64.exe
+MD5 Digest:     b056c197e6f7de52f1cb374305e75653
+SHA256 Digest:  2757c710202894ff2415e56447e10e8fa8d3ce09ba02ef637c8fa08bfe41643a
+
+lc7setup_v7.0.9_Win32.exe
+MD5 Digest:     ef3bb5c3d807273eb3126c690c42c459
+SHA256 Digest:  07fa70f5ca1681ab52ac775eb0e468afc413cb14d6344f5e827addc01f5055bf
+
+lc7update_v7.0.9_Win32.exe
+MD5 Digest:     d84a3c6e57b3c3aa2edacc899fbd2a0f
+SHA256 Digest:  24064bc418e7dc87d3cda139285bd6b22c725ae2e36b7fe2613270ddb25bc298

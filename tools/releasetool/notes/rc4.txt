@@ -1,0 +1,15 @@
+Release Candidate 4
+-------------------
+
+Hello Beta Testers!
+
+Changes from RC3a:
+
+Documentation is now included.
+Import hardened with more information when a failure occurs.
+Added challenge/response hash importing for sniffers, off by default but can be turned on in the settings menu.
+Changing some system settings required restarting LC7, it now prompts to do so.
+
+Thanks, and happy testing!
+
+

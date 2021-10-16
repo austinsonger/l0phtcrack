@@ -1,0 +1,149 @@
+wizard notes
+--------------
+
+
+pluggable wizard
+adds wizard button to startup dialog if any wizards exist
+first page chooses which wizard if multiple wizards exist
+
+Old Wizard:
+
+[ import ]
+(windows only)
+Local
+Remote
+SAM/SYSTEM backup
+Sniffer
+
+[ audit ]
+Quick
+Common
+Strong
+Custom 
+
+[ 'reporting options' ]
+Display passwords when audited
+Display encrypted password hashes
+Display how long it took to audit each password
+Display auditing method
+Make visible notification when auditing is done
+
+New Wizard Flow:
+
+
+[Intro]
+
+
+[Windows_Or_Unix] X
+	Windows -> Windows_Import
+	Unix -> Unix_Import
+
+[Windows_Import] X
+	Import Local -> Windows_Import_Local
+	Import Remote SMB -> Windows_Import_Remote SMB
+	Import Remote RDP -> Windows_Import_Remote RDP
+	Import From PWDump File -> Window_Import_PWDUMP
+	Import From SAM/SYSTEM backup -> Windows_Import_SAM
+
+[Windows_Import_Local] X
+	Use Current Creds
+	Use Saved Creds
+	Use Specific Creds
+		Username:
+		Password:
+		Domain:
+		[ ] Save Credentials
+	<next> -> [Audit_Type]
+
+[Windows_Import_Remote_SMB]
+	Host
+	Use Current Creds
+	Use Default Saved Creds
+	Use Host-Specific Saved Creds
+	Use Specific Creds
+		Username:
+		Password:
+		Domain:
+		[ ] Save Credentials
+		[ ] Save Credentials As Default
+	<next> -> [Audit_Type]
+
+[Windows_Import_Remote_RDP]
+	Host
+	Use Default Saved Creds
+	Use Host-Specific Saved Creds
+	Use Specific Creds
+		Username:
+		Password:
+		Domain:
+		[ ] Save Credentials
+		[ ] Save Credentials As Default
+	<next> -> [Audit_Type]
+
+[Windows_Import_PWDUMP]
+	File
+	<next> -> [Audit_Type]
+
+[Windows_Import_SAM]
+	SAM File
+	SYSTEM File
+	<next> -> [Audit_Type]
+
+[Unix_Import]
+	Import From File -> Unix_Import_File
+	Import From SSH -> Unix_Import_SSH
+    
+[Unix_Import_File]
+	File
+	<next> -> [Audit_Type]
+
+[Unix_Import_SSH]
+	Host
+	Port
+	Username
+	Use Default Saved Creds
+	Use Host-Specific Saved Creds
+	Use Specific Credentials
+		* Password
+			Password
+		* Public Key
+			Public Key To Use
+		[ ] Save Credentials
+		[ ] Save Credentials As Default
+	<next> -> [Unix_Import_SSH_Options] if not 'root'
+
+[Unix_Import_SSH_Options]
+	su
+		username (root)
+		password
+	sudo
+		username (root)
+		password
+	no elevation
+	<next> -> [Audit_Type]
+
+[Audit_Type]
+	* Brute Force -> [Brute_Force_Options]
+	* Dictionary -> [Dictionary_Options]
+
+[Brute_Force_Options] 
+	* Fast
+	* Thorough
+	* Exhaustive
+
+[Dictionary_Options] 
+	* Fast
+	* Thorough
+	* Complex
+	* Exhaustive	
+
+[Scheduling]
+	* Run Now -> [Summary]
+	* Run Later -> [Task_Scheduler]
+
+[Task_Scheduler]
+	<next> -> [Summary]
+
+[Summary]
+	DONE
+

@@ -1,0 +1,23 @@
+Release Candidate 2
+-------------------
+
+Hello Beta Testers!
+This is the second BETA build of LC7.
+
+Please report issues via email to lc7beta@l0phtcrack.com
+
+
+Changes from RC1:
+
+Fixed an issue with trial expiration
+Usernames with $ character caused pathing problems for UI subsystem
+Clarified speed numbers in calibration dialog
+Made it possible to see auditing and import settings while running an audit
+Network proxies were not working for automatic update downloads
+
+New known issues:
+Multimonitor DPI switching does not work correctly
+Some driver/card combinations cause GPU crashes
+
+
+Thanks, and happy testing!
