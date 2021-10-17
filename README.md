@@ -33,6 +33,10 @@
     ```
     git clone --recurse-submodules git@github.com:L0phtCrack/lc7.git
     ```
+* Set up jtrdll
+  * You should be using git for windows bash shell for this, or a compatible bash shell for windows
+  * Run `cd lc7/external/jtrdll`
+  * Run `./dynamic_big_crypt_generator.sh`
 * Run the setup script, pointing it to the location of Qt (ensure you are using a default `CMD` command prompt with no MSVC environment settings)
     ```
     cd lc7
