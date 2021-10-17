@@ -62,3 +62,7 @@
 ### Documentation ###
 
 To edit and rebuild the L0phtCrack documentation, use the tool 'HelpNDoc' available here: ```https://www.helpndoc.com/download/```
+
+### Licenses ###
+
+Various portions of L0phtCrack use different open source licenses. Please review `tools/releasetool/installer/license.txt` for details

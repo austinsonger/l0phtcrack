@@ -2,298 +2,349 @@
 This license file contains license agreements for all of the versions of L0phtCrack 7.
 By accepting these licensing terms, you accept the terms for the appropriate version of the license that you have purchased. The versions of the license in this document cover the following versions:
 
-Trial
-Professional
-Admin
-Enterprise
+Portions are MIT, Apache, BSD, and GPLv2 Licensed and copyright by their respective owners.
 
----------------------------------------------------------------------------------------------------------------------
+L0phtCrack Licenses
+------------------------------------
 
+The MIT License (MIT)
 
-L0PHT HOLDINGS LLC
-L0PHTCRACK 7 15-DAY TRIAL LICENSE AGREEMENT
+Copyright © 2021 Christien Rioux, Chris Wysopal, Peiter Zatko
+Portions Copyright (c) 2015-2020 Michael Grafnetter (DSInternals)
 
-IMPORTANT: DO NOT CLICK ON THE "INSTALL" BUTTON UNTIL YOU ("LICENSEE") HAVE READ THIS AGREEMENT.  BY CLICKING ON THE INSTALL BUTTON (OR AUTHORIZING ANY OTHER PERSON TO DO SO), YOU ACCEPT ALL OF THE TERMS OF THIS AGREEMENT.  IF YOU DO NOT ACCEPT ALL OF THE TERMS OF THIS AGREEMENT (1) DO NOT CLICK ON THE INSTALL BUTTON, (2) DISCONTINUE THE LICENSING PROCESS BY CLICKING ON THE "CANCEL" BUTTON AND (3) DO NOT USE OR ATTEMPT TO USE THE SOFTWARE.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
- 
-This L0phtCrack 7 15-Day Trial Version software ("Software") is licensed, not sold, to Licensee for use only under the terms of this Software License Agreement ("Agreement").  L0pht Holdings, LLC. ("Licensor") and its licensors continue to own the Software and reserve any rights not expressly granted to Licensee.  
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-1.	LICENSE GRANT.  Licensor grants to Licensee, subject to the terms and conditions of this Agreement, a fifteen (15) day trial license to install and use for evaluation purposes only one copy of the Software.  Licensee may not copy, reproduce, modify, rent, lease, sublicense, distribute, transfer, or time-share the Software or any manuals, guides or any other information or material that Licensor provides to Licensee for use with the Software ("Documentation").  Licensor reserves all rights not expressly granted to Licensee.  Ownership of and title to the Software and Documentation are and will be held by Licensor and its licensors.  Licensee acknowledges that the Software is not designed, licensed, or intended for use in the design, construction, operation or maintenance of any nuclear facility.  
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
-2.	PROTECTION OF SOFTWARE.  Licensee acknowledges that the source code for the Software and other trade secrets embodied in the Software have not been, and are not going to be, disclosed to Licensee.  Licensee is not permitted (a) to decompile, disassemble, reverse compile, reverse assemble, reverse translate or otherwise reverse engineer the Software, (b) to use any similar means to discover the source code of the Software or to discover the trade secrets in the Software, (c) to otherwise circumvent any technological measure that controls access to the Software, (d) to use any Trojan horses, worms, time bombs, robots, spiders, crawlers, cancelbots or other computer programming routines intended to copy, damage, detrimentally interfere with, or expropriate the Software, or (e) to remove or alter any proprietary legends or notices contained in the Software or Documentation.
+-----
 
-3.	SUPPORT; UPGRADES.  This License Agreement does not entitle Licensee to receive from Licensor hard copy Documentation, technical support, telephone assistance or enhancements or upgrades.
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
 
-4.	THIRD PARTY SOFTWARE.  The Software includes code licensed from third parties, which is provided subject to the following:
+TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
-A.	PuTTY is copyright 1997-2004 Simon Tatham.  Portions copyright Robert de Bath, Joris van Rantwijk, Delian, Delchev, Andreas Schultz, Jeroen Massar, Wez Furlong, Nicolas Barry, Justin Bradford, Ben Harris, and CORE SDI S.A.
+1. Definitions.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTIONWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+"License" shall mean the terms and conditions for use, reproduction, and distribution as defined by Sections 1 through 9 of this document.
 
-B. This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).  Copyright (c) 1998-2003 The OpenSSL Project.  All rights reserved. 
+"Licensor" shall mean the copyright owner or entity authorized by the copyright owner that is granting the License.
 
-1. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
+"Legal Entity" shall mean the union of the acting entity and all other entities that control, are controlled by, or are under common control with that entity. For the purposes of this definition, "control" means (i) the power, direct or indirect, to cause the direction or management of such entity, whether by contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares, or (iii) beneficial ownership of such entity.
 
-2.  All advertising materials mentioning features or use of this software must display the following acknowledgment:
-"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+"You" (or "Your") shall mean an individual or Legal Entity exercising permissions granted by this License.
 
-3.  The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org.  
+"Source" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
 
-4.  Products derived from this software may not be called "OpenSSL" nor may "OpenSSL" appear in their names without prior written permission of the OpenSSL Project.
+"Object" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
 
-5. Redistributions of any form whatsoever must retain the following acknowledgment:
-"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)".
+"Work" shall mean the work of authorship, whether in Source or Object form, made available under the License, as indicated by a copyright notice that is included in or attached to the work (an example is provided in the Appendix below).
 
-THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+"Derivative Works" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Work and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship. For the purposes of this License, Derivative Works shall not include works that remain separable from, or merely link (or bind by name) to the interfaces of, the Work and Derivative Works thereof.
 
-5.	LIMITED WARRANTIES AND LIMITED LIABILITY.
-5.1	Limited Warranty; Disclaimer.  
-THE SOFTWARE AND THE DOCUMENTATION ARE BEING SUPPLIED TO LICENSEE ON AN "AS IS" BASIS. LICENSOR HEREBY EXPRESSLY DISCLAIMS ALL WARRANTIES REGARDING THE SOFTWARE AND THE DOCUMENTATION, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, AND TITLE, AND ALL WARRANTIES IMPLIED FROM ANY COURSE OF DEALING OR USAGE OF TRADE.  EXCEPT AS SPECIFICALLY SET FORTH HEREIN, LICENSOR DOES NOT WARRANT THAT THE SOFTWARE WILL MEET LICENSEE"S REQUIREMENTS, OR OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE.
+"Contribution" shall mean any work of authorship, including the original version of the Work and any modifications or additions to that Work or Derivative Works thereof, that is intentionally submitted to Licensor for inclusion in the Work by the copyright owner or by an individual or Legal Entity authorized to submit on behalf of the copyright owner. For the purposes of this definition, "submitted" means any form of electronic, verbal, or written communication sent to the Licensor or its representatives, including but not limited to communication on electronic mailing lists, source code control systems, and issue tracking systems that are managed by, or on behalf of, the Licensor for the purpose of discussing and improving the Work, but excluding communication that is conspicuously marked or otherwise designated in writing by the copyright owner as "Not a Contribution."
 
-5.2	Limitation of Liability.   LICENSOR'S LIABILITY FOR DAMAGES IN CONNECTION WITH THIS AGREEMENT AND THE LICENSED SOFTWARE, REGARDLESS OF THE FORM OF ANY CLAIM OR ACTION, SHALL NOT EXCEED  THE LICENSE FEES (IF ANY) PAID BY LICENSEE FOR THE SOFTWARE.  LICENSOR SHALL NOT BE LIABLE FOR ANY LOSS OF PROFITS, REVENUE OR DATA, INTERRUPTION OF BUSINESS, OR FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY KIND, WHETHER UNDER THIS AGREEMENT OR OTHERWISE ARISING IN ANY WAY IN CONNECTION WITH THE SOFTWARE, THE DOCUMENTATION OR THIS AGREEMENT, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSION OR LIMITATION MAY NOT APPLY TO LICENSEE.  THE FOREGOING LIMITATIONS WILL APPLY EVEN IF THE ABOVE STATED WARRANTY FAILS OF ITS ESSENTIAL PURPOSE.
+"Contributor" shall mean Licensor and any individual or Legal Entity on behalf of whom a Contribution has been received by Licensor and subsequently incorporated within the Work.
 
-6.	OWNERSHIP.  Licensee acknowledges and agrees that Licensor (and its licensors) owns all right, title and interest in and to the Software, including without limitation any and all patents, patent applications, copyrights, trade secrets, trademarks and other intellectual property rights, and Licensee shall not take any action inconsistent with such title and ownership. Licensee shall not alter or remove any printed or on-screen copyright, trade secret, proprietary or other legal notices contained on or in copies of any Software or Documentation.  Licensee will not acquire any rights or licenses, except as expressly provided in this Agreement, under any patents, patent applications, copyrights, trade secrets, trademarks or other intellectual property rights on account of this Agreement or Licensee"s performance under this Agreement.  Licensee acknowledges and agrees that Licensor owns the trademarks and service marks as set forth at http://www.l0phtcrack.com/legal.html.
+2. Grant of Copyright License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare Derivative Works of, publicly display, publicly perform, sublicense, and distribute the Work and such Derivative Works in Source or Object form.
 
-7.	CONFIDENTIAL INFORMATION.  For the purposes of this Agreement, "Confidential Information" means all confidential, proprietary or secret information of Licensor provided to Licensee (including the Software and any Documentation) in connection with this Agreement, whether such information is disclosed (a) in writing or other tangible medium, (b) visually, or (c) orally.  Confidential Information does not include any portion of any such information to the extent that Licensee can clearly demonstrate that it: (a)  is or becomes known in the trade through no act or omission by Licensee; (b)  is disclosed to Licensee by a third party who has a right to make such disclosure without any obligation of confidentiality to Licensor; (c)  is known to Licensee before receipt thereof pursuant to this Agreement; or (d) is independently developed by Licensee without access to or use of such information.  Except for the specific rights granted by this Agreement, Licensee shall not use or disclose any Confidential Information without the written consent of Licensor.  Licensee shall use the highest commercially reasonable degree of care to protect the Confidential Information, including ensuring that Licensee"s employees or consultants with access to such Confidential Information have agreed in writing not to disclose the Confidential Information.  Licensee shall bear the responsibility for any breaches of confidentiality by Licensee"s employees and consultants.  Nothing herein shall prevent Licensee from disclosing all or part of the Confidential Information as necessary pursuant to the lawful requirement of a governmental agency or when disclosure is required by operation of law; provided that prior to any such disclosure, Licensee shall use reasonable efforts to (i) promptly notify Licensor in writing of such requirement to disclose, and (ii) cooperate fully with Licensor in protecting against any such disclosure or obtaining a protective order.  
+3. Grant of Patent License. Subject to the terms and conditions of this License, each Contributor hereby grants to You a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable (except as stated in this section) patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Work, where such license applies only to those patent claims licensable by such Contributor that are necessarily infringed by their Contribution(s) alone or by combination of their Contribution(s) with the Work to which such Contribution(s) was submitted. If You institute patent litigation against any entity (including a cross-claim or counterclaim in a lawsuit) alleging that the Work or a Contribution incorporated within the Work constitutes direct or contributory patent infringement, then any patent licenses granted to You under this License for that Work shall terminate as of the date such litigation is filed.
 
-8.	TERM AND TERMINATION.  The term of this Agreement is effective as of the date Licensee accepts the terms of this Agreement by installing the Software and shall continue the expiration of the 15-day trial period.  Licensee agrees upon expiration of the 15-day trial period, or  in the event of the termination of this Agreement for any other reason, Licensee"s license rights to use the Software and the Documentation are immediately terminated and Licensee will destroy any copies of the Software and Documentation in Licensee"s possession.  The rights and obligations of the parties under Sections 2 - 9 will survive the termination of this Agreement.  
+4. Redistribution. You may reproduce and distribute copies of the Work or Derivative Works thereof in any medium, with or without modifications, and in Source or Object form, provided that You meet the following conditions:
 
-9.	GENERAL.
-10.1	Notices.  All communications under this Agreement shall be in writing or by confirmed fax.
+    You must give any other recipients of the Work or Derivative Works a copy of this License; and
+    You must cause any modified files to carry prominent notices stating that You changed the files; and
+    You must retain, in the Source form of any Derivative Works that You distribute, all copyright, patent, trademark, and attribution notices from the Source form of the Work, excluding those notices that do not pertain to any part of the Derivative Works; and
+    If the Work includes a "NOTICE" text file as part of its distribution, then any Derivative Works that You distribute must include a readable copy of the attribution notices contained within such NOTICE file, excluding those notices that do not pertain to any part of the Derivative Works, in at least one of the following places: within a NOTICE text file distributed as part of the Derivative Works; within the Source form or documentation, if provided along with the Derivative Works; or, within a display generated by the Derivative Works, if and wherever such third-party notices normally appear. The contents of the NOTICE file are for informational purposes only and do not modify the License. You may add Your own attribution notices within Derivative Works that You distribute, alongside or as an addendum to the NOTICE text from the Work, provided that such additional attribution notices cannot be construed as modifying the License.
 
-10.2	Severability.  In the event that any provision of this Agreement shall, in whole or in part, be determined to be invalid, unenforceable or void for any reason, such determination shall affect only the portion of such provision determined to be invalid, unenforceable or void, and shall not affect in any way the remainder of such provision or any other provision of this Agreement.  The parties agree that they will negotiate in good faith or will permit a court or arbitrator to replace any provision of this Agreement so held invalid, unenforceable or illegal with a valid provision that is as similar as possible in substance to the invalid, unenforceable or illegal provision.
+    You may add Your own copyright statement to Your modifications and may provide additional or different license terms and conditions for use, reproduction, or distribution of Your modifications, or for any such Derivative Works as a whole, provided Your use, reproduction, and distribution of the Work otherwise complies with the conditions stated in this License.
 
-10.3	Waiver.  The waiver by either party of a breach or a default of any provision of this Agreement by the other party shall not be construed as a waiver of any succeeding breach of the same or any other provision, nor shall any delay or omission on the part of either party to exercise or avail itself of any right, power or privilege that it has, or may have hereunder, operate as a waiver of any right, power or privilege by such party.
+5. Submission of Contributions. Unless You explicitly state otherwise, any Contribution intentionally submitted for inclusion in the Work by You to the Licensor shall be under the terms and conditions of this License, without any additional terms or conditions. Notwithstanding the above, nothing herein shall supersede or modify the terms of any separate license agreement you may have executed with Licensor regarding such Contributions.
 
-10.4	Governing Law; Jurisdiction & Venue.  This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts without taking into account its principles on conflicts of law.  The parties agree that the United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement.  Exclusive jurisdiction and venue for any litigation arising under this Agreement is in the federal and state courts located in Middlesex County, Massachusetts, USA and both parties hereby consent to such jurisdiction and venue for this purpose.
+6. Trademarks. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for reasonable and customary use in describing the origin of the Work and reproducing the content of the NOTICE file.
 
-10.5	Relationship of the Parties.  Nothing contained in this Agreement shall be deemed to constitute either party as the agent or representative of the other party, or both parties as joint venturers or partners for any purpose.
+7. Disclaimer of Warranty. Unless required by applicable law or agreed to in writing, Licensor provides the Work (and each Contributor provides its Contributions) on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied, including, without limitation, any warranties or conditions of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A PARTICULAR PURPOSE. You are solely responsible for determining the appropriateness of using or redistributing the Work and assume any risks associated with Your exercise of permissions under this License.
 
-10.6	Costs, Expenses and Attorneys' Fees.  If either party commences any action or proceeding against the other party to enforce or interpret this Agreement, the prevailing party in such action or proceeding shall be entitled to recover from the other party the actual costs, expenses and attorneys' fees (including all related costs and expenses), incurred by such prevailing party in connection with such action or proceeding and in connection with obtaining and enforcing any judgment or order thereby obtained.
+8. Limitation of Liability. In no event and under no legal theory, whether in tort (including negligence), contract, or otherwise, unless required by applicable law (such as deliberate and grossly negligent acts) or agreed to in writing, shall any Contributor be liable to You for damages, including any direct, indirect, special, incidental, or consequential damages of any character arising as a result of this License or out of the use or inability to use the Work (including but not limited to damages for loss of goodwill, work stoppage, computer failure or malfunction, or any and all other commercial damages or losses), even if such Contributor has been advised of the possibility of such damages.
 
-10.7	Entire Agreement; Amendment; Assignments.  This Agreement (a) constitutes the entire agreement of the parties hereto with respect to the subject matter hereof and supersedes all prior understandings and agreements, whether written or oral, as to such subject matter; (b) may be amended or modified only by a writing executed by an authorized officer of the party against whom enforcement is sought; (c) may not be assigned by Licensee without the written consent of Licensor; and (d) shall be binding upon and shall inure to the benefit of the respective successors and permitted assigns of the parties hereto.
+9. Accepting Warranty or Additional Liability. While redistributing the Work or Derivative Works thereof, You may choose to offer, and charge a fee for, acceptance of support, warranty, indemnity, or other liability obligations and/or rights consistent with this License. However, in accepting such obligations, You may act only on Your own behalf and on Your sole responsibility, not on behalf of any other Contributor, and only if You agree to indemnify, defend, and hold each Contributor harmless for any liability incurred by, or claims asserted against, such Contributor by reason of your accepting any such warranty or additional liability.
 
-10.8	Remedies.  The parties acknowledge and agree that a breach or a threatened breach of this Agreement by Licensee would cause not only financial harm, but irreparable harm to Licensor, and that money damages will not provide an adequate remedy.  In the event of a breach or threatened breach of this Agreement by Licensee, Licensor shall, in addition to any other rights and remedies it may have, at law or in equity, be entitled to an injunction restraining, temporarily or permanently, Licensee from disclosing or using, in whole or in part, the Software and the Documentation, without the necessity of posting any bond or surety.
+END OF TERMS AND CONDITIONS
 
-10.9	Export.  Licensee shall not export or re-export, directly or indirectly (including via remote access), the Software or other information or materials provided by Licensor hereunder, to any country for which the United States or any other relevant jurisdiction requires any export license or other governmental approval at the time of export without first obtaining such license or approval.
 
-10.10	U.S. Government Restricted Rights.  If the Software is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), then the Government's rights in the Software and accompanying Documentation will be only as set forth in this Agreement; this is in accordance with 48 CFR 227.7201 through 227.7202-4 (for Department of Defense (DOD) acquisitions) and with 48 CFR 2.101 and 12.212 (for non-DOD acquisitions). 
 
-10.11	Acknowledgment.  Licensee acknowledges that (a) Licensee has read and understand this Agreement; (b) this Agreement has the same force and effect as a signed agreement; (c) issuance of this license does not constitute general publication of the Software or the Documentation; and (d) the individual accepting this Agreement on behalf of a corporation or other legal entity personally represents that he or she is duly authorized to accept this Agreement on behalf of such entity and that this Agreement is binding upon such entity.
+John The Ripper Licenses
+--------------------------
 
-Licensor:
-		
-L0PHT HOLDINGS, LLC
-34 WALDEN ST UNIT 308
-CONCORD MA 01742-2547
+	John the Ripper copyright and license.
 
--------------------------------------------------------------------------------------------------------------------
+John the Ripper password cracker,
+Copyright (c) 1996-2013 by Solar Designer.
 
-L0pht Holdings, LLC
-L0phtCrack 7 PROFESSIONAL VERSION SOFTWARE LICENSE AGREEMENT
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 2 of the License, or
+(at your option) any later version.
 
-IMPORTANT: DO NOT CLICK ON THE "INSTALL" BUTTON UNTIL YOU ("LICENSEE") HAVE READ THIS AGREEMENT.  BY CLICKING ON THE INSTALL BUTTON (OR AUTHORIZING ANY OTHER PERSON TO DO SO), YOU ACCEPT ALL OF THE TERMS OF THIS AGREEMENT.  IF YOU DO NOT ACCEPT ALL OF THE TERMS OF THIS AGREEMENT (1) DO NOT CLICK ON THE INSTALL BUTTON, (2) DISCONTINUE THE LICENSING PROCESS BY CLICKING ON THE "CANCEL" BUTTON AND (3) DO NOT USE OR ATTEMPT TO USE THE SOFTWARE.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
 
- 
-This L0phtCrack 7 Professional Version software ("Software") is licensed, not sold, to Licensee for use only under the terms of this Software License Agreement ("Agreement").  L0pht Holdings, LLC. ("Licensor") and its licensors continue to own the Software and reserve any rights not expressly granted to Licensee.  
+As a special exception to the GNU General Public License terms,
+permission is hereby granted to link the code of this program, with or
+without modification, with any version of the OpenSSL library and/or any
+version of unRAR, and to distribute such linked combinations.  You must
+obey the GNU GPL in all respects for all of the code used other than
+OpenSSL and unRAR.  If you modify this program, you may extend this
+exception to your version of the program, but you are not obligated to
+do so.  (In other words, you may release your derived work under pure
+GNU GPL version 2 or later as published by the FSF.)
 
-1.	LICENSE GRANT.  Licensor grants to Licensee, subject to the terms and conditions of this Agreement, a limited, nonexclusive, nontransferable license to use the Software internally within Licensee"s own business on a single computer for which Licensee has received an unlock key and for which Licensee has paid the applicable license fee. If Licensee has purchased a  multiple-use license, Licensor grants toLicensee, subject to all other terms and conditions of this Agreement, a limited, nonexclusive, nontransferable license to use the Software internally within Licensee"s own business on the number computers specified in the license purchase.  All other aspects of this Agreement apply to multiple use license agreements. A license for the Software may not be shared, installed or used concurrently on different computers.  Licensee may not use the Software to perform Consulting Services (as defined below).  Use of the Software for Consulting Services requires a Consulting License, which may be obtained at www.l0phtcrack.com.  Licensee may make one copy for backup or archival purposes, but Licensee may not otherwise copy, reproduce, modify, rent, lease, sublicense, distribute, transfer, or time-share the Software or any manuals, guides or any other information or material that Licensor provides to Licensee for use with the Software ("Documentation").  Licensor reserves all rights not expressly granted to Licensee.  Ownership of and title to the Software and Documentation are and will be held by Licensor and its licensors.  Licensee acknowledges that the Software is not designed, licensed, or intended for use in the design, construction, operation or maintenance of any nuclear facility.  For the purposes of this Agreement, Consulting Services shall mean use of the Software in the performance of technical consulting services with respect to a third party"s computers and applications.
+(This exception from the GNU GPL is not required for the core tree of
+John the Ripper, but arguably it is required for -jumbo.)
 
-2.	PROTECTION OF SOFTWARE.  Licensee acknowledges that the source code for the Software and other trade secrets embodied in the Software have not been, and are not going to be, disclosed to Licensee.  Licensee is not permitted (a) to decompile, disassemble, reverse compile, reverse assemble, reverse translate or otherwise reverse engineer the Software, (b) to use any similar means to discover the source code of the Software or to discover the trade secrets in the Software, (c) to otherwise circumvent any technological measure that controls access to the Software, (d) to use any Trojan horses, worms, time bombs, robots, spiders, crawlers, cancelbots or other computer programming routines intended to copy, damage, detrimentally interfere with, or expropriate the Software, or (e) to remove or alter any proprietary legends or notices contained in the Software or Documentation.
 
-3.	SUPPORT; UPGRADES.  This License Agreement entitles Licensee to receive from Licensor technical support via email, enhancements, and upgrades through December 31, 2011.  After that date
-maintanence must be purchased to receive technical support, enhancements and upgrades.
+	Relaxed terms for certain components.
 
-4.	THIRD PARTY SOFTWARE.  The Software includes code licensed from third parties, which is provided subject to the following:
+In addition or alternatively to the license above, many components are
+available to you under more relaxed terms (most commonly under cut-down
+BSD license) as specified in the corresponding source files.
 
-A.	PuTTY is copyright 1997-2004 Simon Tatham.  Portions copyright Robert de Bath, Joris van Rantwijk, Delian, Delchev, Andreas Schultz, Jeroen Massar, Wez Furlong, Nicolas Barry, Justin Bradford, Ben Harris, and CORE SDI S.A.
-
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTIONWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-B.	This Software includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).  Copyright (c) 1998-2003 The OpenSSL Project.  All rights reserved. 
-
-1. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
-
-2.  All advertising materials mentioning features or use of this software must display the following acknowledgment:
-"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
-
-3.  The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org.  
-
-4.  Products derived from this software may not be called "OpenSSL" nor may "OpenSSL" appear in their names without prior written permission of the OpenSSL Project.
-
-5. Redistributions of any form whatsoever must retain the following acknowledgment:
-"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)".
-
-THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
-5.	LIMITED WARRANTIES AND RISK ALLOCATION.
-5.1	Limited Warranty; Disclaimer.  Licensor will replace, at no charge, defective media that are returned within ninety (90) days of shipment. Licensor warrants, for a period of ninety (90) days from the shipment date, that Software will perform in substantial compliance with the Documentation accompanying the Software on that hardware and operating system software for which it was designed, as stated in the documentation.  If, within such ninety (90) days period, Licensee reports to Licensor that Software is not performing as described above, Licensor will, at its option, repair or replace the Software.  The foregoing states the entire liability of Licensor with respect a breach of the warranty set forth herein.  EXCEPT AS OTHERWISE PROVIDED HEREIN, THE SOFTWARE AND THE DOCUMENTATION ARE BEING SUPPLIED TO LICENSEE ON AN "AS IS" BASIS. LICENSOR HEREBY EXPRESSLY DISCLAIMS ALL WARRANTIES REGARDING THE SOFTWARE AND THE DOCUMENTATION, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, AND TITLE, AND ALL WARRANTIES IMPLIED FROM ANY COURSE OF DEALING OR USAGE OF TRADE.  EXCEPT AS SPECIFICALLY SET FORTH HEREIN, LICENSOR DOES NOT WARRANT THAT (A) THE SOFTWARE WILL MEET LICENSEE"S REQUIREMENTS, (B) OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE, OR (C) DEFECTS WILL BE CORRECTED. 
-
-5.2	Limitation of Liability.   LICENSOR'S LIABILITY FOR DAMAGES IN CONNECTION WITH THIS AGREEMENT AND THE LICENSED SOFTWARE, REGARDLESS OF THE FORM OF ANY CLAIM OR ACTION, SHALL NOT EXCEED  THE LICENSE FEES PAID BY LICENSEE FOR THE SOFTWARE.  LICENSOR SHALL NOT BE LIABLE FOR ANY LOSS OF PROFITS, REVENUE OR DATA, INTERRUPTION OF BUSINESS, OR FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY KIND, WHETHER UNDER THIS AGREEMENT OR OTHERWISE ARISING IN ANY WAY IN CONNECTION WITH THE SOFTWARE, THE DOCUMENTATION OR THIS AGREEMENT, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSION OR LIMITATION MAY NOT APPLY TO LICENSEE.  THE FOREGOING LIMITATIONS WILL APPLY EVEN IF THE ABOVE STATED WARRANTY FAILS OF ITS ESSENTIAL PURPOSE.
-
-6.	OWNERSHIP.  Licensee acknowledges and agrees that, except as set forth in Section 4 above, Licensor (and its licensors) owns all right, title and interest in and to the Software, including without limitation any and all patents, patent applications, copyrights, trade secrets, trademarks and other intellectual property rights, and Licensee shall not take any action inconsistent with such title and ownership. Licensee shall not alter or remove any printed or on-screen copyright, trade secret, proprietary or other legal notices contained on or in copies of any Software or Documentation.  Licensee will not acquire any rights or licenses, except as expressly provided in this Agreement, under any patents, patent applications, copyrights, trade secrets, trademarks or other intellectual property rights on account of this Agreement or Licensee"s performance under this Agreement.  Licensee acknowledges and agrees that Licensor owns the trademarks and service marks as set forth at http://www.l0phtcrack.com/disclaimer.html. 
-
-7.	CONFIDENTIAL INFORMATION.  For the purposes of this Agreement, "Confidential Information" means all confidential, proprietary or secret information of Licensor provided to Licensee in connection with this Agreement, whether such information is disclosed (a) in writing or other tangible medium, (b) visually, or (c) orally.  Confidential Information does not include any portion of any such information to the extent that Licensee can clearly demonstrate that it: (a)  is or becomes known in the trade through no act or omission by Licensee; (b)  is disclosed to Licensee by a third party who has a right to make such disclosure without any obligation of confidentiality to Licensor; (c)  is known to Licensee before receipt thereof pursuant to this Agreement; or (d) is independently developed by Licensee without access to or use of such information.  Except for the specific rights granted by this Agreement, Licensee shall not use or disclose any Confidential Information without the written consent of Licensor.  Licensee shall use the highest commercially reasonable degree of care to protect the Confidential Information, including ensuring that Licensee"s employees or consultants with access to such Confidential Information have agreed in writing not to disclose the Confidential Information.  Licensee shall bear the responsibility for any breaches of confidentiality by Licensee"s employees and consultants.  Nothing herein shall prevent Licensee from disclosing all or part of the Confidential Information as necessary pursuant to the lawful requirement of a governmental agency or when disclosure is required by operation of law; provided that prior to any such disclosure, Licensee shall use reasonable efforts to (i) promptly notify Licensor in writing of such requirement to disclose, and (ii) cooperate fully with Licensor in protecting against any such disclosure or obtaining a protective order.  
-
-8.	TERM AND TERMINATION.  The term of this Agreement is effective as of the date Licensee accepts the terms of this Agreement by installing the Software and shall continue until terminated. This Agreement will terminate (i) if Licensee breaches any of the terms or conditions of this Agreement and fail to remedy such breach within thirty (30) days after being given notice thereof, (ii) if Licensee becomes insolvent or cease to do business; or (iii) if all or a substantial portion of Licensee"s assets are transferred to an assignee for the benefit of creditors, to a receiver or to a trustee in bankruptcy or similar laws and such proceeding is not dismissed within sixty (60) days.  Licensee agrees that in the event of the termination of this Agreement for any reason, Licensee"s license rights to use the Software and the Documentation are immediately terminated and Licensee will destroy any copies of the Software and Documentation in Licensee"s possession.  The rights and obligations of the parties under Sections 2 - 9 will survive the termination of this Agreement.  
-
-9.	GENERAL.
-9.1		Notices.  All communications under this Agreement shall be in writing or by confirmed fax.
-9.2		Severability.  In the event that any provision of this Agreement shall, in whole or in part, be determined to be invalid, unenforceable or void for any reason, such determination shall affect only the portion of such provision determined to be invalid, unenforceable or void, and shall not affect in any way the remainder of such provision or any other provision of this Agreement.  The parties agree that they will negotiate in good faith or will permit a court or arbitrator to replace any provision of this Agreement so held invalid, unenforceable or illegal with a valid provision that is as similar as possible in substance to the invalid, unenforceable or illegal provision.
-9.3		Waiver.  The waiver by either party of a breach or a default of any provision of this Agreement by the other party shall not be construed as a waiver of any succeeding breach of the same or any other provision, nor shall any delay or omission on the part of either party to exercise or avail itself of any right, power or privilege that it has, or may have hereunder, operate as a waiver of any right, power or privilege by such party.
-9.4		Governing Law; Jurisdiction & Venue.  This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts without taking into account its principles on conflicts of law.  The parties agree that the United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement.  Exclusive jurisdiction and venue for any litigation arising under this Agreement is in the federal and state courts located in Middlesex County, Massachusetts, USA and both parties hereby consent to such jurisdiction and venue for this purpose.
-9.5		Relationship of the Parties.  Nothing contained in this Agreement shall be deemed to constitute either party as the agent or representative of the other party, or both parties as joint venturers or partners for any purpose.
-9.6		Costs, Expenses and Attorneys' Fees.  If either party commences any action or proceeding against the other party to enforce or interpret this Agreement, the prevailing party in such action or proceeding shall be entitled to recover from the other party the actual costs, expenses and attorneys' fees (including all related costs and expenses), incurred by such prevailing party in connection with such action or proceeding and in connection with obtaining and enforcing any judgment or order thereby obtained.
-9.7		Entire Agreement; Amendment; Assignments.  This Agreement (a) constitutes the entire agreement of the parties hereto with respect to the subject matter hereof and supersedes all prior understandings and agreements, whether written or oral, as to such subject matter; (b) may be amended or modified only by a writing executed by an authorized officer of the party against whom enforcement is sought; (c) may not be assigned by Licensee without the written consent of Licensor; and (d) shall be binding upon and shall inure to the benefit of the respective successors and permitted assigns of the parties hereto.
-9.8		Remedies.  The parties acknowledge and agree that a breach or a threatened breach of this Agreement by Licensee would cause not only financial harm, but irreparable harm to Licensor, and that money damages will not provide an adequate remedy.  In the event of a breach or threatened breach of this Agreement by Licensee, Licensor shall, in addition to any other rights and remedies it may have, at law or in equity, be entitled to an injunction restraining, temporarily or permanently, Licensee from disclosing or using, in whole or in part, the Software and the Documentation, without the necessity of posting any bond or surety.
-9.9		Export.  Licensee shall not export or re-export, directly or indirectly (including via remote access), the Software or other information or materials provided by Licensor hereunder, to any country for which the United States or any other relevant jurisdiction requires any export license or other governmental approval at the time of export without first obtaining such license or approval.
-9.10	U.S. Government Restricted Rights.  If the Software is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), then the Government's rights in the Software and accompanying Documentation will be only as set forth in this Agreement; this is in accordance with 48 CFR 227.7201 through 227.7202-4 (for Department of Defense (DOD) acquisitions) and with 48 CFR 2.101 and 12.212 (for non-DOD acquisitions). 
-9.11	Acknowledgment.  Licensee acknowledges that (a) Licensee has read and understand this Agreement; (b) this Agreement has the same force and effect as a signed agreement; (c) issuance of this license does not constitute general publication of the Software or the Documentation; and (d) the individual accepting this Agreement on behalf of a corporation or other legal entity personally represents that he or she is duly authorized to accept this Agreement on behalf of such entity and that this Agreement is binding upon such entity.
-
-Licensor:	
-	
-L0PHT HOLDINGS, LLC
-34 WALDEN ST UNIT 308
-CONCORD MA 01742-2547
-
-
--------------------------------------------------------------------------------------------------------------------
-
-L0PHT HOLDINGS, LLC.
-L0PHTCRACK 7 ADMINISTRATOR VERSION SOFTWARE LICENSE AGREEMENT
-
-IMPORTANT: DO NOT CLICK ON THE "INSTALL" BUTTON UNTIL YOU ("LICENSEE") HAVE READ THIS AGREEMENT.  BY CLICKING ON THE INSTALL BUTTON (OR AUTHORIZING ANY OTHER PERSON TO DO SO), YOU ACCEPT ALL OF THE TERMS OF THIS AGREEMENT.  IF YOU DO NOT ACCEPT ALL OF THE TERMS OF THIS AGREEMENT (1) DO NOT CLICK ON THE INSTALL BUTTON, (2) DISCONTINUE THE LICENSING PROCESS BY CLICKING ON THE "CANCEL" BUTTON AND (3) DO NOT USE OR ATTEMPT TO USE THE SOFTWARE.
-
- 
-This L0PHTCRACK 7 Administrator Version software ("Software") is licensed, not sold, to Licensee for use only under the terms of this Software License Agreement ("Agreement").  L0PHT HOLDINGS, LLC. ("Licensor") and its licensors continue to own the Software and reserve any rights not expressly granted to Licensee.  
-
-1.	LICENSE GRANT.  Licensor grants to Licensee, subject to the terms and conditions of this Agreement, a limited, nonexclusive, nontransferable license to use the Software internally within Licensee"s own business on a single computer for which Licensee has received an unlock key and for which Licensee has paid the applicable license fee. If Licensee has purchased a  multiple-use license, Licensor grants toLicensee, subject to all other terms and conditions of this Agreement, a limited, nonexclusive, nontransferable license to use the Software internally within Licensee"s own business on the number computers specified in the license purchase.  All other aspects of this Agreement apply to multiple use license agreements. A license for the Software may not be shared, installed or used concurrently on different computers.  Licensee may not use the Software to perform Consulting Services (as defined below).  Use of the Software for Consulting Services requires a Consulting License, which may be obtained at www.l0phtcrack.com.  Licensee may make one copy for backup or archival purposes, but Licensee may not otherwise copy, reproduce, modify, rent, lease, sublicense, distribute, transfer, or time-share the Software or any manuals, guides or any other information or material that Licensor provides to Licensee for use with the Software ("Documentation").  Licensor reserves all rights not expressly granted to Licensee.  Ownership of and title to the Software and Documentation are and will be held by Licensor and its licensors.  Licensee acknowledges that the Software is not designed, licensed, or intended for use in the design, construction, operation or maintenance of any nuclear facility.  For the purposes of this Agreement, Consulting Services shall mean use of the Software in the performance of technical consulting services with respect to a third party"s computers and applications.
-
-2.	PROTECTION OF SOFTWARE.  Licensee acknowledges that the source code for the Software and other trade secrets embodied in the Software have not been, and are not going to be, disclosed to Licensee.  Licensee is not permitted (a) to decompile, disassemble, reverse compile, reverse assemble, reverse translate or otherwise reverse engineer the Software, (b) to use any similar means to discover the source code of the Software or to discover the trade secrets in the Software, (c) to otherwise circumvent any technological measure that controls access to the Software, (d) to use any Trojan horses, worms, time bombs, robots, spiders, crawlers, cancelbots or other computer programming routines intended to copy, damage, detrimentally interfere with, or expropriate the Software, or (e) to remove or alter any proprietary legends or notices contained in the Software or Documentation.
-
-3.	SUPPORT; UPGRADES.  This License Agreement entitles Licensee to receive from Licensor technical support via email, enhancements, and upgrades through December 31, 2011.  After that date
-maintanence must be purchased to receive technical support, enhancements and upgrades.
-
-4.	THIRD PARTY SOFTWARE.  The Software includes code licensed from third parties, which is provided subject to the following:
-
-A.	PuTTY is copyright 1997-2004 Simon Tatham.  Portions copyright Robert de Bath, Joris van Rantwijk, Delian, Delchev, Andreas Schultz, Jeroen Massar, Wez Furlong, Nicolas Barry, Justin Bradford, Ben Harris, and CORE SDI S.A.
-
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTIONWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-B.	This Software includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).  Copyright (c) 1998-2003 The OpenSSL Project.  All rights reserved. 
-
-1. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
-
-2.  All advertising materials mentioning features or use of this software must display the following acknowledgment:
-"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
-
-3.  The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org.  
-
-4.  Products derived from this software may not be called "OpenSSL" nor may "OpenSSL" appear in their names without prior written permission of the OpenSSL Project.
-
-5. Redistributions of any form whatsoever must retain the following acknowledgment:
-"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)".
-
-THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
-5.	LIMITED WARRANTIES AND RISK ALLOCATION.
-5.1	Limited Warranty; Disclaimer.  Licensor will replace, at no charge, defective media that are returned within ninety (90) days of shipment. Licensor warrants, for a period of ninety (90) days from the shipment date, that Software will perform in substantial compliance with the Documentation accompanying the Software on that hardware and operating system software for which it was designed, as stated in the documentation.  If, within such ninety (90) days period, Licensee reports to Licensor that Software is not performing as described above, Licensor will, at its option, repair or replace the Software.  The foregoing states the entire liability of Licensor with respect a breach of the warranty set forth herein.  EXCEPT AS OTHERWISE PROVIDED HEREIN, THE SOFTWARE AND THE DOCUMENTATION ARE BEING SUPPLIED TO LICENSEE ON AN "AS IS" BASIS. LICENSOR HEREBY EXPRESSLY DISCLAIMS ALL WARRANTIES REGARDING THE SOFTWARE AND THE DOCUMENTATION, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, AND TITLE, AND ALL WARRANTIES IMPLIED FROM ANY COURSE OF DEALING OR USAGE OF TRADE.  EXCEPT AS SPECIFICALLY SET FORTH HEREIN, LICENSOR DOES NOT WARRANT THAT (A) THE SOFTWARE WILL MEET LICENSEE"S REQUIREMENTS, (B) OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE, OR (C) DEFECTS WILL BE CORRECTED. 
-
-5.2	Limitation of Liability.   LICENSOR'S LIABILITY FOR DAMAGES IN CONNECTION WITH THIS AGREEMENT AND THE LICENSED SOFTWARE, REGARDLESS OF THE FORM OF ANY CLAIM OR ACTION, SHALL NOT EXCEED  THE LICENSE FEES PAID BY LICENSEE FOR THE SOFTWARE.  LICENSOR SHALL NOT BE LIABLE FOR ANY LOSS OF PROFITS, REVENUE OR DATA, INTERRUPTION OF BUSINESS, OR FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY KIND, WHETHER UNDER THIS AGREEMENT OR OTHERWISE ARISING IN ANY WAY IN CONNECTION WITH THE SOFTWARE, THE DOCUMENTATION OR THIS AGREEMENT, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSION OR LIMITATION MAY NOT APPLY TO LICENSEE.  THE FOREGOING LIMITATIONS WILL APPLY EVEN IF THE ABOVE STATED WARRANTY FAILS OF ITS ESSENTIAL PURPOSE.
-
-6.	OWNERSHIP.  Licensee acknowledges and agrees that, except as set forth in Section 4 above, Licensor (and its licensors) owns all right, title and interest in and to the Software, including without limitation any and all patents, patent applications, copyrights, trade secrets, trademarks and other intellectual property rights, and Licensee shall not take any action inconsistent with such title and ownership. Licensee shall not alter or remove any printed or on-screen copyright, trade secret, proprietary or other legal notices contained on or in copies of any Software or Documentation.  Licensee will not acquire any rights or licenses, except as expressly provided in this Agreement, under any patents, patent applications, copyrights, trade secrets, trademarks or other intellectual property rights on account of this Agreement or Licensee"s performance under this Agreement.  Licensee acknowledges and agrees that Licensor owns the trademarks and service marks as set forth at http://www.l0phtcrack.com/disclaimer.html. 
-
-7.	CONFIDENTIAL INFORMATION.  For the purposes of this Agreement, "Confidential Information" means all confidential, proprietary or secret information of Licensor provided to Licensee in connection with this Agreement, whether such information is disclosed (a) in writing or other tangible medium, (b) visually, or (c) orally.  Confidential Information does not include any portion of any such information to the extent that Licensee can clearly demonstrate that it: (a)  is or becomes known in the trade through no act or omission by Licensee; (b)  is disclosed to Licensee by a third party who has a right to make such disclosure without any obligation of confidentiality to Licensor; (c)  is known to Licensee before receipt thereof pursuant to this Agreement; or (d) is independently developed by Licensee without access to or use of such information.  Except for the specific rights granted by this Agreement, Licensee shall not use or disclose any Confidential Information without the written consent of Licensor.  Licensee shall use the highest commercially reasonable degree of care to protect the Confidential Information, including ensuring that Licensee"s employees or consultants with access to such Confidential Information have agreed in writing not to disclose the Confidential Information.  Licensee shall bear the responsibility for any breaches of confidentiality by Licensee"s employees and consultants.  Nothing herein shall prevent Licensee from disclosing all or part of the Confidential Information as necessary pursuant to the lawful requirement of a governmental agency or when disclosure is required by operation of law; provided that prior to any such disclosure, Licensee shall use reasonable efforts to (i) promptly notify Licensor in writing of such requirement to disclose, and (ii) cooperate fully with Licensor in protecting against any such disclosure or obtaining a protective order.  
-
-8.	TERM AND TERMINATION.  The term of this Agreement is effective as of the date Licensee accepts the terms of this Agreement by installing the Software and shall continue until terminated. This Agreement will terminate (i) if Licensee breaches any of the terms or conditions of this Agreement and fail to remedy such breach within thirty (30) days after being given notice thereof, (ii) if Licensee becomes insolvent or cease to do business; or (iii) if all or a substantial portion of Licensee"s assets are transferred to an assignee for the benefit of creditors, to a receiver or to a trustee in bankruptcy or similar laws and such proceeding is not dismissed within sixty (60) days.  Licensee agrees that in the event of the termination of this Agreement for any reason, Licensee"s license rights to use the Software and the Documentation are immediately terminated and Licensee will destroy any copies of the Software and Documentation in Licensee"s possession.  The rights and obligations of the parties under Sections 2 - 9 will survive the termination of this Agreement.  
-
-9.	GENERAL.
-9.1		Notices.  All communications under this Agreement shall be in writing or by confirmed fax.
-9.2		Severability.  In the event that any provision of this Agreement shall, in whole or in part, be determined to be invalid, unenforceable or void for any reason, such determination shall affect only the portion of such provision determined to be invalid, unenforceable or void, and shall not affect in any way the remainder of such provision or any other provision of this Agreement.  The parties agree that they will negotiate in good faith or will permit a court or arbitrator to replace any provision of this Agreement so held invalid, unenforceable or illegal with a valid provision that is as similar as possible in substance to the invalid, unenforceable or illegal provision.
-9.3		Waiver.  The waiver by either party of a breach or a default of any provision of this Agreement by the other party shall not be construed as a waiver of any succeeding breach of the same or any other provision, nor shall any delay or omission on the part of either party to exercise or avail itself of any right, power or privilege that it has, or may have hereunder, operate as a waiver of any right, power or privilege by such party.
-9.4		Governing Law; Jurisdiction & Venue.  This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts without taking into account its principles on conflicts of law.  The parties agree that the United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement.  Exclusive jurisdiction and venue for any litigation arising under this Agreement is in the federal and state courts located in Middlesex County, Massachusetts, USA and both parties hereby consent to such jurisdiction and venue for this purpose.
-9.5		Relationship of the Parties.  Nothing contained in this Agreement shall be deemed to constitute either party as the agent or representative of the other party, or both parties as joint venturers or partners for any purpose.
-9.6		Costs, Expenses and Attorneys' Fees.  If either party commences any action or proceeding against the other party to enforce or interpret this Agreement, the prevailing party in such action or proceeding shall be entitled to recover from the other party the actual costs, expenses and attorneys' fees (including all related costs and expenses), incurred by such prevailing party in connection with such action or proceeding and in connection with obtaining and enforcing any judgment or order thereby obtained.
-9.7		Entire Agreement; Amendment; Assignments.  This Agreement (a) constitutes the entire agreement of the parties hereto with respect to the subject matter hereof and supersedes all prior understandings and agreements, whether written or oral, as to such subject matter; (b) may be amended or modified only by a writing executed by an authorized officer of the party against whom enforcement is sought; (c) may not be assigned by Licensee without the written consent of Licensor; and (d) shall be binding upon and shall inure to the benefit of the respective successors and permitted assigns of the parties hereto.
-9.8		Remedies.  The parties acknowledge and agree that a breach or a threatened breach of this Agreement by Licensee would cause not only financial harm, but irreparable harm to Licensor, and that money damages will not provide an adequate remedy.  In the event of a breach or threatened breach of this Agreement by Licensee, Licensor shall, in addition to any other rights and remedies it may have, at law or in equity, be entitled to an injunction restraining, temporarily or permanently, Licensee from disclosing or using, in whole or in part, the Software and the Documentation, without the necessity of posting any bond or surety.
-9.9		Export.  Licensee shall not export or re-export, directly or indirectly (including via remote access), the Software or other information or materials provided by Licensor hereunder, to any country for which the United States or any other relevant jurisdiction requires any export license or other governmental approval at the time of export without first obtaining such license or approval.
-9.10	U.S. Government Restricted Rights.  If the Software is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), then the Government's rights in the Software and accompanying Documentation will be only as set forth in this Agreement; this is in accordance with 48 CFR 227.7201 through 227.7202-4 (for Department of Defense (DOD) acquisitions) and with 48 CFR 2.101 and 12.212 (for non-DOD acquisitions). 
-9.11	Acknowledgment.  Licensee acknowledges that (a) Licensee has read and understand this Agreement; (b) this Agreement has the same force and effect as a signed agreement; (c) issuance of this license does not constitute general publication of the Software or the Documentation; and (d) the individual accepting this Agreement on behalf of a corporation or other legal entity personally represents that he or she is duly authorized to accept this Agreement on behalf of such entity and that this Agreement is binding upon such entity.
-
-Licensor:		L0pht Holdings, LLC.
-
-L0PHT HOLDINGS, LLC
-34 WALDEN ST UNIT 308
-CONCORD MA 01742-2547
-
-
-
--------------------------------------------------------------------------------------------------------------------
-
-L0PHT HOLDINGS, LLC.
-L0PHTCRACK 7 ENTERPRISE VERSION SOFTWARE LICENSE AGREEMENT
-
-IMPORTANT: DO NOT CLICK ON THE "INSTALL" BUTTON UNTIL YOU ("LICENSEE") HAVE READ THIS AGREEMENT.  BY CLICKING ON THE INSTALL BUTTON (OR AUTHORIZING ANY OTHER PERSON TO DO SO), YOU ACCEPT ALL OF THE TERMS OF THIS AGREEMENT.  IF YOU DO NOT ACCEPT ALL OF THE TERMS OF THIS AGREEMENT (1) DO NOT CLICK ON THE INSTALL BUTTON, (2) DISCONTINUE THE LICENSING PROCESS BY CLICKING ON THE "CANCEL" BUTTON AND (3) DO NOT USE OR ATTEMPT TO USE THE SOFTWARE.
-
- 
-This L0PHTCRACK 7 Enterprise Version software ("Software") is licensed, not sold, to Licensee for use only under the terms of this Software License Agreement ("Agreement").  L0PHT HOLDINGS, LLC. ("Licensor") and its licensors continue to own the Software and reserve any rights not expressly granted to Licensee.  
-
-1.	LICENSE GRANT.  Licensor grants to Licensee, subject to the terms and conditions of this Agreement, a limited, nonexclusive, nontransferable license to use the Software internally within Licensee"s own business on a single computer for which Licensee has received an unlock key and for which Licensee has paid the applicable license fee. If Licensee has purchased a  multiple-use license, Licensor grants toLicensee, subject to all other terms and conditions of this Agreement, a limited, nonexclusive, nontransferable license to use the Software internally within Licensee"s own business on the number computers specified in the license purchase.  All other aspects of this Agreement apply to multiple use license agreements. A license for the Software may not be shared, installed or used concurrently on different computers.  Licensee may not use the Software to perform Consulting Services (as defined below).  Use of the Software for Consulting Services requires a Consulting License, which may be obtained at www.l0phtcrack.com.  Licensee may make one copy for backup or archival purposes, but Licensee may not otherwise copy, reproduce, modify, rent, lease, sublicense, distribute, transfer, or time-share the Software or any manuals, guides or any other information or material that Licensor provides to Licensee for use with the Software ("Documentation").  Licensor reserves all rights not expressly granted to Licensee.  Ownership of and title to the Software and Documentation are and will be held by Licensor and its licensors.  Licensee acknowledges that the Software is not designed, licensed, or intended for use in the design, construction, operation or maintenance of any nuclear facility.  For the purposes of this Agreement, Consulting Services shall mean use of the Software in the performance of technical consulting services with respect to a third party"s computers and applications.
-
-2.	PROTECTION OF SOFTWARE.  Licensee acknowledges that the source code for the Software and other trade secrets embodied in the Software have not been, and are not going to be, disclosed to Licensee.  Licensee is not permitted (a) to decompile, disassemble, reverse compile, reverse assemble, reverse translate or otherwise reverse engineer the Software, (b) to use any similar means to discover the source code of the Software or to discover the trade secrets in the Software, (c) to otherwise circumvent any technological measure that controls access to the Software, (d) to use any Trojan horses, worms, time bombs, robots, spiders, crawlers, cancelbots or other computer programming routines intended to copy, damage, detrimentally interfere with, or expropriate the Software, or (e) to remove or alter any proprietary legends or notices contained in the Software or Documentation.
-
-3.	SUPPORT; UPGRADES.  This License Agreement entitles Licensee to receive from Licensor technical support via email, enhancements, and upgrades through December 31, 2011.  After that date maintanence must be purchased to receive technical support, enhancements and upgrades.
-
-4.	THIRD PARTY SOFTWARE.  The Software includes code licensed from third parties, which is provided subject to the following:
-
-A.	PuTTY is copyright 1997-2004 Simon Tatham.  Portions copyright Robert de Bath, Joris van Rantwijk, Delian, Delchev, Andreas Schultz, Jeroen Massar, Wez Furlong, Nicolas Barry, Justin Bradford, Ben Harris, and CORE SDI S.A.
-
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.  IN NO EVENT SHALL THE COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTIONWITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-B.	This Software includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/).  Copyright (c) 1998-2003 The OpenSSL Project.  All rights reserved. 
-
-1. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution. 
-
-2.  All advertising materials mentioning features or use of this software must display the following acknowledgment:
-"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
-
-3.  The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to endorse or promote products derived from this software without prior written permission. For written permission, please contact openssl-core@openssl.org.  
-
-4.  Products derived from this software may not be called "OpenSSL" nor may "OpenSSL" appear in their names without prior written permission of the OpenSSL Project.
-
-5. Redistributions of any form whatsoever must retain the following acknowledgment:
-"This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit (http://www.openssl.org/)".
-
-THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE
-
-5.	LIMITED WARRANTIES AND RISK ALLOCATION.
-5.1	Limited Warranty; Disclaimer.  Licensor will replace, at no charge, defective media that are returned within ninety (90) days of shipment. Licensor warrants, for a period of ninety (90) days from the shipment date, that Software will perform in substantial compliance with the Documentation accompanying the Software on that hardware and operating system software for which it was designed, as stated in the documentation.  If, within such ninety (90) days period, Licensee reports to Licensor that Software is not performing as described above, Licensor will, at its option, repair or replace the Software.  The foregoing states the entire liability of Licensor with respect a breach of the warranty set forth herein.  EXCEPT AS OTHERWISE PROVIDED HEREIN, THE SOFTWARE AND THE DOCUMENTATION ARE BEING SUPPLIED TO LICENSEE ON AN "AS IS" BASIS. LICENSOR HEREBY EXPRESSLY DISCLAIMS ALL WARRANTIES REGARDING THE SOFTWARE AND THE DOCUMENTATION, EITHER EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, AND TITLE, AND ALL WARRANTIES IMPLIED FROM ANY COURSE OF DEALING OR USAGE OF TRADE.  EXCEPT AS SPECIFICALLY SET FORTH HEREIN, LICENSOR DOES NOT WARRANT THAT (A) THE SOFTWARE WILL MEET LICENSEE"S REQUIREMENTS, (B) OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR FREE, OR (C) DEFECTS WILL BE CORRECTED. 
-
-5.2	Limitation of Liability.   LICENSOR'S LIABILITY FOR DAMAGES IN CONNECTION WITH THIS AGREEMENT AND THE LICENSED SOFTWARE, REGARDLESS OF THE FORM OF ANY CLAIM OR ACTION, SHALL NOT EXCEED  THE LICENSE FEES PAID BY LICENSEE FOR THE SOFTWARE.  LICENSOR SHALL NOT BE LIABLE FOR ANY LOSS OF PROFITS, REVENUE OR DATA, INTERRUPTION OF BUSINESS, OR FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL OR PUNITIVE DAMAGES OF ANY KIND, WHETHER UNDER THIS AGREEMENT OR OTHERWISE ARISING IN ANY WAY IN CONNECTION WITH THE SOFTWARE, THE DOCUMENTATION OR THIS AGREEMENT, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.  SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE ABOVE EXCLUSION OR LIMITATION MAY NOT APPLY TO LICENSEE.  THE FOREGOING LIMITATIONS WILL APPLY EVEN IF THE ABOVE STATED WARRANTY FAILS OF ITS ESSENTIAL PURPOSE.
-
-6.	OWNERSHIP.  Licensee acknowledges and agrees that, except as set forth in Section 4 above, Licensor (and its licensors) owns all right, title and interest in and to the Software, including without limitation any and all patents, patent applications, copyrights, trade secrets, trademarks and other intellectual property rights, and Licensee shall not take any action inconsistent with such title and ownership. Licensee shall not alter or remove any printed or on-screen copyright, trade secret, proprietary or other legal notices contained on or in copies of any Software or Documentation.  Licensee will not acquire any rights or licenses, except as expressly provided in this Agreement, under any patents, patent applications, copyrights, trade secrets, trademarks or other intellectual property rights on account of this Agreement or Licensee"s performance under this Agreement.  Licensee acknowledges and agrees that Licensor owns the trademarks and service marks as set forth at http://www.l0phtcrack.com/disclaimer.html. 
-
-7.	CONFIDENTIAL INFORMATION.  For the purposes of this Agreement, "Confidential Information" means all confidential, proprietary or secret information of Licensor provided to Licensee in connection with this Agreement, whether such information is disclosed (a) in writing or other tangible medium, (b) visually, or (c) orally.  Confidential Information does not include any portion of any such information to the extent that Licensee can clearly demonstrate that it: (a)  is or becomes known in the trade through no act or omission by Licensee; (b)  is disclosed to Licensee by a third party who has a right to make such disclosure without any obligation of confidentiality to Licensor; (c)  is known to Licensee before receipt thereof pursuant to this Agreement; or (d) is independently developed by Licensee without access to or use of such information.  Except for the specific rights granted by this Agreement, Licensee shall not use or disclose any Confidential Information without the written consent of Licensor.  Licensee shall use the highest commercially reasonable degree of care to protect the Confidential Information, including ensuring that Licensee"s employees or consultants with access to such Confidential Information have agreed in writing not to disclose the Confidential Information.  Licensee shall bear the responsibility for any breaches of confidentiality by Licensee"s employees and consultants.  Nothing herein shall prevent Licensee from disclosing all or part of the Confidential Information as necessary pursuant to the lawful requirement of a governmental agency or when disclosure is required by operation of law; provided that prior to any such disclosure, Licensee shall use reasonable efforts to (i) promptly notify Licensor in writing of such requirement to disclose, and (ii) cooperate fully with Licensor in protecting against any such disclosure or obtaining a protective order.  
-
-8.	TERM AND TERMINATION.  The term of this Agreement is effective as of the date Licensee accepts the terms of this Agreement by installing the Software and shall continue until terminated. This Agreement will terminate (i) if Licensee breaches any of the terms or conditions of this Agreement and fail to remedy such breach within thirty (30) days after being given notice thereof, (ii) if Licensee becomes insolvent or cease to do business; or (iii) if all or a substantial portion of Licensee"s assets are transferred to an assignee for the benefit of creditors, to a receiver or to a trustee in bankruptcy or similar laws and such proceeding is not dismissed within sixty (60) days.  Licensee agrees that in the event of the termination of this Agreement for any reason, Licensee"s license rights to use the Software and the Documentation are immediately terminated and Licensee will destroy any copies of the Software and Documentation in Licensee"s possession.  The rights and obligations of the parties under Sections 2 - 9 will survive the termination of this Agreement.  
-
-9.	GENERAL.
-9.1		Notices.  All communications under this Agreement shall be in writing or by confirmed fax.
-9.2		Severability.  In the event that any provision of this Agreement shall, in whole or in part, be determined to be invalid, unenforceable or void for any reason, such determination shall affect only the portion of such provision determined to be invalid, unenforceable or void, and shall not affect in any way the remainder of such provision or any other provision of this Agreement.  The parties agree that they will negotiate in good faith or will permit a court or arbitrator to replace any provision of this Agreement so held invalid, unenforceable or illegal with a valid provision that is as similar as possible in substance to the invalid, unenforceable or illegal provision.
-9.3		Waiver.  The waiver by either party of a breach or a default of any provision of this Agreement by the other party shall not be construed as a waiver of any succeeding breach of the same or any other provision, nor shall any delay or omission on the part of either party to exercise or avail itself of any right, power or privilege that it has, or may have hereunder, operate as a waiver of any right, power or privilege by such party.
-9.4		Governing Law; Jurisdiction & Venue.  This Agreement shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts without taking into account its principles on conflicts of law.  The parties agree that the United Nations Convention on Contracts for the International Sale of Goods will not apply to this Agreement.  Exclusive jurisdiction and venue for any litigation arising under this Agreement is in the federal and state courts located in Middlesex County, Massachusetts, USA and both parties hereby consent to such jurisdiction and venue for this purpose.
-9.5		Relationship of the Parties.  Nothing contained in this Agreement shall be deemed to constitute either party as the agent or representative of the other party, or both parties as joint venturers or partners for any purpose.
-9.6		Costs, Expenses and Attorneys' Fees.  If either party commences any action or proceeding against the other party to enforce or interpret this Agreement, the prevailing party in such action or proceeding shall be entitled to recover from the other party the actual costs, expenses and attorneys' fees (including all related costs and expenses), incurred by such prevailing party in connection with such action or proceeding and in connection with obtaining and enforcing any judgment or order thereby obtained.
-9.7		Entire Agreement; Amendment; Assignments.  This Agreement (a) constitutes the entire agreement of the parties hereto with respect to the subject matter hereof and supersedes all prior understandings and agreements, whether written or oral, as to such subject matter; (b) may be amended or modified only by a writing executed by an authorized officer of the party against whom enforcement is sought; (c) may not be assigned by Licensee without the written consent of Licensor; and (d) shall be binding upon and shall inure to the benefit of the respective successors and permitted assigns of the parties hereto.
-9.8		Remedies.  The parties acknowledge and agree that a breach or a threatened breach of this Agreement by Licensee would cause not only financial harm, but irreparable harm to Licensor, and that money damages will not provide an adequate remedy.  In the event of a breach or threatened breach of this Agreement by Licensee, Licensor shall, in addition to any other rights and remedies it may have, at law or in equity, be entitled to an injunction restraining, temporarily or permanently, Licensee from disclosing or using, in whole or in part, the Software and the Documentation, without the necessity of posting any bond or surety.
-9.9		Export.  Licensee shall not export or re-export, directly or indirectly (including via remote access), the Software or other information or materials provided by Licensor hereunder, to any country for which the United States or any other relevant jurisdiction requires any export license or other governmental approval at the time of export without first obtaining such license or approval.
-9.10	U.S. Government Restricted Rights.  If the Software is being acquired by or on behalf of the U.S. Government or by a U.S. Government prime contractor or subcontractor (at any tier), then the Government's rights in the Software and accompanying Documentation will be only as set forth in this Agreement; this is in accordance with 48 CFR 227.7201 through 227.7202-4 (for Department of Defense (DOD) acquisitions) and with 48 CFR 2.101 and 12.212 (for non-DOD acquisitions). 
-9.11	Acknowledgment.  Licensee acknowledges that (a) Licensee has read and understand this Agreement; (b) this Agreement has the same force and effect as a signed agreement; (c) issuance of this license does not constitute general publication of the Software or the Documentation; and (d) the individual accepting this Agreement on behalf of a corporation or other legal entity personally represents that he or she is duly authorized to accept this Agreement on behalf of such entity and that this Agreement is binding upon such entity.
-
-Licensor:		L0pht Holdings, LLC.
-
-L0PHT HOLDINGS, LLC
-34 WALDEN ST UNIT 308
-CONCORD MA 01742-2547
+Furthermore, as the copyright holder for the bcrypt (Blowfish-based
+password hashing) implementation found in John the Ripper, I have placed
+a derived version of this implementation in the public domain.  This
+derived version may be obtained at:
+
+	http://www.openwall.com/crypt/
+
+The intent is to provide modern password hashing for your servers and
+your software (where the GPL restrictions could be a problem).
+
+
+	Commercial licensing.
+
+Commercial licenses (non-GPL) are available upon request.
+
+
+	Copyright holder contact information.
+
+For the core John the Ripper tree:
+
+Alexander Peslyak aka Solar Designer <solar at openwall.com>
+
+(There are additional copyright holders for "community enhanced" -jumbo
+versions of John the Ripper.)
+
+$Owl$
+
+
+
+LibSSH2 License
+------------------------------
+/* Copyright (c) 2004-2007 Sara Golemon <sarag@libssh2.org>
+ * Copyright (c) 2005,2006 Mikhail Gusarov <dottedmag@dottedmag.net>
+ * Copyright (c) 2006-2007 The Written Word, Inc.
+ * Copyright (c) 2007 Eli Fant <elifantu@mail.ru>
+ * Copyright (c) 2009-2021 Daniel Stenberg
+ * Copyright (C) 2008, 2009 Simon Josefsson
+ * Copyright (c) 2000 Markus Friedl
+ * Copyright (c) 2015 Microsoft Corp.
+ * All rights reserved.
+ *
+ * Redistribution and use in source and binary forms,
+ * with or without modification, are permitted provided
+ * that the following conditions are met:
+ *
+ *   Redistributions of source code must retain the above
+ *   copyright notice, this list of conditions and the
+ *   following disclaimer.
+ *
+ *   Redistributions in binary form must reproduce the above
+ *   copyright notice, this list of conditions and the following
+ *   disclaimer in the documentation and/or other materials
+ *   provided with the distribution.
+ *
+ *   Neither the name of the copyright holder nor the names
+ *   of any other contributors may be used to endorse or
+ *   promote products derived from this software without
+ *   specific prior written permission.
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND
+ * CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES,
+ * INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+ * OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR
+ * CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+ * BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+ * SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+ * INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,
+ * WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+ * NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE
+ * USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY
+ * OF SUCH DAMAGE.
+ */
+
+
+
+
+OpenSSL licenses
+------------------
+
+
+  LICENSE ISSUES
+  ==============
+
+  The OpenSSL toolkit stays under a double license, i.e. both the conditions of
+  the OpenSSL License and the original SSLeay license apply to the toolkit.
+  See below for the actual license texts. Actually both licenses are BSD-style
+  Open Source licenses. In case of any license issues related to OpenSSL
+  please contact openssl-core@openssl.org.
+
+  OpenSSL License
+  ---------------
+
+/* ====================================================================
+ * Copyright (c) 1998-2018 The OpenSSL Project.  All rights reserved.
+ *
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ *
+ * 1. Redistributions of source code must retain the above copyright
+ *    notice, this list of conditions and the following disclaimer. 
+ *
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in
+ *    the documentation and/or other materials provided with the
+ *    distribution.
+ *
+ * 3. All advertising materials mentioning features or use of this
+ *    software must display the following acknowledgment:
+ *    "This product includes software developed by the OpenSSL Project
+ *    for use in the OpenSSL Toolkit. (http://www.openssl.org/)"
+ *
+ * 4. The names "OpenSSL Toolkit" and "OpenSSL Project" must not be used to
+ *    endorse or promote products derived from this software without
+ *    prior written permission. For written permission, please contact
+ *    openssl-core@openssl.org.
+ *
+ * 5. Products derived from this software may not be called "OpenSSL"
+ *    nor may "OpenSSL" appear in their names without prior written
+ *    permission of the OpenSSL Project.
+ *
+ * 6. Redistributions of any form whatsoever must retain the following
+ *    acknowledgment:
+ *    "This product includes software developed by the OpenSSL Project
+ *    for use in the OpenSSL Toolkit (http://www.openssl.org/)"
+ *
+ * THIS SOFTWARE IS PROVIDED BY THE OpenSSL PROJECT ``AS IS'' AND ANY
+ * EXPRESSED OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+ * PURPOSE ARE DISCLAIMED.  IN NO EVENT SHALL THE OpenSSL PROJECT OR
+ * ITS CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+ * SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+ * NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+ * LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT,
+ * STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+ * ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED
+ * OF THE POSSIBILITY OF SUCH DAMAGE.
+ * ====================================================================
+ *
+ * This product includes cryptographic software written by Eric Young
+ * (eay@cryptsoft.com).  This product includes software written by Tim
+ * Hudson (tjh@cryptsoft.com).
+ *
+ */
+
+ Original SSLeay License
+ -----------------------
+
+/* Copyright (C) 1995-1998 Eric Young (eay@cryptsoft.com)
+ * All rights reserved.
+ *
+ * This package is an SSL implementation written
+ * by Eric Young (eay@cryptsoft.com).
+ * The implementation was written so as to conform with Netscapes SSL.
+ * 
+ * This library is free for commercial and non-commercial use as long as
+ * the following conditions are aheared to.  The following conditions
+ * apply to all code found in this distribution, be it the RC4, RSA,
+ * lhash, DES, etc., code; not just the SSL code.  The SSL documentation
+ * included with this distribution is covered by the same copyright terms
+ * except that the holder is Tim Hudson (tjh@cryptsoft.com).
+ * 
+ * Copyright remains Eric Young's, and as such any Copyright notices in
+ * the code are not to be removed.
+ * If this package is used in a product, Eric Young should be given attribution
+ * as the author of the parts of the library used.
+ * This can be in the form of a textual message at program startup or
+ * in documentation (online or textual) provided with the package.
+ * 
+ * Redistribution and use in source and binary forms, with or without
+ * modification, are permitted provided that the following conditions
+ * are met:
+ * 1. Redistributions of source code must retain the copyright
+ *    notice, this list of conditions and the following disclaimer.
+ * 2. Redistributions in binary form must reproduce the above copyright
+ *    notice, this list of conditions and the following disclaimer in the
+ *    documentation and/or other materials provided with the distribution.
+ * 3. All advertising materials mentioning features or use of this software
+ *    must display the following acknowledgement:
+ *    "This product includes cryptographic software written by
+ *     Eric Young (eay@cryptsoft.com)"
+ *    The word 'cryptographic' can be left out if the rouines from the library
+ *    being used are not cryptographic related :-).
+ * 4. If you include any Windows specific code (or a derivative thereof) from 
+ *    the apps directory (application code) you must include an acknowledgement:
+ *    "This product includes software written by Tim Hudson (tjh@cryptsoft.com)"
+ * 
+ * THIS SOFTWARE IS PROVIDED BY ERIC YOUNG ``AS IS'' AND
+ * ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+ * IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+ * ARE DISCLAIMED.  IN NO EVENT SHALL THE AUTHOR OR CONTRIBUTORS BE LIABLE
+ * FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+ * DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS
+ * OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+ * HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT
+ * LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+ * OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
+ * SUCH DAMAGE.
+ * 
+ * The licence and distribution terms for any publically available version or
+ * derivative of this code cannot be changed.  i.e. this code cannot simply be
+ * copied and put under another distribution licence
+ * [including the GNU Public Licence.]
+ */
+
+
+
+QtKeyChain License
+-------------------------
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions
+are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+2. Redistributions in binary form must reproduce the above copyright
+   notice, this list of conditions and the following disclaimer in the
+   documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY THE AUTHOR ``AS IS'' AND ANY EXPRESS OR
+IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY DIRECT, INDIRECT,
+INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT
+NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
+THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
